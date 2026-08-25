@@ -1,0 +1,5 @@
+<article class="contribution-card" data-search="{{ contribution.data.title | lower }} {{ contribution.data.author | lower }} {{ contribution.data.topics | join(' ') | lower }} {{ contribution.data.excerpt | lower }}">
+  <div class="contribution-card__number">{{ loop.index | padNumber }}</div><div>
+    <p class="eyebrow">{{ contribution.data.date | readableDate }}</p><h3><a href="{{ contribution.url }}">{{ contribution.data.title }}</a></h3><p>{{ contribution.data.excerpt }}</p><a class="text-link" href="{{ contribution.url }}">Continue reading <span aria-hidden="true">-&gt;</span></a>
+  </div>
+</article>

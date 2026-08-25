@@ -1,0 +1,4 @@
+---
+layout: base.njk
+---
+<article class="article-shell"><header class="article-header"><div class="article-header__inner"><p class="eyebrow">{{ date | readableDate }}</p><h1>{{ title }}</h1><p class="article-author">Written by <strong>{{ author }}</strong></p>{% if affiliation %}<p class="article-affiliation">{{ affiliation }}</p>{% endif %}</div></header>{% if hero %}<figure class="article-hero-wrap"><img class="article-hero" src="{{ hero }}" alt="{{ heroAlt or title }}"></figure>{% endif %}{% if embed %}<div class="media-embed"><iframe src="{{ embed }}" title="{{ title }}" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe><p><a class="text-link" href="{{ externalUrl or embed }}">Open this experience in a new tab <span aria-hidden="true">-&gt;</span></a></p></div>{% endif %}<div class="prose">{{ content | safe }}</div></article>

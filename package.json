@@ -1,0 +1,25 @@
+{
+  "name": "futures.clir.org",
+  "version": "1.0.0",
+  "description": "A static, Markdown-driven edition of the CLIR Curated Futures Project.",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "postcss src/css/site.css -o public/assets/site.css",
+    "build:site": "eleventy",
+    "build": "npm run build:css && npm run build:site",
+    "start": "npm run build:css && eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.6",
+    "@tailwindcss/postcss": "^4.3.3",
+    "markdown-it": "^15.0.0",
+    "markdown-it-anchor": "^9.2.1",
+    "postcss": "^8.5.26",
+    "postcss-cli": "^11.0.1",
+    "tailwindcss": "^4.3.0"
+  }
+}

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ description or site.description }}">
+  <title>{{ title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/site.css">
+</head>
+<body class="bg-paper text-ink">
+  <a class="skip-link" href="#content">Skip to content</a>
+  <div class="clir-bar"><div class="clir-bar__inner"><div class="clir-links"><a href="https://www.clir.org/">CLIR</a><a href="https://www.clir.org/fellowships/">Fellowships &amp; Grants</a><a href="https://www.diglib.org/">DLF</a><a href="https://www.clir.org/pubs/">Publications</a><a href="https://www.clir.org/global/">CLIR Global</a></div><div class="clir-actions"><a href="https://www.clir.org/about/community/">Join</a><a href="https://www.clir.org/give/">Give</a></div></div></div>
+  <header class="site-header"><div class="site-header__inner">
+    <a class="wordmark" href="/" aria-label="Curated Futures Project home"><span class="wordmark__mark" aria-hidden="true">CF</span><span class="wordmark__text">Curated Futures Project<small>{{ site.tagline }}</small></span></a>
+    <nav aria-label="Primary navigation">{% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}</nav>
+  </div></header>
+  <main id="content">{{ content | safe }}</main>
+  <footer class="site-footer"><div><strong>Curated Futures Project</strong><br>Created through the CLIR Postdoctoral Fellowship Program with support from The Andrew W. Mellon Foundation.</div><div><strong>Council on Library and Information Resources</strong><br>1800 Diagonal Rd, Suite 600<br>Alexandria, VA 22314</div><div><a href="{{ site.licenseUrl }}">{{ site.license }}</a><br><a href="mailto:postdoc@clir.org">postdoc@clir.org</a></div></footer>
+  <script src="/js/search.js" defer></script>
+</body>
+</html>
