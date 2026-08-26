@@ -889,6 +889,55 @@ body {
   }
 }
 
+.scroll-top {
+  position: fixed;
+  right: clamp(1rem, 3vw, 2rem);
+  bottom: clamp(1rem, 3vw, 2rem);
+  z-index: 30;
+  width: 48px;
+  height: 48px;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  background: var(--cf-wine);
+  color: #fff;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.scroll-top[hidden] {
+  display: none;
+}
+.scroll-top:hover {
+  background: var(--cf-pink);
+}
+.scroll-top:focus-visible {
+  outline: 3px solid var(--cf-yellow);
+  outline-offset: 3px;
+}
+.scroll-top svg {
+  width: 24px;
+  height: 24px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2.5;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+@media print {
+  .scroll-top {
+    display: none !important;
+  }
+}
+
 /* Curated Futures landing page — values mirror the current Elementor site. */
 :root {
   --cf-green: #6ec38a;
@@ -1402,6 +1451,51 @@ body {
 .about-section.about-section--references p a:focus {
   color: #fff;
 }
+.about-section--downloads {
+  padding-top: 80px;
+  background: #fff;
+}
+.about-section--downloads .about-section__inner {
+  margin-top: 0;
+}
+.about-section--downloads .zigzag {
+  background-color: #6ec38a;
+}
+.about-section--downloads h3 {
+  margin: 30px 0 20px;
+  font-family: Montserrat, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.about-section--downloads ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.about-section--downloads li {
+  margin: 0;
+  line-height: 2;
+}
+.about-section--downloads li a {
+  display: inline-flex;
+  align-items: center;
+  color: #8d1d46;
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.about-section--downloads li a:hover,
+.about-section--downloads li a:focus {
+  color: #1e1e1e;
+}
+.about-section--downloads .download-icon {
+  flex: 0 0 14px;
+  width: 14px;
+  height: 14px;
+  margin-right: 10px;
+  fill: #51a46c;
+}
 .about-section__inner {
   max-width: 850px;
   margin: auto;
@@ -1419,12 +1513,7 @@ body {
   margin-bottom: 20px;
 }
 .about-section .zigzag--orange {
-  background: repeating-linear-gradient(
-    135deg,
-    transparent 0 10px,
-    var(--cf-orange) 11px 14px,
-    transparent 15px 22px
-  );
+  background-color: var(--cf-orange);
 }
 
 .about-section .footnotes p {
