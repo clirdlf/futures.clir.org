@@ -10,7 +10,7 @@ layout: base.njk
                 </div>
             </header>
         {% endif %}
-        <div class="article-byline">
+        <div class="article-byline{% if author and not authors %} article-byline--single{% endif %}">
             <p class="eyebrow">Written by</p>
             <p class="article-author">
                 {% if authors %}
@@ -26,6 +26,9 @@ layout: base.njk
             </p>
             {% if affiliation %}
                 <p class="article-affiliation">{{ affiliation | safe }}</p>
+            {% endif %}
+            {% if editors_note %}
+                <p class="article-editors-note"><em>{{ editors_note | safe }}</em></p>
             {% endif %}
         </div>
         {% if embed %}
