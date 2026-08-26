@@ -57,7 +57,7 @@
   font-size: 18px;
   color: #111;
 }
-.present-encounters .article-author {
+.article-feature .article-author {
   display: flex;
   justify-content: center;
   gap: 75px;
@@ -67,17 +67,17 @@
   letter-spacing: .04em;
   text-transform: uppercase;
 }
-.present-encounters .article-author a {
+.article-feature .article-author a {
   color: inherit;
   text-decoration: none;
 }
-.present-encounters .article-affiliation {
+.article-feature .article-affiliation {
   margin: 0;
   color: #777;
   /* font-family: Georgia, serif; */
   font-size: 14px;
 }
-.present-encounters .article-prose {
+.article-feature .article-prose {
   max-width: none;
   margin: 0;
   padding: 0;
@@ -138,13 +138,13 @@
   text-decoration-line: underline;
   text-decoration-color: currentColor;
 }
-.present-encounters .article-section--references {
+.article-feature .article-section--references {
   position: relative;
   overflow: hidden;
   background: #510420;
   color: #fff;
 }
-.present-encounters .article-section--references::before {
+.article-feature .article-section--references::before {
   position: absolute;
   inset: 0;
   background: url("/assets/references-paper.png") repeat;
@@ -153,14 +153,14 @@
   opacity: 0.26;
   pointer-events: none;
 }
-.present-encounters .article-section--references > * {
+.article-feature .article-section--references > * {
   position: relative;
 }
-.present-encounters .article-section--references h2 {
+.article-feature .article-section--references h2 {
   margin-bottom: 32px;
   color: #fff;
 }
-.present-encounters .article-section--references h2::after {
+.article-feature .article-section--references h2::after {
   display: block;
   width: 80px;
   height: 12px;
@@ -174,20 +174,20 @@
   -webkit-mask-size: 26.7px 100%;
   mask-size: 26.7px 100%;
 }
-.present-encounters .article-section--references p {
+.article-feature .article-section--references p {
   margin: 0 0 20px;
   font-size: 16px;
   line-height: 2;
 }
-.present-encounters .article-section--references a {
+.article-feature .article-section--references a {
   color: #f1c41e;
   text-decoration-color: currentColor;
 }
-.present-encounters .article-section--references a:hover,
-.present-encounters .article-section--references a:focus-visible {
+.article-feature .article-section--references a:hover,
+.article-feature .article-section--references a:focus-visible {
   color: #fff;
 }
-.present-encounters .article-section--references em {
+.article-feature .article-section--references em {
   color: inherit;
 }
 .article-section--conversation {
