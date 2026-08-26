@@ -1,7 +1,12 @@
 ---
 layout: article.njk
 title: "Present Encounters: Digital Humanities Meet Afrofuturism"
-author: Synatra A. Smith and Jasmine L. Clark
+authors:
+  - name: Synatra A. Smith
+    url: https://orcid.org/0000-0003-1305-6997
+  - name: Jasmine L. Clark
+    url: https://orcid.org/0000-0003-0674-6535
+affiliation: "Library and Archives, Philadelphia Museum of Art <sup>1</sup> and the Loretta C. Duckworth Scholars Studio, Temple University Libraries <sup>1, 2</sup>"
 date: 2023-05
 order: 1
 topics: [Afrofuturism, digital humanities, symposium]
@@ -11,24 +16,27 @@ permalink: /present-encounters/
 ---
 
 <section class="article-section article-section--tint">
+{% renderTemplate "md" %}
 
-The primary impetus for the Present Encounters: Digital Humanities Meet Afrofuturism symposium hosted on April 21–22, 2022 at Temple University Libraries and, by extension, this special issue was to employ Afrofuturism as a conceptual model to develop an inclusive and accessible digital humanities practice centered around the needs of the Black studies community. Cultural critic Mark Dery explains that he coined the term Afrofuturism during a period in which cyberpunk culture was highly Eurocentric with a “deeply body-phobic vision of futurity and of technology, shot through with a loathing for the corporeal, the feminine, and ‘the Other’” (quoted in Barber, 2018, p. 139). Instead, Afrofuturism provides a multigenerational, multi-genre reconciliation of technocentric trends within cyberpunk spaces with an aesthetic and anti-racist practice that responds to a period during which there was a sort of fragmentation occurring between one’s conditions and what one creates (Barber, 2018; Lavender III and Yaszek 2020). Relatedly, sociologist and hip hop scholar Tricia Rose comments, “If you’re going to imagine yourself in the future, you have to imagine where you’ve come from; ancestor worship in Black culture is a way of countering a historical erasure” (quoted in Dery, 1994, p. 215), which underscores the political project embedded within Afrofuturism to counter the “systematic, conscientious, and massive destruction of African cultural remnants” (Samuel R. Delany quoted in Dery, 1994, p. 191).
+The primary impetus for the Present Encounters: Digital Humanities Meet Afrofuturism symposium hosted on April 21-22, 2022 at Temple University Libraries and, by extension, this special issue was to employ Afrofuturism as a conceptual model to develop an inclusive and accessible digital humanities practice centered around the needs of the Black studies community. Cultural critic Mark Dery explains that he coined the term Afrofuturism during a period in which cyberpunk culture was highly Eurocentric with a “deeply body-phobic vision of futurity and of technology, shot through with a loathing for the corporeal, the feminine, and ‘the Other’” (quoted in Barber, 2018, p. 139). Instead, Afrofuturism provides a multigenerational, multi-genre reconciliation the technocentric trends within cyberpunk spaces with an aesthetic and anti-racist practice that responds to a period during which there was a sort of fragmentation occurring between one’s conditions and what one creates (Barber, 2018; Lavender III and Yaszek 2020). Relatedly, sociologist and hip hop scholar Tricia Rose comments, “If you’re going to imagine yourself in the future, you have to imagine where you’ve come from; ancestor worship in Black culture is a way of countering a historical erasure” (quoted in Dery, 1994, p. 215), which underscores the political project embedded within Afrofuturism to counter the “systematic, conscientious, and massive destruction of African cultural remnants” (Samuel R. Delaney quoted in Dery, 1994, p. 191).
 
 Interdisciplinary scholar of library and information science André Brock refers to this framework as “Black technoculture” where,
 
-> Technoculture is the set of relations between, and politics of, culture and technology… Black Technoculture proffers a third way [to engage with Blackness, the technical, and the technological]: incorporating the materiality, temporality, and meaning-making capacities of the Black digital and its practitioners as a technological mediation of the Black ‘post-present’ (2020, pp. 7–8).
+> Technoculture is the set of relations between, and politics of, culture and technology… Black Technoculture proffers a third way \[to engage with Blackness, the technical, and the technological\]: incorporating the materiality, temporality, and meaning-making capacities of the Black digital and its practitioners as a technological mediation of the Black ‘post-present’ (2020, pp. 7-8).
 
 Social media provides a space for Black users to develop a unique technoculture that is shaped by and shapes the tool itself, as discussed within this issue. Brock goes on to discuss the roles of Afro-pessimism and Afro-optimism wherein the former focuses on the experiences of white supremacy and Black oppression and the latter underscores the moments when “Black identity performances and enactments are appreciated and evaluated in situ…From this perspective, Black technoculture asks: what if modernity’s alienation is a feature and not a bug for Black folk?” (2020, p. 12, emphasis in original). According to this model, Blackness is not treated as just data or just history or just discourse; it is a living thing in constant flux based on our humanity throughout time. Additionally, Blackness is not post-human and therefore centering around magic and cyborgs does not capture the fullness of Black identities and experiences. Black technoculture seeks to bring together the digital, no matter how mundane and banal, with identity construction and performances. Black synchronous and asynchronous communication via digital means provides a way to collectively and continuously reinvent Black culture (Brock 2020).
 
 Brock (2018) also proposes a critical technocultural discourse analysis (CTDA) methodological toolkit and conceptual framework that decenters dominant culture hegemony in the investigation of cultural digital practices and discourse, and instead employs cultural relativism to ground itself within the perspective of the examined community. In her discussion of augmented space, digital artist and cultural critic Nettrice R. Gaskins explains,
 
-> Creators of new media applications and interfaces should consider whether cultural artforms become irrelevant and invisible or if designers end up creating new experiences in which the spatial and information layers are equally important. Artists and designers can interrogate the dynamic between creative expression and information as well as how these aspects might function differently in today’s digital culture (2016, p. 40).
+Creators of new media applications and interfaces should consider whether cultural artforms become irrelevant and invisible or if designers end up creating new experiences in which the spatial and information layers are equally important. Artists and designers can interrogate the dynamic between creative expression and information as well as how these aspects might function differently in today’s digital culture (2016, p. 40).
 
 Taken together, Brock and Gaskins propose an Afrofuturist digital humanities pedagogy and practice grounded in Blackness that considers the relationship between the tool, the developer, the user, and the audience (see also McPherson, 2012). This approach should also incorporate what humanities scholar Kara Keeling calls Queer OS: an inclusive approach that integrates new media studies, queer theory, and race and gender studies under a singular umbrella to generate “a society-level operating system…to facilitate and support imaginative, unexpected, and ethical relations” (2014, p. 154). Queer OS aims to work beyond the “master’s tools” to develop and/or underscore alternate epistemologies.
+{% endrenderTemplate %}
 
 </section>
 
 <section class="article-section article-section--overview">
+{% renderTemplate "md" %}
 
 ## Symposium Overview and Issue Outline
 
@@ -40,17 +48,26 @@ Five of the presentations from the symposium are included in this issue as artic
 
 *May 2023*
 
-1. Watch the [opening remarks and keynote address](https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b).
-2. Watch the [*Black Lives Always Mattered!* discussion](https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d).
-3. Watch the [Scholars Studio project presentations](https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786).
-4. Watch [Clark’s presentation](https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751).
-5. Watch [Colmon’s presentation](https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988).
-6. Watch [Gipson’s presentation](https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac).
-7. Watch [Asante’s closing remarks](https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365).
+<sup>1</sup> Watch the opening remarks and keynote address here: [https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b](https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b).   
+
+<sup>2</sup> Watch the _Black Lives Always Mattered!_ discussion here: [https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d](https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d). 
+
+<sup>3</sup> Watch the Scholars Studio project presentations here: [https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786](https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786)
+
+<sup>4</sup> Watch Clark’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751](https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751)
+
+<sup>5</sup> Watch Colmon’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988](https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988)
+
+<sup>6</sup> Watch Gipson’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac](https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac). 
+
+<sup>7</sup> Watch Asante’s closing remarks here: [https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365](https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365).
+
+{% endrenderTemplate %}
 
 </section>
 
 <section class="article-section article-section--references">
+{% renderTemplate "md" %}
 
 ## References
 
@@ -71,13 +88,8 @@ Keeling, K. (2014). Queer OS. *Cinema Journal, 53*(2), 152–158.
 Lavender III, I., & Yaszek, L. (2020). The First Death of Afrofuturism. *Extrapolation, 61*(1–2), 1–6.
 
 McPherson, T. (2012). Why are the Digital Humanities So White? Or Thinking the Histories of Race and Computation. In M. K. Gold (Ed.), *Debates in the Digital Humanities* (pp. 139–160). University of Minnesota Press.
+{% endrenderTemplate %}
 
 </section>
 
-<section class="article-section article-section--conversation">
 
-## Join the Conversation!
-
-We welcome and encourage your comments. You must [create a free account](https://futures.clir.org/create-account/) to participate.
-
-</section>

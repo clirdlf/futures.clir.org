@@ -2,19 +2,68 @@
 layout: base.njk
 ---
 <article class="article-shell{% if page.url == '/present-encounters/' %} present-encounters{% endif %}">
-{% if page.url == '/present-encounters/' %}
-{% if hero %}<header class="article-header" style="background-image:url('{{ hero }}')"><div class="article-header__inner"><h1>{{ title }}</h1></div></header>{% endif %}
-  <div class="article-byline">
-    <p class="eyebrow">Written by</p>
-    <p class="article-author"><a href="https://orcid.org/0000-0003-1305-6997">Synatra A. Smith</a><a href="https://orcid.org/0000-0003-0674-6535">Jasmine L. Clark</a></p>
-    <p class="article-affiliation">Library and Archives, Philadelphia Museum of Art and the Loretta C. Duckworth Scholars Studio, Temple University Libraries</p>
-  </div>
-{% if embed %}<div class="media-embed"><iframe src="{{ embed }}" title="{{ title }}" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe></div>{% endif %}
-  <div class="prose article-prose">{{ content | safe }}</div>
-{% else %}
-  <header class="article-header"><div class="article-header__inner"><p class="eyebrow">{{ date | readableDate }}</p><h1>{{ title }}</h1><p class="article-author">Written by <strong>{{ author }}</strong></p>{% if affiliation %}<p class="article-affiliation">{{ affiliation }}</p>{% endif %}</div></header>
-{% if hero %}<figure class="article-hero-wrap"><img class="article-hero" src="{{ hero }}" alt="{{ heroAlt or title }}"></figure>{% endif %}
-{% if embed %}<div class="media-embed"><iframe src="{{ embed }}" title="{{ title }}" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe><p><a class="text-link" href="{{ externalUrl or embed }}">Open this experience in a new tab <span aria-hidden="true">-&gt;</span></a></p></div>{% endif %}
-  <div class="prose">{{ content | safe }}</div>
-{% endif %}
+    {% if page.url == '/present-encounters/' %}
+        {% if hero %}
+            <header class="article-header" style="background-image:url('{{ hero }}')">
+                <div class="article-header__inner">
+                    <h1>{{ title }}</h1>
+                </div>
+            </header>
+        {% endif %}
+        <div class="article-byline">
+            <p class="eyebrow">Written by</p>
+            <p class="article-author">
+                {% for person in authors %}
+                    {% if person.url %}
+                        <a href="{{ person.url }}">{{ person.name }}</a>
+                    {% else %}
+                        <span>{{ person.name or person }}</span>{% endif %}
+                {% endfor %}
+            </p>
+            {% if affiliation %}
+                <p class="article-affiliation">{{ affiliation | safe }}</p>
+            {% endif %}
+        </div>
+        {% if embed %}
+            <div class="media-embed">
+                <iframe src="{{ embed }}" title="{{ title }}" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>
+            </div>
+        {% endif %}
+        <div class="prose article-prose">{{ content | safe }}</div>
+    {% else %}
+        <header class="article-header">
+            <div class="article-header__inner">
+                <p class="eyebrow">{{ date | readableDate }}</p>
+                <h1>{{ title }}</h1>
+                <p class="article-author">Written by <strong>
+                        {% if authors %}
+                            {% for person in authors %}
+                                {% if person.url %}
+                                    <a href="{{ person.url }}">{{ person.name }}</a>
+                                {% else %}{{ person.name or person }}
+                                {% endif %}
+                                {% if not loop.last %}, {% endif %}
+                            {% endfor %}
+                        {% else %}{{ author }}
+                        {% endif %}
+                    </strong>
+                </p>
+                {% if affiliation %}
+                    <p class="article-affiliation">{{ affiliation }}</p>
+                {% endif %}
+            </div>
+        </header>
+        {% if hero %}
+            <figure class="article-hero-wrap"><img class="article-hero" src="{{ hero }}" alt="{{ heroAlt or title }}"></figure>
+        {% endif %}
+        {% if embed %}
+            <div class="media-embed">
+                <iframe src="{{ embed }}" title="{{ title }}" loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>
+                <p>
+                    <a class="text-link" href="{{ externalUrl or embed }}">Open this experience in a new tab <span aria-hidden="true">-&gt;</span></a>
+                </p>
+            </div>
+        {% endif %}
+        <div class="prose">{{ content | safe }}</div>
+    {% endif %}
 </article>
