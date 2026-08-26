@@ -1609,6 +1609,42 @@ body {
   padding-top: 80px;
   background: var(--cf-cream);
 }
+.about-section--references {
+  position: relative;
+  overflow: hidden;
+  padding-top: 80px;
+  background-color: #510420;
+  color: #fff;
+}
+.about-section--references::before {
+  position: absolute;
+  inset: 0;
+  background: url("/assets/references-paper.png") repeat;
+  content: "";
+  mix-blend-mode: luminosity;
+  opacity: 0.26;
+  pointer-events: none;
+}
+.about-section--references .about-section__inner {
+  position: relative;
+  margin-top: 0;
+}
+.about-section.about-section--references h2 {
+  color: #fff;
+}
+.about-section.about-section--references .zigzag {
+  background-color: #d53878;
+}
+.about-section.about-section--references a,
+.about-section.about-section--references p a {
+  color: #f1c41e;
+}
+.about-section.about-section--references a:hover,
+.about-section.about-section--references a:focus,
+.about-section.about-section--references p a:hover,
+.about-section.about-section--references p a:focus {
+  color: #fff;
+}
 .about-section__inner {
   max-width: 850px;
   margin: auto;
