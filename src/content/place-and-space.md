@@ -5,7 +5,8 @@ author: Rachel Starry, Marta Brunner, Matthew Sisk, and Sean Tennant
 date: 2022-01
 order: 7
 topics: [community engagement, mapping, digital scholarship, libraries]
-excerpt: A call for academic libraries to disrupt campus-community boundaries and support community-engaged, justice-minded digital scholarship.
+excerpt: >-
+  An academic library cannot meaningfully serve its campus without also serving the range of communities within which faculty, staff, and students are embedded. Just as lines on maps are cartographic simplifications of reality, the distinctions we make between the university and surrounding communities are arbitrary and constructed. Though not unproblematic, the tools of GIS and digital scholarship more broadly make it possible for library workers to contribute directly to projects that transcend this campus-community border. We call upon academic librarians to use the tools at their disposal to more meaningfully engage with community-engaged and justice-minded projects. Deliberately disrupting the firm distinction between campus and community is one step in a longer process that is not clearly mapped, and we wish to provide a variety of starting points to consider.
 hero: /assets/space-and-place.jpg
 permalink: /place-and-space/
 ---

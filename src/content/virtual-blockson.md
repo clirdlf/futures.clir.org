@@ -5,7 +5,8 @@ author: Jasmine L. Clark and Timothy J. Patterson
 date: 2023-05
 order: 5
 topics: [virtual reality, primary sources, pedagogy, accessibility]
-excerpt: A virtual-reality game and teaching toolkit that use the Charles L. Blockson Afro-American Collection to teach high-school students primary-source literacy.
+excerpt: >-
+  The Virtual Blockson is a project to build a virtual reality game that will teach high school students primary source literacy using a virtual recreation of the Charles L. Blockson Afro-American Collection (Blockson Collection), comprising over 700,000 items related to the African Diaspora. The game will be created in tandem with accompanying teaching materials to allow students to meet the learning objectives laid out in the “Guidelines for Primary Source Literacy” developed by a joint task force on behalf of the Association of College and Research Libraries Rare Books and Manuscripts Section and the Society of American Archivists. A prototype of the game, focusing on Black art and the Pyramid Club, is currently being built by the Temple University Libraries Loretta C. Duckworth Scholars Studio and Blockson Collection with a focus on accessibility for disability and community education.
 hero: /assets/5.-Clark-and-Patterson-Featured.jpg
 permalink: /virtual-blockson/
 ---

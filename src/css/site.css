@@ -13,8 +13,14 @@
   --color-ink: var(--ink);
   --color-paper: var(--paper);
   --font-sans: "Avenir Next", "Helvetica Neue", sans-serif;
-  --font-serif: Georgia, serif;
+  --font-serif: "Public Sans", Georgia, serif;
+  --clir-burgundy: #9d2235;
 }
+
+@layer components {
+
+}
+
 * {
   box-sizing: border-box;
 }
@@ -30,6 +36,8 @@ a {
   color: inherit;
   text-underline-offset: 0.2em;
 }
+
+
 .skip-link {
   position: absolute;
   left: 1rem;
@@ -647,6 +655,7 @@ body {
 }
 .intro__copy em {
   color: inherit;
+  @apply italic;
 }
 .zigzag {
   width: 80px;
@@ -1040,7 +1049,7 @@ body {
   font-size: 16px;
 }
 .intro__copy .eyebrow {
-  margin: 0 0 -9px;
+  margin: 0 0 12px;
   color: var(--cf-pink);
   font-size: 12px;
   letter-spacing: 2px;
@@ -1061,6 +1070,14 @@ body {
   color: var(--cf-wine);
   font-size: 16px;
   font-weight: 700;
+}
+.intro__button {
+  margin-top: 4px;
+  padding: 11px 25px;
+  background: var(--cf-wine);
+  color: #fff;
+  font-size: 16px;
+  text-transform: none;
 }
 
 .contributions__banner {
@@ -1102,6 +1119,8 @@ body {
 }
 .contribution-card p {
   margin: 0 0 20px;
+  font-weight: 400;
+  line-height: 32px;
 }
 .contribution-card__image {
   max-width: none;
@@ -1122,7 +1141,7 @@ body {
 }
 
 .support {
-  padding: 80px 24px;
+  padding: 100px 60px;
   text-align: center;
   background: var(--cf-cream);
 }
@@ -1134,24 +1153,35 @@ body {
   display: block;
   width: 47px;
   height: 47px;
-  margin: 0 auto;
+  margin: 0 auto 10px;
   fill: currentColor;
 }
 .support h2 {
-  margin: 8px 0 12px;
+  margin: 0 0 20px;
   font-family: Montserrat, sans-serif;
-  font-size: 36px;
+  font-size: 46px;
   font-weight: 800;
+  line-height: 1.2;
 }
 .support p {
-  max-width: 900px;
-  margin: auto;
-  font-size: 16px;
+  max-width: 1095px;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.7;
+  letter-spacing: 1px;
 }
 .support a {
-  color: #42a765;
-  font-weight: 700;
-  text-decoration: none;
+  color: #379254;
+  font-weight: 400;
+  text-decoration-line: underline;
+  text-decoration-color: #379254;
+  transition: color 0.25s ease, text-decoration-color 0.25s ease;
+}
+.support a:hover,
+.support a:focus-visible {
+  color: #000;
+  text-decoration-color: var(--cf-wine);
 }
 .newsletter {
   display: grid;
@@ -1194,7 +1224,7 @@ body {
   margin: 0;
   padding: 12px 24px;
   background: var(--cf-green);
-  color: #000;
+  color: #fff;
   font-size: 16px;
   font-weight: 700;
   letter-spacing: 0.5px;
@@ -1417,6 +1447,15 @@ body {
   .contribution-card__image {
     width: calc(100% - 20px);
     max-width: 470px;
+  }
+  .support {
+    padding: 60px 20px;
+  }
+  .support h2 {
+    font-size: 40px;
+  }
+  .support p {
+    font-size: 18px;
   }
   .newsletter {
     padding: 60px 20px;

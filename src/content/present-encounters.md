@@ -5,7 +5,8 @@ author: Synatra A. Smith and Jasmine L. Clark
 date: 2023-05
 order: 1
 topics: [Afrofuturism, digital humanities, symposium]
-excerpt: A special issue from Temple University's symposium using Afrofuturism to develop inclusive, accessible digital-humanities practices centered on Black studies.
+excerpt: >-
+  The primary impetus for the Present Counters: Digital Humanities Meet Afrofuturism symposium hosted on April 21-22, 2022 at Temple University Libraries and, by extension, this special issue was to employ Afrofuturism as a conceptual model to develop an inclusive and accessible digital humanities practice centered around the needs of the Black studies community. Composed of seven presentations, a moderated panel discussion, a tour of the Temple University Libraries Loretta C. Duckworth Scholars Studio, project demonstrations, and various performances, Present Encounters: Digital Humanities Meet Afrofuturism brought scholars, students, and practitioners together within the physical space of the Charles Library and the conceptual space of Black digital humanities. Five of the presentations from the symposium are included in this issue as articles.
 hero: /assets/1.-Smith-and-Clark-Featured.jpg
 permalink: /present-encounters/
 ---

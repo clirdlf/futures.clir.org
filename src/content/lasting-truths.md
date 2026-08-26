@@ -5,7 +5,8 @@ author: Clayton Colmon
 date: 2023-05
 order: 6
 topics: [pedagogy, Octavia Butler, Black speculative futures]
-excerpt: An essay connecting Octavia Butler, Black speculative futures, digital pedagogy, placemaking, and liberatory teaching and learning.
+excerpt: >-
+  In this essay I invite us all to work through lessons from Black speculative futures that make room for capacious forms of living and listening with each other. These futures offer paths for redesigning the structure and substance of educational work in present digital spaces. While I speak about digital tools and technologies that have helped advance humanistic inquiry for a generation of academic work, this essay isn’t about these tools; it isn’t even about the scholarly projects that they support. It’s about the choices we make, across the various communities we serve, that help sow seeds for new encounters within a living world that we hope to grow together—a world in which joy is one of the juiciest fruits of justice and for which freedom is a fundamental act. These choices challenge us to create otherwise, through collaborative community agreements, adapted from “Earthseed” verses from Octavia Butler—in Black quantum future time (Phillips, 2020); through speculative toolkits designed around mundane manifestos for social justice (Syms, 2013); and through transformative strategies built on questions like: “If not now, then when?” As we encounter realities where Digital Humanities and Afrofuturism meet, it’s important to consider what “each of us” can do, once we’ve convinced ourselves that a living world is worth changing for—no matter how impossible that change may seem.
 hero: /assets/6.-Colmon-Featured.jpg
 permalink: /lasting-truths/
 ---

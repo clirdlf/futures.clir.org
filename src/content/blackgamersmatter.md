@@ -5,7 +5,8 @@ author: Grace D. Gipson
 date: 2023-05
 order: 4
 topics: [gaming, Black futures, technology, Afrofuturism]
-excerpt: An Afrofuturist examination of Blackness, technology, gaming, representation, and the emergence of Black gamer communities.
+excerpt: >-
+  “Black Lives Matter” is not just a phrase or way of thinking as it relates to police brutality and racist violence towards Black life, but it is also necessary in the fantasy and gaming realm. Much like any other art form or popular medium, the world of gaming and fantasy must be open to having a talk about its history of racial and cultural insensitivity, regardless of the pushback. Gaming and the Black imaginary is an arena that covers a lot of territory which engages with digital storytelling, self and community discovery, and interactive narratives. As complex systems of visual culture, gaming has a history of oscillating between problematic imagery and representation to liberating characters and intersectional organizations. Moreover, in this piece, I discuss the relationships between Blackness and technology and resistance and action in gaming, along with the emergence of a variety of Black gamer communities.
 hero: /assets/4.-Gipson-Featured-e1683224942938.jpg
 permalink: /blackgamersmatter/
 ---

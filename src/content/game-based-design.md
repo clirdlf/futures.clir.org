@@ -5,7 +5,8 @@ author: Rebecca Y. Bayeck, Smiti Nathan, and Alex Wermer-Colan
 date: 2022-01
 order: 9
 topics: [games, digital exhibits, accessibility, design thinking]
-excerpt: An exploration of how games, gamification, and design thinking can make digital exhibits more inclusive and accessible.
+excerpt: >-
+  Imagining the future of libraries and especially of digital exhibits cannot be completed without exploring the role games can play in the future of collection curation. Besides their popularity, games facilitate and inform our understanding through interactive engagement and have been shown to serve as alternative modes for designing learning experiences and environments. We adopt such a perspective as we look into the ways gaming can inform the design of digital exhibits and help make digital collections more accessible and inclusive to a wider audience.
 hero: /assets/game-based-design.jpg
 permalink: /game-based-design/
 ---
