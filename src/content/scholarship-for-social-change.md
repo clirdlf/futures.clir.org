@@ -6,6 +6,7 @@ date: 2022-01
 order: 10
 topics: [visualization, social change, community contributions]
 excerpt: A visualization defining scholarship as social change and inviting readers to contribute projects that explore, articulate, or intervene in injustice.
+hero: /assets/scholarship-social-change.jpg
 permalink: /scholarship-for-social-change/
 ---
 

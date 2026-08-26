@@ -6,6 +6,7 @@ date: 2022-01
 order: 7
 topics: [community engagement, mapping, digital scholarship, libraries]
 excerpt: A call for academic libraries to disrupt campus-community boundaries and support community-engaged, justice-minded digital scholarship.
+hero: /assets/space-and-place.jpg
 permalink: /place-and-space/
 ---
 

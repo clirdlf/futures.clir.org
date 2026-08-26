@@ -6,6 +6,7 @@ date: 2023-02
 order: 8
 topics: [podcast, archives, museums, BIPOC communities]
 excerpt: A podcast series featuring archivists, scholars, and museum staff working with collections relating to BIPOC communities.
+hero: /assets/flame-podcast.jpg
 externalUrl: https://podcasters.spotify.com/pod/show/futures-flame/
 embed: https://open.spotify.com/embed/show/4fO5zQRvKpxJ6PnGPRQYyF
 permalink: /flame/

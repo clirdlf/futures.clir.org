@@ -6,6 +6,7 @@
   "scripts": {
     "build:css": "postcss src/css/site.css -o public/assets/site.css",
     "build:site": "eleventy",
+    "dev": "npm run build:css && eleventy --serve",
     "build": "npm run build:css && npm run build:site",
     "start": "npm run build:css && eleventy --serve"
   },

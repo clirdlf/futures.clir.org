@@ -6,7 +6,7 @@ date: 2022-01
 order: 9
 topics: [games, digital exhibits, accessibility, design thinking]
 excerpt: An exploration of how games, gamification, and design thinking can make digital exhibits more inclusive and accessible.
-hero: /assets/Introduction-1.png
+hero: /assets/game-based-design.jpg
 permalink: /game-based-design/
 ---
 

@@ -6,7 +6,7 @@ date: 2022-01
 order: 11
 topics: [commons, library labor, open access, decolonization]
 excerpt: An argument for reorienting academic libraries' knowledge assets, labor, and physical spaces toward a democratic and decolonizing commons.
-hero: https://futures.clir.org/wp-content/uploads/sites/41/2021/11/Word-Cloud-of-Strategic-Plans-1.jpg
+hero: /assets/third-library-commons.jpg
 permalink: /the-third-library-the-commons/
 ---
 
