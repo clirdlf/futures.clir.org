@@ -37,7 +37,6 @@ a {
   text-underline-offset: 0.2em;
 }
 
-
 .skip-link {
   position: absolute;
   left: 1rem;
@@ -1357,6 +1356,7 @@ body {
 }
 .about-meta a {
   color: #379254;
+  text-decoration-line: underline;
 }
 .about-section {
   padding: 0 80px 80px;
@@ -1369,6 +1369,7 @@ body {
 .about-section__inner {
   max-width: 850px;
   margin: auto;
+  margin-top: 80px;
 }
 .about-section h2 {
   margin: 0 0 20px;
@@ -1389,10 +1390,28 @@ body {
     transparent 15px 22px
   );
 }
+
+.about-section .footnotes p {
+    font-size: 14px;
+}
 .about-section p {
   margin: 0 0 20px;
   font-size: 16px;
   line-height: 2;
+
+  a {
+    color: rgb(55,146,84);
+    text-decoration-line: underline;
+  }
+}
+.about-section blockquote {
+  margin-right: 4em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border-left: solid 2px #379254;
+  padding-left: 5%;
+  font-weight: 400;
+  font-style: italic;
 }
 .about-section em {
   color: inherit;

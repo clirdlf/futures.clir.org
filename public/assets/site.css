@@ -7,6 +7,7 @@
     --font-serif: "Public Sans", Georgia, serif;
     --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
       "Courier New", monospace;
+    --color-gray-300: oklch(87.2% 0.01 258.338);
     --spacing: 0.25rem;
     --default-transition-duration: 150ms;
     --default-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -209,6 +210,9 @@
   .my-5 {
     margin-block: calc(var(--spacing) * 5);
   }
+  .my-6 {
+    margin-block: calc(var(--spacing) * 6);
+  }
   .hidden {
     display: none;
   }
@@ -228,6 +232,13 @@
   .border {
     border-style: var(--tw-border-style);
     border-width: 1px;
+  }
+  .border-t {
+    border-top-style: var(--tw-border-style);
+    border-top-width: 1px;
+  }
+  .border-gray-300 {
+    border-color: var(--color-gray-300);
   }
   .bg-paper {
     background-color: var(--color-paper);
@@ -1588,6 +1599,7 @@ body {
 }
 .about-meta a {
   color: #379254;
+  text-decoration-line: underline;
 }
 .about-section {
   padding: 0 80px 80px;
@@ -1600,6 +1612,7 @@ body {
 .about-section__inner {
   max-width: 850px;
   margin: auto;
+  margin-top: 80px;
 }
 .about-section h2 {
   margin: 0 0 20px;
@@ -1620,10 +1633,26 @@ body {
     transparent 15px 22px
   );
 }
+.about-section .footnotes p {
+  font-size: 14px;
+}
 .about-section p {
   margin: 0 0 20px;
   font-size: 16px;
   line-height: 2;
+  a {
+    color: rgb(55,146,84);
+    text-decoration-line: underline;
+  }
+}
+.about-section blockquote {
+  margin-right: 4em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border-left: solid 2px #379254;
+  padding-left: 5%;
+  font-weight: 400;
+  font-style: italic;
 }
 .about-section em {
   color: inherit;
