@@ -63,78 +63,116 @@ body { background: #fff; font-family: "Montserrat", "Avenir Next", Arial, sans-s
 @media print { .clir-bar, .site-header, .site-footer, .skip-link, .print-controls { display: none !important; } body { background: white; color: black; font-size: 10.5pt; } .print-cover { min-height: calc(100vh - 1.4in); print-color-adjust: exact; -webkit-print-color-adjust: exact; } .print-cover__publisher { margin-top: 4rem; } a { color: black !important; text-decoration: none; } .print-section { max-width: none; padding: 0; break-before: page; } .print-section .prose { font-size: 10.5pt; line-height: 1.48; } .print-section h2 { font-size: 25pt; } .print-section img, .print-section iframe { max-height: 7in; break-inside: avoid; } h2, h3, figure, blockquote { break-inside: avoid; } p { orphans: 3; widows: 3; } }
 @media screen and (max-width: 800px) { .clir-bar { display:none; }.site-header__inner { min-height:82px; }.wordmark img { width:190px; }.site-header nav { font-size:.75rem; }.hero { min-height:auto; padding:20px; background-size:600vw auto; }.hero__card { padding:42px 24px; }.hero__card .eyebrow::before,.hero__card .eyebrow::after { width:30px; }.hero h1 { font-size:2.25rem; }.intro { padding:40px 20px 0; display:flex; flex-direction:column-reverse; gap:0; }.intro__copy { padding:0; }.intro__image img { margin:40px auto -24px; }.contributions__banner { padding:75px 20px; background-size:600vw auto; }.contributions__banner h2 { font-size:2.5rem; }.contribution-card,.contribution-card--reverse { display:flex; flex-direction:column; gap:2rem; min-height:0; padding:60px 20px; }.contribution-card--reverse .contribution-card__copy,.contribution-card--reverse .contribution-card__image { order:initial; }.contribution-card__image { margin:0 12px; }.search-box { padding:0 20px; } }
 
-/* Curated Futures landing page */
-:root { --cf-green:#6ec288; --cf-yellow:#f0c21d; --cf-wine:#8c1c46; --cf-orange:#ec8223; --cf-pink:#d43e78; --cf-cream:#fbf7f2; }
-body { color:#171717; font-size:14px; line-height:1.55; }
-.clir-bar { height:18px; min-height:18px; background:var(--cf-pink); }
-.clir-bar__inner { min-height:18px; max-width:1180px; padding:0 24px; font-size:7px; }
-.site-header { position:relative; box-shadow:none; border-bottom:1px solid #eee; }
-.site-header__inner { min-height:74px; max-width:1180px; padding:8px 24px; }
-.wordmark img { width:112px; max-height:52px; }
-.site-header nav { gap:2.25rem; font-size:10px; }
+/* Curated Futures landing page — values mirror the current Elementor site. */
+:root { --cf-green:#6ec38a; --cf-yellow:#f1c41e; --cf-wine:#8d1d46; --cf-orange:#ec8323; --cf-pink:#d53878; --cf-cream:#fcf7f3; }
+body { color:#1e1e1e; font-family:"Public Sans",Helvetica,Arial,sans-serif; font-size:16px; line-height:2; }
+.clir-bar { height:39px; min-height:39px; background:var(--cf-pink); }
+.clir-bar__inner { min-height:39px; max-width:1140px; padding:0; font-size:14px; font-weight:400; letter-spacing:0; text-transform:none; }
+.clir-links,.clir-actions { height:39px; gap:0; }
+.clir-bar a { height:39px; display:flex; align-items:center; padding:0 20px; border-right:1px solid rgba(255,255,255,.35); }
+.site-header { position:relative; box-shadow:none; border:0; }
+.site-header__inner { min-height:106px; max-width:1140px; padding:12px 0; }
+.wordmark img { width:192px; height:82px; object-fit:contain; object-position:left center; }
+.site-header nav { gap:32px; font-size:17px; }
+.site-header nav a { padding:8px; }
 
-.hero { min-height:460px; padding:54px 24px; background-size:460px 460px; background-repeat:repeat; box-shadow:none; }
-.hero__inner { max-width:620px; }
-.hero__card { padding:66px 36px; background:#fff url('/assets/paper-fibers-1.png'); box-shadow:0 6px 24px rgba(0,0,0,.14); }
-.hero__card .eyebrow { margin:0; font-size:9px; }
-.hero__card .eyebrow::before,.hero__card .eyebrow::after { width:90px; height:8px; }
-.hero h1 { margin:14px 0 6px; color:#0d0d0d; font-size:35px; }
-.hero h2 { margin:0 0 13px; font-size:13px; }
-.hero .button { padding:8px 18px; font-size:9px; text-transform:uppercase; }
+.hero { min-height:565px; padding:80px 40px; background-color:#51a46c; background-size:99% auto; background-repeat:no-repeat; background-position:center; box-shadow:inset 0 0 30px 17px rgba(0,0,0,.5); }
+.hero__inner { max-width:709px; }
+.hero__card { min-height:383px; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:100px 40px; background:#fff url('/assets/paper-fibers-1.png'); box-shadow:0 0 20px rgba(0,0,0,.25); }
+.hero__card .eyebrow { width:419px; max-width:100%; margin:0; font-size:14px; letter-spacing:1px; }
+.hero__card .eyebrow::before,.hero__card .eyebrow::after { width:95px; height:16px; background:repeating-linear-gradient(135deg,transparent 0 7px,var(--cf-yellow) 8px 10px,transparent 11px 15px); }
+.hero h1 { margin:12px 0 2px; color:#000; font-size:44px; line-height:1.2; }
+.hero h2 { margin:0; color:var(--cf-pink); font-size:18px; font-weight:700; }
+.hero .button { margin-top:24px; padding:12px 24px; background:var(--cf-green); color:#000; font-size:16px; text-transform:none; }
 
-.intro { max-width:1120px; min-height:470px; padding:0 36px; grid-template-columns:1fr 1fr; gap:46px; }
-.intro__image img { width:400px; margin-left:-10px; }
-.intro__copy { max-width:520px; padding:62px 0; font-size:12px; }
-.intro__copy .eyebrow { margin:0 0 7px; color:var(--cf-pink); font-size:9px; }
-.intro__copy h2 { margin:0; color:#111; font-size:27px; }
-.zigzag { width:56px; height:8px; margin:14px 0; background:repeating-linear-gradient(135deg,transparent 0 6px,var(--cf-yellow) 7px 9px,transparent 10px 14px); }
-.text-link { color:var(--cf-pink); font-size:10px; font-weight:800; }
+.intro { max-width:1400px; min-height:400px; padding:0 80px; grid-template-columns:1fr 1fr; gap:4rem; }
+.intro__image { padding-top:40px; }
+.intro__image img { width:520px; margin-left:-80px; }
+.intro__copy { max-width:635px; padding:100px 0; font-size:16px; }
+.intro__copy .eyebrow { margin:0 0 -9px; color:var(--cf-pink); font-size:12px; letter-spacing:2px; }
+.intro__copy h2 { margin:0 0 24px; color:#000; font-size:36px; line-height:1.2; }
+.zigzag { width:80px; height:16px; margin:0 0 20px; background:repeating-linear-gradient(135deg,transparent 0 10px,var(--cf-green) 11px 14px,transparent 15px 22px); }
+.text-link { color:var(--cf-wine); font-size:16px; font-weight:700; }
 
-.contributions__banner { padding:64px 24px; background-color:var(--cf-wine); background-size:610px; background-repeat:repeat; background-position:center; }
-.contributions__banner h2 { font-size:31px; }
-.contributions__banner p { margin-top:4px; font-size:8px; }
-.contribution-card { min-height:0; padding:70px max(36px,calc((100% - 1120px)/2)); gap:70px; }
+.contributions__banner { padding:100px 60px; background-color:var(--cf-pink); background-size:2001px auto; background-repeat:repeat-x; background-position:center right; }
+.contributions__banner h2 { font-size:46px; line-height:1.2; }
+.contributions__banner p { margin:0; font-size:14px; }
+.contribution-card { min-height:0; padding:80px max(80px,calc((100% - 1400px)/2)); gap:0; }
 .contribution-card:nth-child(even) { background:var(--cf-cream); }
-.contribution-card__copy { max-width:510px; font-size:11px; }
-.contribution-card h3 { margin-bottom:14px; color:#111; font-size:23px; line-height:1.12; }
-.contribution-card p { margin:0 0 12px; }
-.contribution-card__image { max-width:470px; border-width:2px; padding:10px 10px 0 0; }
-.contribution-card__image img { width:calc(100% + 10px); max-height:355px; margin:0 0 -10px -10px; }
-.contribution-card--reverse .contribution-card__image { padding:10px 0 0 10px; }
-.contribution-card--reverse .contribution-card__image img { margin:0 -10px -10px 0; }
+.contribution-card__copy { max-width:none; padding-right:106px; font-size:16px; }
+.contribution-card--reverse .contribution-card__copy { padding:0 0 0 96px; }
+.contribution-card h3 { margin:0 0 20px; color:#000; font-size:28px; line-height:1.2; }
+.contribution-card p { margin:0 0 20px; }
+.contribution-card__image { max-width:none; margin-top:42px; border-width:4px; padding:16px 16px 0 0; }
+.contribution-card__image img { width:calc(100% + 16px); max-height:520px; margin:0 0 -16px -16px; }
+.contribution-card--reverse .contribution-card__image { padding:16px 0 0 16px; }
+.contribution-card--reverse .contribution-card__image img { margin:0 -16px -16px 0; }
 
-.support { padding:54px 24px; text-align:center; background:var(--cf-cream); }
+.support { padding:80px 24px; text-align:center; background:var(--cf-cream); }
 .support__icon { color:var(--cf-green); font-size:24px; line-height:1; }
-.support h2 { margin:8px 0 12px; font-family:inherit; font-size:27px; font-weight:800; }
-.support p { max-width:760px; margin:auto; font-size:11px; }
+.support h2 { margin:8px 0 12px; font-family:Montserrat,sans-serif; font-size:36px; font-weight:800; }
+.support p { max-width:900px; margin:auto; font-size:16px; }
 .support a { color:#42a765; font-weight:700; text-decoration:none; }
-.newsletter { min-height:260px; display:grid; place-items:center; padding:38px 24px; color:#fff; text-align:center; background-color:var(--cf-wine); background-position:center; background-size:610px; }
-.newsletter > div { width:min(530px,100%); padding:24px 40px; background:rgba(140,28,70,.93); }
+.newsletter { min-height:330px; display:grid; place-items:center; padding:60px 24px; color:#fff; text-align:center; background-color:var(--cf-wine); background-position:center; background-size:2001px auto; }
+.newsletter > div { width:min(620px,100%); padding:35px 50px; background:rgba(141,29,70,.94); }
 .newsletter span { font-size:20px; }
-.newsletter h2 { margin:5px 0; font-family:inherit; font-size:29px; font-weight:800; }
-.newsletter p { margin:0 auto 8px; font-size:10px; }
-.newsletter .button { margin:4px 0 0; padding:8px 25px; background:var(--cf-pink); color:#fff; font-size:9px; }
+.newsletter h2 { margin:5px 0; font-family:Montserrat,sans-serif; font-size:36px; font-weight:800; }
+.newsletter p { margin:0 auto 12px; font-size:16px; }
+.newsletter .button { margin:4px 0 0; padding:12px 24px; background:var(--cf-pink); color:#fff; font-size:16px; }
 
-.site-footer { padding:35px max(24px,calc((100% - 1120px)/2)); grid-template-columns:1.15fr 1.3fr .8fr; gap:70px; background:#fff; color:#333; font-size:9px; }
-.site-footer strong { color:#111; font-size:11px; }
+.site-footer { padding:60px max(60px,calc((100% - 1320px)/2)); grid-template-columns:1fr 1fr 1fr; gap:60px; background:#fff; color:#1e1e1e; font-size:16px; box-shadow:0 0 20px -5px rgba(0,0,0,.1); }
+.site-footer strong { color:#000; font-size:26px; font-family:Montserrat,sans-serif; font-weight:800; }
 .site-footer a { color:#42a765; font-weight:700; }
-.footer-brand img { width:120px; }
+.footer-brand img { width:180px; }
 .social-links { display:flex; gap:7px; }
 .social-links a { width:20px; height:20px; display:grid; place-items:center; border-radius:50%; background:var(--cf-green); color:#fff; text-decoration:none; }
 
+/* About page */
+.about-hero { padding:110px 40px; color:#fff; text-align:center; background:var(--cf-pink) url('/assets/curated-futures-horizontal-pattern.svg') center right / 4002px auto repeat-x; }
+.about-hero p { margin:-10px 0 8px; font-family:Montserrat,sans-serif; font-size:12px; font-weight:800; letter-spacing:2px; line-height:1.2; text-transform:uppercase; }
+.about-hero h1 { margin:0; color:#fff; font-family:Montserrat,sans-serif; font-size:50px; font-weight:900; line-height:1.1; text-shadow:2px 2px 5px rgba(0,0,0,.5); }
+.about-meta { max-width:850px; min-height:297px; margin:auto; padding:95px 0 54px; color:#696969; text-align:center; }
+.about-meta::before,.about-meta::after { content:""; display:block; height:1px; background:#ddd; }
+.about-meta::before { margin-bottom:39px; }
+.about-meta::after { margin-top:39px; }
+.about-meta ul { display:flex; justify-content:center; margin:0 0 35px; padding:0; list-style:none; font-family:Montserrat,sans-serif; font-size:15px; letter-spacing:.5px; line-height:1.2; text-transform:uppercase; }
+.about-meta li { padding:0 15px; white-space:nowrap; }
+.about-meta li + li { border-left:1px solid #ddd; }
+.about-meta p { margin:0; font-size:14px; }
+.about-meta a { color:#379254; }
+.about-section { padding:0 80px 80px; background:#fff; }
+.about-section--cream { padding-top:80px; background:var(--cf-cream); }
+.about-section__inner { max-width:850px; margin:auto; }
+.about-section h2 { margin:0 0 20px; color:#000; font-family:Montserrat,sans-serif; font-size:32px; font-weight:900; line-height:1.2; }
+.about-section .zigzag { margin-bottom:20px; }
+.about-section .zigzag--orange { background:repeating-linear-gradient(135deg,transparent 0 10px,var(--cf-orange) 11px 14px,transparent 15px 22px); }
+.about-section p { margin:0 0 20px; font-size:16px; line-height:2; }
+.about-section em { color:inherit; font-style:italic; }
+
 @media screen and (max-width:800px) {
-  .site-header__inner { min-height:70px; display:flex; }
-  .site-header nav { gap:.75rem; font-size:8px; }
-  .wordmark img { width:95px; }
-  .hero { padding:28px 18px; background-size:310px; }
-  .hero__card { padding:45px 20px; }
-  .hero h1 { font-size:27px; }
+  .clir-bar { display:none; }
+  .site-header__inner { min-height:90px; display:flex; padding:10px 20px; }
+  .site-header nav { gap:.75rem; font-size:12px; }
+  .wordmark img { width:135px; height:70px; }
+  .hero { min-height:auto; padding:20px; background-size:600vw auto; }
+  .hero__card { min-height:0; padding:60px 24px; }
+  .hero h1 { font-size:34px; }
+  .hero h2 { font-size:16px; }
   .intro { padding:42px 22px 0; }
   .intro__image img { width:min(360px,100%); margin:32px auto -18px; }
-  .contributions__banner { padding:52px 20px; background-size:460px; }
-  .contribution-card,.contribution-card--reverse { padding:48px 22px; gap:28px; }
-  .contribution-card h3 { font-size:21px; }
+  .contributions__banner { padding:75px 20px; background-size:600vw auto; }
+  .contribution-card,.contribution-card--reverse { padding:60px 24px; gap:36px; }
+  .contribution-card__copy,.contribution-card--reverse .contribution-card__copy { padding:0; }
+  .contribution-card h3 { font-size:26px; }
   .contribution-card__image { width:calc(100% - 20px); max-width:470px; }
-  .newsletter { background-size:460px; }
+  .newsletter { background-size:600vw auto; }
   .site-footer { display:grid; grid-template-columns:1fr; gap:24px; }
+  .about-hero { padding:80px 20px; background-image:url('/assets/curated-futures-pattern-3.svg'); background-position:bottom right; background-size:600vw auto; background-repeat:repeat; }
+  .about-hero h1 { font-size:36px; }
+  .about-meta { min-height:0; padding:40px 20px 30px; }
+  .about-meta ul { flex-direction:column; gap:14px; }
+  .about-meta li { padding:0; }
+  .about-meta li + li { border:0; }
+  .about-section,.about-section--cream { padding:60px 20px; }
+  .about-section:first-child { padding-top:10px; }
 }
