@@ -1,7 +1,7 @@
 ---
 layout: article.njk
-title: "Lasting Truths: Lessons from Black Speculative Futures"
 articleStyle: feature
+title: "Lasting Truths: Lessons from Black Speculative Futures"
 author: Clayton Colmon
 affiliation: Penn LPS Online, University of Pennsylvania
 date: 2023-05
