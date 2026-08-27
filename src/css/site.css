@@ -177,7 +177,7 @@
 .article-feature .article-section--references::before {
   position: absolute;
   inset: 0;
-  background: url("/assets/references-paper.png") repeat;
+  background: url("references-paper.png") repeat;
   content: "";
   mix-blend-mode: luminosity;
   opacity: 0.26;
@@ -597,7 +597,7 @@ h2 {
   margin-top: 0;
 }
 .article-header {
-  background: var(--green) url("/assets/curated-futures-pattern-3.svg")
+  background: var(--green) url("curated-futures-pattern-3.svg")
     calc(100% + 150px) center / 520px no-repeat;
   color: white;
   padding: 6rem 2rem;
@@ -681,7 +681,7 @@ h2 {
 }
 .print-cover {
   min-height: 100vh;
-  background: var(--green) url("/assets/curated-futures-pattern-3.svg") center /
+  background: var(--green) url("curated-futures-pattern-3.svg") center /
     560px;
   color: white;
   display: grid;
@@ -833,7 +833,7 @@ body {
   padding: 92px 40px;
   text-align: center;
   color: #333;
-  background: #fff url("/assets/paper-fibers-1.png");
+  background: #fff url("paper-fibers-1.png");
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
 }
 .hero__card .eyebrow {
@@ -1281,7 +1281,7 @@ body {
   inset: 0;
   z-index: 0;
   pointer-events: none;
-  background-image: url("/assets/curated-futures-pattern-3.svg");
+  background-image: url("curated-futures-pattern-3.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: 99% auto;
@@ -1306,7 +1306,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: 100px 40px;
-  background: #fff url("/assets/paper-fibers-1.png");
+  background: #fff url("paper-fibers-1.png");
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
 }
 .hero__card .eyebrow {
@@ -1519,7 +1519,7 @@ body {
   color: #fff;
   text-align: center;
   background-color: var(--cf-wine);
-  background-image: url("/assets/curated-futures-horizontal-pattern.svg");
+  background-image: url("curated-futures-horizontal-pattern.svg");
   background-position: bottom center;
   background-repeat: repeat-x;
   background-size: 6000px auto;
@@ -1667,7 +1667,7 @@ body {
   color: #fff;
   text-align: center;
   background: var(--cf-pink)
-    url("/assets/curated-futures-horizontal-pattern.svg") center right / 4002px
+    url("curated-futures-horizontal-pattern.svg") center right / 4002px
     auto repeat-x;
 }
 .about-hero p {
@@ -1754,7 +1754,7 @@ body {
 .about-section--references::before {
   position: absolute;
   inset: 0;
-  background: url("/assets/references-paper.png") repeat;
+  background: url("references-paper.png") repeat;
   content: "";
   mix-blend-mode: luminosity;
   opacity: 0.26;
@@ -1972,7 +1972,7 @@ body {
   }
   .about-hero {
     padding: 80px 20px;
-    background-image: url("/assets/curated-futures-pattern-3.svg");
+    background-image: url("curated-futures-pattern-3.svg");
     background-position: bottom right;
     background-size: 600vw auto;
     background-repeat: repeat;
