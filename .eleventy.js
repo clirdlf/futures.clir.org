@@ -2,7 +2,7 @@ const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
 const { EleventyRenderPlugin } = require('@11ty/eleventy');
 
-const baseUrl = '/material-memory.clir.org/';
+const baseUrl = '/futures.clir.org/';
 const pathPrefix = process.env.ELEVENTY_PATH_PREFIX || baseUrl;
 
 function prefixRootUrl(url) {
