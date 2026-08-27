@@ -245,6 +245,6 @@ Wang, Tricia. 2021. The Most Popular Design Thinking Strategy is BS. (June 28, 2
 
 ### Essay
 
-- [https://works.hcommons.org/records/ae859-bka21](https://doi.org/10.17613/s58y-8976)
+- [View on Humanities Commons](https://doi.org/10.17613/s58y-8976)
 
 </section>
