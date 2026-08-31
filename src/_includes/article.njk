@@ -18,7 +18,7 @@ layout: base.njk
                         {% if person.url %}
                             <a href="{{ person.url }}">{{ person.name }}</a>
                         {% else %}
-                            <span>{{ person.name or person }}</span>{% endif %}
+                            <span>{{ (person.name or person) | safe }}</span>{% endif %}
                     {% endfor %}
                 {% else %}
                     <span>{{ author }}</span>
@@ -47,7 +47,7 @@ layout: base.njk
                             {% for person in authors %}
                                 {% if person.url %}
                                     <a href="{{ person.url }}">{{ person.name }}</a>
-                                {% else %}{{ person.name or person }}
+                                {% else %}{{ (person.name or person) | safe }}
                                 {% endif %}
                                 {% if not loop.last %}, {% endif %}
                             {% endfor %}
