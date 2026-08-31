@@ -1283,15 +1283,16 @@ body {
   pointer-events: none;
   background-image: url("curated-futures-pattern-3.svg");
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: 99% auto;
 }
 .hero__inner {
   position: relative;
   z-index: 1;
-  height: 382px;
-  min-height: 382px;
+  min-height: 45vh;
   max-width: 709px;
+  display: flex;
+  align-items: center;
 }
 @media screen and (min-width: 1025px) {
   .hero::before {
@@ -1299,7 +1300,8 @@ body {
   }
 }
 .hero__card {
-  height: 100%;
+  width: 100%;
+  height: 382px;
   min-height: 382px;
   display: flex;
   flex-direction: column;
@@ -1326,7 +1328,7 @@ body {
   margin: 12px 0 20px;
   color: #000;
   font-size: 44px;
-  line-height: 1.2;
+  line-height: 1;
 }
 .hero h2 {
   margin: 0;
@@ -1894,22 +1896,39 @@ body {
     padding: 20px;
   }
   .hero::before {
-    background-size: 600vw auto;
+    background-size: 99% auto;
   }
   .hero__inner {
+    width: 100%;
+    max-width: 100%;
     height: auto;
-    min-height: 45vh;
+    min-height: 0;
   }
   .hero__card {
+    width: 100%;
     height: auto;
-    min-height: 45vh;
-    padding: 60px 24px;
+    min-height: 0;
+    padding: 40px 24px;
+  }
+  .hero__card .eyebrow {
+    width: 100%;
+    line-height: 20px;
   }
   .hero h1 {
-    font-size: 34px;
+    margin: 20px 0 18px;
+    font-size: 36px;
+    line-height: 1;
   }
   .hero h2 {
     font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 1px;
+  }
+  .hero .button {
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    line-height: 15px;
+    letter-spacing: 0.5px;
   }
   .intro {
     padding: 42px 22px 0;
