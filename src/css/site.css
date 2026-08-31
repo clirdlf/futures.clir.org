@@ -1606,9 +1606,9 @@ body {
 .site-footer h2 {
   margin: 28px 0 24px;
   color: #000;
-  font-size: 28px;
-  font-family: Montserrat, sans-serif;
-  font-weight: 900;
+  font-size: 26px;
+  font-family: var(--primary-font-family);
+  font-weight: 800;
   line-height: 1.2;
 }
 .site-footer h2:first-child {
@@ -1668,6 +1668,13 @@ body {
   font-size: 16px;
   font-weight: 800;
   text-decoration: none;
+}
+.social-links svg {
+  width: 24px;
+  height: 24px;
+}
+.social-links svg path {
+  fill: #fff;
 }
 .site-footer__legal {
   display: grid;

@@ -16,6 +16,12 @@ module.exports = function (eleventyConfig) {
     .use(markdownItAnchor, { slugify: (value) => value.toLowerCase().trim().replace(/[^\w]+/g, '-') });
   eleventyConfig.setLibrary('md', markdown);
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets' });
+  eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon.ico': 'assets/favicon/favicon.ico' });
+  eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon-16x16.png': 'assets/favicon/favicon-16x16.png' });
+  eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon-32x32.png': 'assets/favicon/favicon-32x32.png' });
+  eleventyConfig.addPassthroughCopy({ 'src/favicon/apple-touch-icon.png': 'assets/favicon/apple-touch-icon.png' });
+  eleventyConfig.addPassthroughCopy({ 'src/favicon/android-chrome-192x192.png': 'assets/favicon/android-chrome-192x192.png' });
+  eleventyConfig.addPassthroughCopy({ 'src/favicon/android-chrome-512x512.png': 'assets/favicon/android-chrome-512x512.png' });
   eleventyConfig.addPassthroughCopy({ 'src/js': 'js' });
   eleventyConfig.addWatchTarget('src/css');
   eleventyConfig.addCollection('contributions', (collectionApi) => collectionApi
