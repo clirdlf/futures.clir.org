@@ -15,7 +15,7 @@ title: Home
   </div>
 </section>
 <section class="intro">
-  <div class="intro__image"><img src="/assets/a-third-library-is-possible.jpg" alt="Profile silhouettes made from crumpled paper form a larger human head"></div>
+  <div class="intro__image"><img src="/assets/a-third-library-is-possible.jpg" alt="Profile silhouettes made from crumpled paper form a larger human head" loading="eager" fetchpriority="high" sizes="(max-width: 800px) 100vw, 50vw"></div>
   <div class="intro__copy">
     <p class="eyebrow">About the Project</p>
     <h2>A Third Library is Possible</h2>
@@ -33,16 +33,20 @@ title: Home
   </div>
 </section>
 <section id="contributions" class="contributions">
-  <div class="contributions__banner" style="background-image:url('/assets/curated-futures-pattern-3.svg')">
+  <div class="contributions__banner" style="background-image:url('{{ '/assets/curated-futures-pattern-3.svg' | url }}')">
     <h2>Contributions</h2>
     <p>The following are abstracts for each contribution</p>
   </div>
   <div class="contributions__main">
+    <label class="search-box" for="site-search">Search contributions
+      <input id="site-search" type="search" autocomplete="off" placeholder="Search by title, author, or topic">
+    </label>
     <div class="contribution-list" data-search-results>
       {% for contribution in collections.contributions %}
         {% include 'contribution-card.njk' %}
       {% endfor %}
     </div>
+    <p class="search-empty" data-search-empty hidden>No contributions match your search.</p>
   </div>
 </section>
 <section class="support">

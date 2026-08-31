@@ -4,7 +4,7 @@ layout: base.njk
 <article class="article-shell{% if page.url == '/present-encounters/' or articleStyle == 'feature' %} article-feature{% endif %}">
     {% if page.url == '/present-encounters/' or articleStyle == 'feature' %}
         {% if articleHero or hero %}
-            <header class="article-header" style="background-image:url('{{ articleHero or hero }}')">
+            <header class="article-header" style="background-image:url('{{ (articleHero or hero) | url }}')">
                 <div class="article-header__inner">
                     <h1>{{ title }}</h1>
                 </div>
@@ -38,7 +38,7 @@ layout: base.njk
         {% endif %}
         <div class="prose article-prose">{{ content | safe }}</div>
     {% else %}
-        <header class="article-header"{% if articleHero %} style="background-image:url('{{ articleHero }}')"{% endif %}>
+        <header class="article-header"{% if articleHero %} style="background-image:url('{{ articleHero | url }}')"{% endif %}>
             <div class="article-header__inner">
                 <p class="eyebrow">{{ date | readableDate }}</p>
                 <h1>{{ title }}</h1>

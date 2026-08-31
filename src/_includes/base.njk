@@ -1,10 +1,49 @@
 <!doctype html>
 <html lang="en">
 <head>
+  {% set pageTitle = site.title if title == 'Home' else title + ' | ' + site.title %}
+  {% set pageDescription = description or excerpt or site.description %}
+  {% set canonicalUrl = page.url | absoluteUrl(site.source) %}
+  {% set socialImage = (articleHero or hero or site.socialImage) | absoluteUrl(site.source) %}
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="{{ description or site.description }}">
-  <title>{{ title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ pageDescription }}">
+  <title>{{ pageTitle }}</title>
+  <link rel="canonical" href="{{ canonicalUrl }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:type" content="{{ 'article' if layout == 'article.njk' else 'website' }}">
+  <meta property="og:title" content="{{ pageTitle }}">
+  <meta property="og:description" content="{{ pageDescription }}">
+  <meta property="og:url" content="{{ canonicalUrl }}">
+  <meta property="og:image" content="{{ socialImage }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ pageTitle }}">
+  <meta name="twitter:description" content="{{ pageDescription }}">
+  <meta name="twitter:image" content="{{ socialImage }}">
+  {% if layout == 'article.njk' %}
+    {% if date %}<meta property="article:published_time" content="{{ date }}-01">{% endif %}
+    {% for topic in topics %}<meta property="article:tag" content="{{ topic }}">{% endfor %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "headline": {{ title | json | safe }},
+        "description": {{ pageDescription | json | safe }},
+        "url": {{ canonicalUrl | json | safe }},
+        "mainEntityOfPage": {{ canonicalUrl | json | safe }},
+        "image": {{ socialImage | json | safe }},
+        {% if date %}"datePublished": {{ (date + '-01') | json | safe }},{% endif %}
+        "author": [
+          {% if authors %}
+            {% for person in authors %}{"@type": "Person", "name": {{ (person.name or person) | json | safe }}{% if person.url %}, "url": {{ person.url | json | safe }}{% endif %}}{% if not loop.last %},{% endif %}{% endfor %}
+          {% elif author %}
+            {"@type": "Person", "name": {{ author | json | safe }}}
+          {% endif %}
+        ],
+        "publisher": {"@type": "Organization", "name": "Council on Library and Information Resources", "url": "https://www.clir.org/"}
+      }
+    </script>
+  {% endif %}
   <link rel="icon" href="/assets/favicon/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
@@ -19,8 +58,8 @@
   <a class="skip-link" href="#content">Skip to content</a>
   {# <div class="clir-bar"><div class="clir-bar__inner"><div class="clir-links"><a href="https://www.clir.org/">CLIR</a><a href="https://www.clir.org/fellowships/">Fellowships &amp; Grants</a><a href="https://www.diglib.org/">DLF</a><a href="https://www.clir.org/pubs/">Publications</a><a href="https://www.clir.org/global/">CLIR Global</a></div><div class="clir-actions"><a href="https://www.clir.org/about/community/">Join</a><a href="https://www.clir.org/give/">Give</a></div></div></div> #}
   <header class="site-header"><div class="site-header__inner">
-    <a class="wordmark" href="/" aria-label="CLIR Postdoctoral Fellowship Program home"><img src="/assets/clir-postdoctoral-fellowship.svg" alt="CLIR Postdoctoral Fellowship Program"></a>
-    <nav aria-label="Primary navigation">{% if page.url == '/present-encounters/' or articleStyle == 'feature' %}<a href="/about/">About</a><a href="/#contributions">Contributions</a><a href="https://futures.clir.org/acknowledgements/">Acknowledgements</a><a href="/?s=" aria-label="Search">⌕</a>{% else %}{% for item in navigation %}<a href="{{ item.url }}">{{ item.label }}</a>{% endfor %}{% endif %}</nav>
+    <a class="wordmark" href="/" aria-label="CLIR Postdoctoral Fellowship Program home"><img src="/assets/clir-postdoctoral-fellowship.svg" alt="CLIR Postdoctoral Fellowship Program" eleventy:ignore></a>
+    <nav aria-label="Primary navigation">{% if page.url == '/present-encounters/' or articleStyle == 'feature' %}<a href="/about/"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a><a href="/#contributions">Contributions</a><a href="https://futures.clir.org/acknowledgements/">Acknowledgements</a><a href="/#site-search">Search</a>{% else %}{% for item in navigation %}<a href="{{ item.url }}"{% if page.url == item.url or (item.url == '/#contributions' and page.url == '/') %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}{% endif %}</nav>
   </div>
   </header>
   <main id="content">{{ content | safe }}</main>
@@ -32,7 +71,7 @@
   <footer class="site-footer" id="site-footer">
     <div class="site-footer__main">
       <div class="footer-contact">
-        <img src="https://futures.clir.org/wp-content/uploads/sites/41/2021/11/clir.png" alt="CLIR">
+        <img src="/assets/clir.png" alt="CLIR">
         <address>
           <strong>Council on Library and Information Resources</strong><br>
           1800 Diagonal Rd<br>

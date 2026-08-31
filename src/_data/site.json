@@ -3,8 +3,9 @@
   "tagline": "A Third Library is Possible",
   "description": "A collection of collaboratively produced works that imagine practical, decolonial futures for libraries, archives, museums, and communities.",
   "source": "https://futures.clir.org/",
+  "socialImage": "/assets/a-third-library-is-possible.jpg",
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-  "patternAsset": "https://futures.clir.org/wp-content/uploads/sites/41/2021/11/Curated-Futures-Pattern-3.svg",
+  "patternAsset": "/assets/curated-futures-pattern-3.svg",
   "coverReference": "https://clirdlf.github.io/publications_v2/assets/images/generated/default.jpg-GLc4-V9bTH-440w.avif"
 }

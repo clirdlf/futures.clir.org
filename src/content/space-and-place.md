@@ -34,7 +34,7 @@ _Fig. 1. “You Are Here (and Here and Here…).” Diagram of multiple overlapp
 
 **Who and where are we, the writers of this piece?** We are four doctorally trained individuals who have worked in academic libraries. Three of us have deep expertise in archaeology and mapping; one of us is a library director. Some of us live in small towns, others in sizable cities. We’re at different stages in our careers. Three of us have chosen to remain in libraries for our careers, while the fourth is an information practitioner outside of higher education. We each fall into different places in the academic labor hierarchies at our respective institutions. Two of us hold non-tenured faculty positions at our institutions, and one of us is considered an academic professional—a class that falls somewhere between faculty and staff. One of us is a civil servant. One of our positions is represented by a union. All of which is to say that we have very different, but also not entirely dissimilar, relationships to the power structures at our institutions. All of us have lives and commitments and experiences outside of our jobs. So when we say “we,” the referent is sometimes shorthand for our shared, chosen profession of librarianship, as well as the collaboration we engaged in while writing this piece. For all these reasons, the literal and figurative locations from which we speak are challenging to map.
 
-![](/assets/Fig02_PlaceAndSpace.svg)
+<img src="/assets/Fig02_PlaceAndSpace.svg" alt="Network diagram showing relationships among people and organizations in engaged digital scholarship" sizes="100vw">
 
 _Fig. 2. “Where We Are.” Network graph representing the complexity of the writers’ locations and communities._
 
