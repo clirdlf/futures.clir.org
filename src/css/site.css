@@ -799,6 +799,7 @@ h2 {
   }
 }
 @page {
+  size: 8.5in 11in;
   margin: 0.7in;
 }
 
@@ -1232,7 +1233,7 @@ body {
 /* About print edition: echo the typesetting of the original essay PDF. */
 @media print {
   @page {
-    size: letter;
+    size: 8.5in 11in;
     margin: 0.72in 0.7in 0.68in;
   }
 
@@ -3071,7 +3072,7 @@ body {
 }
 
 @page cover {
-  size: letter;
+  size: 8.5in 11in;
   margin: 0;
 }
 
