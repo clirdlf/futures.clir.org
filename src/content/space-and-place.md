@@ -18,17 +18,18 @@ permalink: /space-and-place/
 ---
 
 <section class="article-section article-section--overview">
+
 {% renderTemplate "md" %}
 
 ## Introduction
 
-<div class="zigzag aria-hidden="true"></div>
+<div class="zigzag" aria-hidden="true"></div>
 
 **You are here, dear reader**. Which map would you use to reflect your location? If you are reading this on your phone or laptop at home, how would you situate yourself in relation to your community, your institution of higher education, your library? Are these places on the same map?
 
 **All maps are abstractions**. Cartography fixes and simplifies spatial information to make it “easy” to interpret, but the world itself is not so simple. When we create a map, we take all of the complexity of the physical world and apply firm limits in service of clarity and focus. Think about what defines the edge of a river, a valley, a forest or even the limits of a neighborhood, a cultural district, a city. Lines on maps are a cartographic simplification and may not reflect the permeability and mutability of boundaries in the real world. The same concept applies to the imagined border between the university and the communities that surround and permeate it. Viewing “The Gown” and “The Town” as separate, distinct entities might be easier—and certainly serves the college or university’s continuing need to control land and its resources to build on, to capitalize, and transform—but doing so obfuscates the fuzzy, shifting boundaries as well as the very real linkages between a university and the various communities of which it is a part (paperson 2017, chapter 2). Nevertheless, real work gets done in service of these boundaries when it comes to allocating or limiting resources, mobilizing or containing bodies, privileging certain narratives over others, rationalizing past and future decisions, and so on.
 
-![](/assets/Fig01_PlaceAndSpace-1.jpg)
+![Fig. 1. "You Are Here (and Here and Here…)." Diagram of multiple overlapping map layers representing the real-life complexity often obscured by a single map.](/assets/Fig01_PlaceAndSpace-1.jpg)
 
 _Fig. 1. “You Are Here (and Here and Here…).” Diagram of multiple overlapping map layers representing the real-life complexity often obscured by a single map._
 
@@ -51,6 +52,7 @@ Because library missions cleave to those of the college or university, our libra
 {% renderTemplate "md" %}
 
 ## Community Engaged Digital Librarianship
+
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
 
 Many libraries and library workers have been engaged for years in developing active community partnerships and using library tools or resources to support and connect with the diverse communities on and beyond our campuses. In particular, map librarians, data librarians, and those who work with GIS or digital scholarship tools have increasingly utilized digital technologies designed to preserve and expand access to spatial and other types of data in service of community-engaged scholarship.
@@ -79,7 +81,7 @@ The argument that libraries and universities should be engaging more deeply, tho
 <sup>1</sup> See the 2005 and 2007 conferences “New Times Demand New Scholarship,” and “New Times Demand New Scholarship II: Research Universities and Civic Engagement—Opportunities and Challenges,” summarized in Gibson 2012 and Stanton 2012 respectively
 
 <sup>2</sup> See, for example, Swarthmore College’s Lang Center for Civic & Social Responsibility ([https://www.swarthmore.edu/lang-center/about-lang-center](https://www.swarthmore.edu/lang-center/about-lang-center)), Loyola University Chicago’s Center for Experiential Learning ([https://www.luc.edu/celts/](https://www.luc.edu/celts/)), or Michigan State University’s Office of University Outreach and Engagement ([https://engage.msu.edu/about/overview](https://engage.msu.edu/about/overview))
-</div> 
+</div>
 
 </section>
 
@@ -147,15 +149,15 @@ This is not always the type of work that gets rewarded. This is not always the t
 
 Concrete steps to address known challenges:
 
-*   Steer students toward real-world research that is relevant to one of the layered communities they are a part of: local to the campus or connected to an aspect of their own identities.
-*   Prioritize working on and supporting digital scholarship that brings the library into the community virtually, as many of the mapping projects discussed above do.
-*   Center individual and organizational mission statements in collaboration.  
+* Steer students toward real-world research that is relevant to one of the layered communities they are a part of: local to the campus or connected to an aspect of their own identities.
+* Prioritize working on and supporting digital scholarship that brings the library into the community virtually, as many of the mapping projects discussed above do.
+* Center individual and organizational mission statements in collaboration.  
     Actively seek out potential campus partners to build stronger community connections.  
     Resist the self-limiting narrative of the scope of librarianship.
-*   While recognizing personal capacity limits, advocate for labor equity within and beyond the library.
-*   Weave strong internal networks of collaborators to support and nurture you while you do this work.
-*   Center community impact in your project development, management, and prioritization workflows.
-*   Prompt conversations across your organizational hierarchies about expanding your definitions of “patron” and “community.”
+* While recognizing personal capacity limits, advocate for labor equity within and beyond the library.
+* Weave strong internal networks of collaborators to support and nurture you while you do this work.
+* Center community impact in your project development, management, and prioritization workflows.
+* Prompt conversations across your organizational hierarchies about expanding your definitions of “patron” and “community.”
 
 </section>
 

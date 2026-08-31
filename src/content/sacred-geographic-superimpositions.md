@@ -69,7 +69,7 @@ The next step in the data collection process involved identifying which of the c
 
 Some of these murals were painted by multiple artists, but as long as at least one of those artists was Black it was included in the project.<sup>1</sup> While there are certainly other public artworks in Philadelphia by Black artists, this data set is meant to be representative and not exhaustive. Additionally, this data source identification process supports my work as it demonstrates my larger project of celebrating these artworks which are often ephemeral; some works were unavailable and some were temporary.
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@steamfrank/video/7083963404569906474" data-video-id="7083963404569906474" style="max-width: 605px;min-width: 325px" id="v46157966158637690"> <iframe name="__tt_embed__v46157966158637690" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-top-navigation allow-same-origin" src="https://www.tiktok.com/embed/v2/7083963404569906474?lang=en-US&amp;referrer=https%3A%2F%2Ffutures.clir.org%2Fsacred-geographic-superimpositions%2F" style="width: 100%; height: 739px; display: block; visibility: unset; max-height: 739px;"></iframe></blockquote> 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@steamfrank/video/7083963404569906474" data-video-id="7083963404569906474" style="max-width: 605px;min-width: 325px" id="v46157966158637690"> <iframe title="Sacred Geographic Superimpositions TikTok video" name="__tt_embed__v46157966158637690" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-top-navigation allow-same-origin" src="https://www.tiktok.com/embed/v2/7083963404569906474?lang=en-US&amp;referrer=https%3A%2F%2Ffutures.clir.org%2Fsacred-geographic-superimpositions%2F" style="width: 100%; height: 739px; display: block; visibility: unset; max-height: 739px;"></iframe></blockquote>
 
 *Figure 1 TikTok of a sneak peek into the mystical magical world of photogrammetry.*
 
@@ -94,7 +94,7 @@ At the align and dense cloud steps, I removed any points not associated with the
 
 In order to generate the mural models, I used the [Polycam LiDAR 3D Scanner](https://poly.cam/) mobile application on an iPad Pro which required a completely different third process. Due to the height of the murals, I was unable to use the LiDAR scanning feature and instead used the application’s feature that captures a number of photographs via the device’s camera as the user walks across the space, angling up and down along the way to ensure all corners of the mural were captured. The software generated models based on those photos and I downloaded the .jpg photographs and the .obj, .mtl, and .png model files. Those were imported into Blender, as well, to remove extraneous pieces from the model, like the sky and surrounding environment. I used this same method for the final two outdoor sculptures _Brick House_ and _Three Figures_<sup>5</sup>
 
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@steamfrank/video/7112171536521514286" data-video-id="7112171536521514286" style="max-width: 605px;min-width: 325px" id="v49591079276706410">  <iframe name="__tt_embed__v49591079276706410" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-top-navigation allow-same-origin" src="https://www.tiktok.com/embed/v2/7112171536521514286?lang=en-US&amp;referrer=https%3A%2F%2Ffutures.clir.org%2Fsacred-geographic-superimpositions%2F" style="width: 100%; height: 739px; display: block; visibility: unset; max-height: 739px;"></iframe></blockquote>
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@steamfrank/video/7112171536521514286" data-video-id="7112171536521514286" style="max-width: 605px;min-width: 325px" id="v49591079276706410">  <iframe title="Sacred Geographic Superimpositions TikTok video" name="__tt_embed__v49591079276706410" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-top-navigation allow-same-origin" src="https://www.tiktok.com/embed/v2/7112171536521514286?lang=en-US&amp;referrer=https%3A%2F%2Ffutures.clir.org%2Fsacred-geographic-superimpositions%2F" style="width: 100%; height: 739px; display: block; visibility: unset; max-height: 739px;"></iframe></blockquote>
 
 
 _Figure 2 TikTok of 3D modeling the Three Figures (1984) sculpture by Joseph C. Bailey using the Polycam LiDAR 3D Scanner app._
@@ -132,7 +132,7 @@ Additionally, I considered the ethical issues surrounding making the models down
 After generating the three-dimensional assets, the next step was to develop a mapping visualization through [ArcGIS StoryMaps](https://storymaps.arcgis.com), a story authoring web-based application that allows the user to share mapping visualizations in the context of narrative text and other multimedia content, of the public artwork data to show where they exist(ed) in physical space. After the data set was finalized, I created a spreadsheet with the contextual information about each outdoor sculpture and mural (e.g., artist, year, neighborhood, geographic coordinates). I identified an image for each of them and drafted introductory text to describe the project and the augmented reality component on the story map website ([Figure 7](https://arcg.is/1bTWWW)).<sup>10</sup>
 
 
-<iframe src="https://storymaps.arcgis.com/stories/6f9c9f75c9af4d0a9687fc342cea01d2" width="100%" height="500px" frameborder="0" allowfullscreen="" allow="geolocation"></iframe>
+<iframe title="Sacred Geographic Superimpositions story map" src="https://storymaps.arcgis.com/stories/6f9c9f75c9af4d0a9687fc342cea01d2" width="100%" height="500px" frameborder="0" allowfullscreen="" allow="geolocation"></iframe>
 
 _Figure 7: story map website_
 
@@ -258,4 +258,4 @@ Wust, M. (2016). Augmented Reality. In C. Crompton, R. J. Lane, & R. G. Siemens 
 </section>
 
 
-<script async="" src="https://www.tiktok.com/embed.js"></script>	
+<script async="" src="https://www.tiktok.com/embed.js"></script>
