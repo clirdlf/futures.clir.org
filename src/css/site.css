@@ -8,6 +8,31 @@
   --rust: #bd5238;
   --line: #cbc4b7;
   --white: #fff;
+  --yellow: #F1C41E;
+
+  --color-primary: #8d1d46;
+  --color-secondary: #D53878;
+  --color-text: #1e1e1e;
+  --color-lime: #6ec38a;
+  --color-yellow: #f1c41e;
+  --color-black: #000;
+  --color-white: #fff;
+  --color-offwhite: #f7f7f7;
+  --color-light-gray: #ededed;
+  --color-green: #51a46c;
+  --color-cream: #fcf7f3;
+
+  --primary-font-family: 'Montserrat', 'Public Sans', sans-serif;
+  --primary-font-weight: 600;
+  --secondary-font-family: 'Public Sans', sans-serif;
+  --secondary-font-weight: 400;
+  --text-font-family: "Helvetica", "arial", sans-serif;
+  --text-font-weight: 400;
+  --accent-font-family: 'Montserrat', 'Public Sans', sans-serif;
+  --accent-font-weight: 600;
+
+  color: var(--color-text);
+  
 }
 
 /* Present Encounters article */
@@ -16,7 +41,7 @@
   padding: 0 40px;
   display: grid;
   place-items: center;
-  background-color: #07384e;
+  background-color: var(--color-primary);
   background-position: center 48%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -39,7 +64,7 @@
   max-width: 900px;
   margin: 0;
   color: #fff;
-  font-family: Montserrat, "Public Sans", sans-serif;
+  font-family: var(--primary-font-family);
   font-size: clamp(38px, 4.4vw, 50px);
   font-weight: 900;
   line-height: 1.08;
@@ -138,7 +163,7 @@
   /* font-family: Georgia, serif; */
 }
 .article-section h2 {
-  margin: 0 0 36px;
+  margin: 0 0 32px;
   color: #111;
   font-family: Montserrat, "Public Sans", sans-serif;
   font-size: 34px;
@@ -1014,7 +1039,8 @@ body {
   font-style: italic;
 }
 .contribution-card__image {
-  border: 4px solid #ef8354;
+  /* border: 4px solid #ef8354; */
+  border: 4px solid var(--yellow);
   padding: 16px 16px 0 0;
 }
 .contribution-card__image img {
@@ -1373,7 +1399,7 @@ body {
 .intro__copy h2 {
   margin: 0 0 24px;
   color: #000;
-  font-size: 36px;
+  font-size: 32px;
   line-height: 1.2;
 }
 .zigzag {
