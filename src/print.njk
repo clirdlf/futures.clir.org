@@ -1,6 +1,50 @@
 ---
 layout: base.njk
 title: Print Edition
+bodyClass: print-edition-page
 permalink: /print/
 ---
-<div class="print-edition"><div class="print-controls"><p>This edition is formatted for your browser’s Print to PDF command.</p><button type="button" onclick="window.print()">Print or save as PDF</button></div><section class="print-cover"><div><p class="eyebrow">CLIR Postdoctoral Fellowship</p><h1>Curated Futures Project:<br><em>A Third Library is Possible</em></h1><p>Essays, experiments, and invitations toward a more just future for libraries.</p><p class="print-cover__publisher">Council on Library and Information Resources</p></div></section><section class="print-section prose"><h2>About the project</h2><p>{{ site.description }} This print edition gathers the project introduction, attribution, and all contributions into one document.</p></section>{% for contribution in collections.contributions %}<section class="print-section"><div class="section-label">Contribution {{ loop.index }}</div><div class="prose"><h2>{{ contribution.data.title }}</h2><p class="article-author">{{ contribution.data.author }}</p>{{ contribution.templateContent | safe }}</div></section>{% endfor %}<section class="print-section prose"><h2>Attribution</h2><p>Unless otherwise indicated, content is available for reuse under the <a href="{{ site.licenseUrl }}">{{ site.license }}</a>. This static edition preserves the original Curated Futures Project content structure and links back to <a href="{{ site.source }}">the original publication</a>.</p></section></div>
+<div class="print-edition">
+  <div class="print-controls">
+    <p>This edition is formatted for your browser’s Print to PDF command.</p>
+    <button type="button" onclick="window.print()">Print or save as PDF</button>
+  </div>
+
+  <header class="print-cover">
+    <p class="eyebrow">CLIR Postdoctoral Fellowship</p>
+    <h1>Curated Futures Project:<br><em>A Third Library is Possible</em></h1>
+    <p class="print-cover__dek">Essays, experiments, and invitations toward a more just future for libraries.</p>
+    <p class="print-cover__publisher">Council on Library and Information Resources</p>
+  </header>
+
+  <section class="print-section print-section--about">
+    {% for item in collections.all %}
+      {% if item.url == '/about/' %}<div class="print-about-content">{{ item.templateContent | safe }}</div>{% endif %}
+    {% endfor %}
+  </section>
+
+  {% for contribution in collections.contributions %}
+    <section class="print-section print-contribution">
+      <header class="print-entry-header">
+        <p class="section-label">Contribution {{ loop.index }}</p>
+        <h2>{{ contribution.data.title }}</h2>
+        <p class="print-entry-byline">
+          {% if contribution.data.authors %}
+            {% for person in contribution.data.authors %}<span>{{ (person.name or person) | safe }}</span>{% endfor %}
+          {% elif contribution.data.author %}
+            <span>{{ contribution.data.author | safe }}</span>
+          {% endif %}
+        </p>
+        {% if contribution.data.affiliation %}<p class="print-entry-affiliation">{{ contribution.data.affiliation | safe }}</p>{% endif %}
+      </header>
+      <div class="print-entry-content prose">{{ contribution.templateContent | safe }}</div>
+    </section>
+  {% endfor %}
+
+  <section class="print-section print-section--attribution">
+    <div class="print-entry-content prose">
+      <h2>Attribution</h2>
+      <p>Unless otherwise indicated, content is available for reuse under the <a href="{{ site.licenseUrl }}">{{ site.license }}</a>. This static edition preserves the original Curated Futures Project content structure and links back to <a href="{{ site.source }}">the original publication</a>.</p>
+    </div>
+  </section>
+</div>
