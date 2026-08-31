@@ -54,7 +54,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&amp;family=Public+Sans:wght@400;700&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/site.css">
 </head>
-<body class="bg-paper text-ink">
+<body class="bg-paper text-ink{% if bodyClass %} {{ bodyClass }}{% endif %}">
   <a class="skip-link" href="#content">Skip to content</a>
   {# <div class="clir-bar"><div class="clir-bar__inner"><div class="clir-links"><a href="https://www.clir.org/">CLIR</a><a href="https://www.clir.org/fellowships/">Fellowships &amp; Grants</a><a href="https://www.diglib.org/">DLF</a><a href="https://www.clir.org/pubs/">Publications</a><a href="https://www.clir.org/global/">CLIR Global</a></div><div class="clir-actions"><a href="https://www.clir.org/about/community/">Join</a><a href="https://www.clir.org/give/">Give</a></div></div></div> #}
   <header class="site-header"><div class="site-header__inner">
