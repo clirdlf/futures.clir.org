@@ -15,7 +15,7 @@ permalink: /lasting-truths/
 ---
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 > Your teachers  
 Are all around you.  
 All that you perceive,  
@@ -49,10 +49,11 @@ The second section thickens the discussion of liberated teaching and learning by
 
 This essay’s final section builds on adrienne maree brown’s work to suggest that Black speculative digital pedagogy emerges as “the place where philosophy and practice meet”—a place that is critical of “best-practices” and that draws strength from its liminality.<sup>5</sup> I build on brown’s _Emergent Strategy: Shaping Change, Changing Worlds_ (2017) to propose a digital intervention for technologically mediated learning spaces while offering project ideas from my own teaching and learning work. I conclude with a call for Black speculative learning design that shapes digital pedagogical worldbuilding. “The Book of Martha” will help contextualize this work, as the story offers a helpful perspective for framing pedagogical participation and placemaking in extra-physical counterpublic spaces.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Section 1: Minding the Gap: Placemaking, Digital Citizenship, and Class(room) Participation
 
@@ -115,10 +116,11 @@ After workshopping a range of possible changes, including minor tweaks to humani
 
 “The Book of Martha’s” Black speculative teaching and learning space is born of difference: it offers a decentralized vision of experiential pedagogy that challenges learning environments which rely on meticulously calculated metrics and blank-slate pupils, and it takes an imaginative approach to memorializing the joys and pains of becoming. It also contributes to evolving discussions of sacred placemaking without explicitly referencing digital space. In the next section, I add an additional layer to the short story’s contributions by expanding the discussion to Butler’s post-apocalyptic novel, _Parable of the Sower_, which explores a Black woman’s pedagogical journey in building a new religion. Thickening the harmonies that connect Martha’s imagined extra-physical space and real-world digital environments, I position _Parable of the Sower’s_ protagonist Lauren Olamina in relation to the sacred, mutualistic communities we can create amidst the instructive chaos of learning.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Section 2: Placemaking and Pedagogical Community
 
@@ -209,10 +211,11 @@ Pray working. (Butler, 2000, p. 294)
 
 These verses offer a glimpse of the imaginative possibility of transformative work. This has important implications for digital learning that affirms life-giving efforts while fostering inclusive communities that honor the work of opening sacred pedagogical spaces. Pushing this vision of sacred pedagogical spaces, a bit further, I suggest that Black speculative pedagogy fosters critical digital consciousness that weds transformative work with an expanded vision of imaginative technological praxis that is in line with “historical and contemporary examples of resistance” (Zumdio et. al, 2010, p. 94). This vision empowers Black students and other students of color to pursue social activism by realizing education as a labor of freedom and transformative work that embraces what Stacey Waite (2018) describes as “embodied knowledge” and what the Earthseed verses describe as a form of prayer. This begs the question: if the labor of teaching and learning is also prayer work, how do we define/design the sacred spaces in which this work happens?
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Section 3: Black Speculative Digital Humanities: Creating an Imaginative Digital Learning Praxis
 
@@ -297,10 +300,11 @@ _(May 2023)_
 <sup>5</sup> See Pete Rorabaugh and Jesse Stommel’s collaborative essay [“Hybridity pt. 3: What does Hybrid Pedagogy Do?”](http://hybridpedagogy.org/hybridity-pt-3-what-does-hybrid-pedagogy-do/) in which they challenge the practice of making hard and fast distinctions between digital and physical learning spaces—arguing that “all learning is necessarily hybrid.”
 </div>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -477,4 +481,5 @@ Wu, T. (2016). _The Attention Merchants: The Epic Scramble to Get Inside Our He
 Yancy, G. (2009). “Engaging Whiteness and The Practice Freedom: The Creation of Subversive Academic Spaces,” _Critical Perspectives on bell hooks_. Routledge.
 
 Zamudio, M. (2011). _Critical Race Theory Matters: Education and Ideology._ Routledge.
+{% endmarkdown %}
 </section>

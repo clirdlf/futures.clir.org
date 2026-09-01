@@ -15,7 +15,7 @@ permalink: /sacred-geographic-superimpositions/
 ---
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 This project was developed out of separate projects to explore story mapping as a method to build digital exhibits, learn the photogrammetric workflow to generate three-dimensional models of outdoor sculptures, and use linked open data and three-dimensional modeling to bring greater digital visibility to the collection of African sculptures in the European paintings and sculpture department at the Philadelphia Museum of Art (museum). Over time, these projects merged together and expanded into _Sacred Geographic Superimpositions_ as a way to develop a methodology that takes advantage of these easily accessible tools (and not so easy to develop skill sets) strictly for the purpose of curating Black material culture in a digital space. 
 
 When I decided to include the African sculpture three-dimensional models, a data set that expanded to include African instruments from the Temple University Libraries Charles L. Blockson Afro-American Collection (Blockson Collection), as superimposed, interactive augmented reality assets I began to consider the role of speculative digital curation within my work as a gallery, library, archives, and museum (GLAM) professional. On the conceptual side, this project has allowed me to crystallize my own specific Afrofuturist data curation practice. In her discussion of augmented space, digital artist and cultural critic Nettrice R. Gaskins explains, “Afrofuturism, in its many forms, engages directly with audiences and subtly influences us, through the layering of text, images, and sound” (2016, p. 39). She further explains, “Artists and designers can interrogate the dynamic between creative expression and information as well as how these aspects might function differently in today’s digital culture” (p. 40). Gaskins’s discussion of layering images and negotiating between creativity and knowledge production coupled with feminist and queer theory scholars Alexis Lothian and Amanda Phillips’s (2013) discussion of the role of transformative artistic production that blurs the line between art and critical knowledge production as practitioners engage with digital media creates space for such a project. In this article and the project at large, I have been clear about the boundary between material culture that exists in mapped geographic space and curated elements to expand the experience to include other objects that exist in other physical spaces both tangibly (i.e., objects from specific institutional collections) and conceptually (i.e., objects that do exist in reality but were not necessarily in my possession) to avoid any confusion on the part of the user. As such, the line between these sets of objects is not completely blurred but the project does embrace incorporating them all into a singular space. 
@@ -23,10 +23,11 @@ When I decided to include the African sculpture three-dimensional models, a data
 According to interdisciplinary scholar of library and information science André Brock’s (2018) discussion of critical technoculture discourse analysis (CTDA), the relationship between the tool, the user, and the way the tool is used are necessary to interrogate because all three are informing each other. Additionally, a CTDA-based examination of interface is critical to the examination of the technology itself considering that is how users interact. As I developed the interactive component of this project, I considered the way users typically engage with augmented reality as a location-based mobile technology to read and write space where mobile annotation impacts net locality or the user’s social experience in physical space as it is transformed. Generally speaking, augmented reality impacts the way users perceive and interact with a space since “finding a location no longer means only finding geographic coordinates but also accessing an abundance of digital information that belongs to that location. It means engaging with digital information and experiencing new forms of mobilities and textualities” (de Souza e Silva, 2013, p. 51). I selected the image tracking option instead because I wanted to share this project beyond local users in Philadelphia, which resulted in the need to develop clear instructions on the story map website that pulled from the familiar place of using QR codes to access restaurant menus during the COVID-19 pandemic. According to digital research and scholarship librarian Markus Wust, there are three characteristics of augmented reality where users are able to interact with the virtual and physical world: “(1) they combine the real and the virtual; (2) they are interactive in real time; and (3) they are registered in three-dimensional space” (Wust, 2016, p. 303.). This project meets these three criteria through the combination of the mapping visualization to represent physical space and the augmented reality interactive component with models that are triggered through image tracking. 
 
 In addition to Afrofuturist data curation, poet, musician, and activist Moor Mother Goddess (2015) proposed a framework for the “Anthropology of Consciousness…to explain how we calculate the relationship between space and our bodies, our living spaces and the ways in which these things affect the way we remember or forget our past and future memories” that speaks to my work. Not only am I coincidentally an anthropologist by training, but also in a more general sense this sentiment alongside Gaskins’s description of the relationship between Afrofuturism and audiences guides the way I practice data curation: I do not only analyze or curate artwork from a conceptual perspective and manage the data lifecycle over time, but I also create data based on existing physical objects and produce new artistic content to virtually subvert ephemerality and guide future memories. I decided which objects were eligible for inclusion, how they would be included, what information about them would be shared, and how all of this data would ultimately be presented in the project. I personally have anecdotal memories of collecting the data, conversations I had with colleagues about the progress I was making, or at some moments the lack thereof, as well as the kind of assistance I needed, and justifications for many of the decisions I made along the way as I tried to stay flexible about the possible pathways. While these memories may not be included formally in the project or this text, they certainly influence the way I have and will continue to speak about my work and the role of Afrofuturism as a conceptual framework for the application of digital humanities tools.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Project Overview and Theoretical Grounding
 
@@ -37,10 +38,11 @@ There are an estimated 1,500 outdoor sculptures and 3,600 murals in the city of 
 Through my approach Blackness is not treated as just data, history, or discourse, but rather a living, changing thing based on our humanity throughout time that incorporates “the materiality, temporality, and meaning-making capacities of the Black digital and its practitioners as technological mediation of the Black ‘post-present’” (Brock, 2020, p. 8). As such, this project has expanded into a virtual collage of local public artworks, museum and library collections objects, and spiritual and metaphysical objects in order to transform each included outdoor sculpture and mural into altars adorned with the latter elements. I specifically chose altars as the superimposed content based on my experience exploring the limitations and capabilities of various augmented reality tools, at which time I was waking up in the middle of the night trying to fit these metaphorical puzzle pieces together. I would sit in my living room near a coffee table I had gradually transformed into my own altar draped in a backless pillow sham from scraps of African fabric my deceased maternal grandmother quilted adorned with photos of family and friends, plants, a study Bible, crystals, candles, an abalone shell with white sage and palo santo, a sculpture my mother’s oldest sister sent to me, and other sentimental objects. On some sleepless night when I gazed over at that table over in the corner I suddenly found the inspiration for how to bring this project together in a manner that blended my practical goals (i.e., developing a project that combines photogrammetry, mapping, and augmented reality) with my artistic and curatorial imagination. Gaskins explains, “Augmented or layered space offers us new ways to map, view, encode, or decode traditional cultural systems and symbols with dynamically changing information, sometimes digital in form and closely linked with the development of a techno-cultural network” (Gaskins, 2016, p. 28). As such, this project specifically applies Gaskins’s (2016) techno-vernacular creative method of reappropriation via reclamation and adaptation through the application of image-based tracking to superimpose the aforementioned altars onto photographs of each public artwork within a mapping visualization.
 
 In what follows, I outline the processes and tools utilized to develop this project in an effort to share a methodological approach that centers not only Black scholarship but also the needs of Black institutions. Lothian and Phillips (2013) call for a more equitable application of digital humanities tools that subverts the way the field has historically privileged “certain gendered, racialized, classed, able-bodied, Western-centric productions of knowledge.” Digital humanities librarians often prioritize open-access data models using open-source tools to encourage equitable access, yet the field remains largely white at a rate of 71% for staff and 82% for librarians (Johnson et al., 2021). As a GLAM professional who entered the field at a small, Black institution with limited resources and capacity, my intention is to share my application of free and low-cost tools so that other GLAM professionals at small institutions with limited support for technology-centered data curation projects might find this approach useful to share their own special collections and archival records.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Establishing a Workflow to Generate Three-Dimensional Assets
 
@@ -120,10 +122,11 @@ _Figure 5: African sculptures_
 _Figure 6: African instruments_
 
 Additionally, I considered the ethical issues surrounding making the models downloadable. The increased digital visibility of these public artworks was a driving force throughout the entire project, but there are issues surrounding the game development industry that typically isolates Black players and other underrepresented groups (Collins, 1998; Gray, 2012; Higgin, 2009) using those models out of context in games. With that in mind, I decided to upload the models as public collections without the option to download so that they could be shared widely with limited risk of being exploited. An expert modeler could potentially build the model from scratch or even embark on their own photogrammetric journey but at least the general game developer seeking easy access to modeled Black art would be discouraged to use these.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Developing an Augmented Reality Project to Celebrate Ephemeral Public Art
 
@@ -173,10 +176,11 @@ _Figure 8. Demonstration of the SacredGS Ar App working with the project story m
 
 <video src="https://futures.clir.org/wp-content/uploads/sites/41/2023/04/figure-8.mp4" controls="" preload="metadata" controlslist="nodownload"></video>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Reflecting on Afrofuturist Data Curation as a Black GLAM Methodology
 
@@ -216,10 +220,11 @@ _(May 2023)_
 
 <sup>9</sup> Visit [https://skfb.ly/ov9ZC](https://skfb.ly/ov9ZC) to view the available collection of African instrument models from the Temple University Libraries Charles L. Blockson Afro-American Collection. Some models from this collection have not been uploaded because they need to have additional research conducted on them.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -255,6 +260,7 @@ West, K. (2005). Roses \[Song\]. On _Late Registration_ \[Album\]. Roc-A-Fella R
 
 Wust, M. (2016). Augmented Reality. In C. Crompton, R. J. Lane, & R. G. Siemens (Eds.), _Doing Digital Humanities: Practice, Training, Research_ (pp. 303–313). Routledge.
 
+{% endmarkdown %}
 </section>
 
 

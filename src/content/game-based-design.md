@@ -17,7 +17,7 @@ permalink: /game-based-design/
 ---
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Introduction - The Stakes of Gaming for Digital Exhibits
 
@@ -45,10 +45,11 @@ Video games, though popular, have since their inception embedded issues of diver
 
 Based on these examples, to successfully provide gaming services, libraries should a) collaborate with the intended audience and b) enable networking, game creation, education, and community outreach. This is because video games facilitate community building and serve as a catalyst for increased usage of library resources and services. As such, libraries should consider them critically important in meeting the needs of their patrons ([Boyle 2018](https://academicworks.cuny.edu/ulj/vol24/iss1/3/)). Therefore, the following section offers some specific articles about the relationship between games and digital exhibits.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ![](/assets/Games-in-Libraries-Examples-1.png)
 
@@ -68,10 +69,11 @@ In addition to the gamification of exhibits, games have also been exhibited in m
 
 Especially as the COVID-19 pandemic limits in-person interactions, as well as visits to libraries and exhibits, this period calls for the rethinking and redesigning of digital practices for libraries as it pertains to exhibits. Drawing from [Dasgupta et al. (2021)](https://link.springer.com/book/10.1007/978-3-030-77411-0), we contend that digitization in library environments can democratize access to library exhibitions regardless of the visitor’s location, age, race, or background if the accessibility and usability of those digital resources are foregrounded through frameworks and methods which center user engagement.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ![Quote from the essay, black and white text on a green background: "...we contend that digitization in library environments can democratize access to library exhibitions regardless of the visitor’s location, age, race, or background if the accessibility and usability of those digital resources are foregrounded..."](/assets/Games-and-Digital-Exhibits.png)
 
@@ -102,10 +104,11 @@ In addition to the above listed methods, there are a number of empathize-phase a
 <sup>1</sup>  The Life Design Log offers an example of three types of stakeholder mapping exercises, all of which could be adapted for library design teams interested in exploring who to talk to ([Nathan 2020](https://lifedesignlog.com/3-stakeholder-map-templates-for-virtual-co-creation/)).
 </div>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ![](/assets/Gamifying-Collections-1.png)
 
@@ -136,10 +139,11 @@ Each of these gamified digital exhibits seek innovations in digital technologies
       <sup>1</sup> In the vein theorized by Benjamin Stokes in his recent book, _Locally Played: Real World Games for Stronger Places and Communities_ (2020).
       </div>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ![](/assets/Conclusion.png)
 
@@ -151,10 +155,11 @@ Drawing on literature in game studies and in the field of library science, we hi
 
 _(January 2022)_
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -234,10 +239,11 @@ Vose, Thomas. 2018. Fortnite: Games in Libraries. _American Libraries Associatio
 
 Wang, Tricia. 2021. The Most Popular Design Thinking Strategy is BS. (June 28, 2021). _Fast Company_. [https://www.fastcompany.com/90649969/the-most-popular-design-thinking-strategy-is-bs](https://www.fastcompany.com/90649969/the-most-popular-design-thinking-strategy-is-bs).
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Downloads
 
@@ -247,4 +253,5 @@ Wang, Tricia. 2021. The Most Popular Design Thinking Strategy is BS. (June 28, 2
 
 - [View on Humanities Commons](https://doi.org/10.17613/s58y-8976)
 
+{% endmarkdown %}
 </section>

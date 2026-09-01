@@ -20,7 +20,7 @@ permalink: /present-encounters/
 ---
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 The primary impetus for the Present Encounters: Digital Humanities Meet Afrofuturism symposium hosted on April 21-22, 2022 at Temple University Libraries and, by extension, this special issue was to employ Afrofuturism as a conceptual model to develop an inclusive and accessible digital humanities practice centered around the needs of the Black studies community. Cultural critic Mark Dery explains that he coined the term Afrofuturism during a period in which cyberpunk culture was highly Eurocentric with a “deeply body-phobic vision of futurity and of technology, shot through with a loathing for the corporeal, the feminine, and ‘the Other’” (quoted in Barber, 2018, p. 139). Instead, Afrofuturism provides a multigenerational, multi-genre reconciliation the technocentric trends within cyberpunk spaces with an aesthetic and anti-racist practice that responds to a period during which there was a sort of fragmentation occurring between one’s conditions and what one creates (Barber, 2018; Lavender III and Yaszek 2020). Relatedly, sociologist and hip hop scholar Tricia Rose comments, “If you’re going to imagine yourself in the future, you have to imagine where you’ve come from; ancestor worship in Black culture is a way of countering a historical erasure” (quoted in Dery, 1994, p. 215), which underscores the political project embedded within Afrofuturism to counter the “systematic, conscientious, and massive destruction of African cultural remnants” (Samuel R. Delaney quoted in Dery, 1994, p. 191).
 
@@ -35,12 +35,12 @@ Brock (2018) also proposes a critical technocultural discourse analysis (CTDA) m
 Creators of new media applications and interfaces should consider whether cultural artforms become irrelevant and invisible or if designers end up creating new experiences in which the spatial and information layers are equally important. Artists and designers can interrogate the dynamic between creative expression and information as well as how these aspects might function differently in today’s digital culture (2016, p. 40).
 
 Taken together, Brock and Gaskins propose an Afrofuturist digital humanities pedagogy and practice grounded in Blackness that considers the relationship between the tool, the developer, the user, and the audience (see also McPherson, 2012). This approach should also incorporate what humanities scholar Kara Keeling calls Queer OS: an inclusive approach that integrates new media studies, queer theory, and race and gender studies under a singular umbrella to generate “a society-level operating system…to facilitate and support imaginative, unexpected, and ethical relations” (2014, p. 154). Queer OS aims to work beyond the “master’s tools” to develop and/or underscore alternate epistemologies.
-{% endrenderTemplate %}
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Symposium Overview and Issue Outline
 
@@ -66,12 +66,12 @@ Five of the presentations from the symposium are included in this issue as artic
 
 <sup>7</sup> Watch Asante’s closing remarks here: [https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365](https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365).
 
-{% endrenderTemplate %}
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -92,8 +92,8 @@ Keeling, K. (2014). Queer OS. *Cinema Journal, 53*(2), 152–158.
 Lavender III, I., & Yaszek, L. (2020). The First Death of Afrofuturism. *Extrapolation, 61*(1–2), 1–6.
 
 McPherson, T. (2012). Why are the Digital Humanities So White? Or Thinking the Histories of Race and Computation. In M. K. Gold (Ed.), *Debates in the Digital Humanities* (pp. 139–160). University of Minnesota Press.
-{% endrenderTemplate %}
 
+{% endmarkdown %}
 </section>
 
 

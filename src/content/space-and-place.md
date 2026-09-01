@@ -18,8 +18,8 @@ permalink: /space-and-place/
 ---
 
 <section class="article-section article-section--overview">
+{% markdown %}
 
-{% renderTemplate "md" %}
 
 ## Introduction
 
@@ -46,10 +46,12 @@ What do we mean by community anyway? Is it simply shorthand for “not campus”
 Significantly, our academic library missions are seldom explicit about who are “our users” or the “campus community” we serve. These mission statements typically prioritize the campus’ mission, which may be equally vague about who is welcomed and who is excluded when it comes to utilizing the tangible and human resources of the institution. Yet even if a library mission is explicitly focused on the students and faculty within the institution, no individual can be meaningfully separated from their lived identities, environments, and cultural backgrounds, and thus the academic library cannot exist apart from its communities. **We cannot serve the campus without also serving the range of communities our patrons occupy.** You may fix your location marker in one place on a campus map but also in multiple other locations simultaneously, depending on the boundaries of the maps in question. You are here. But you are also here, and here, and here and there and there . . ..
 
 Because library missions cleave to those of the college or university, our libraries are embedded in the histories, structures, and technologies of colonialism that define higher education, what la paperson (2011) calls “The First University.” Mapping projects have been helpful in elucidating the legacy of colonialism in the higher education system of the United States (see, for example, Lee et al. 2020). Following la paperson’s notion of the decolonizing Third University, which is monkey-wrenched from the colonizing First University, how can we use the tools of the existing library to make a Third Library possible? Who are the patrons of the Third Library, and how can partnering on community-engaged digital scholarship reach them where they are? While this is not a digital scholarship center problem, it is clear that digital scholarship centers, particularly those based in libraries, are well equipped to build bridges, cultivate new partnerships, and sustain networks that thread across traditional campus boundaries.
+
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Community Engaged Digital Librarianship
 
@@ -78,15 +80,21 @@ The argument that libraries and universities should be engaging more deeply, tho
 <hr class="border-t border-gray-300 my-6">
 
 <div class="footnotes">
-<sup>1</sup> See the 2005 and 2007 conferences “New Times Demand New Scholarship,” and “New Times Demand New Scholarship II: Research Universities and Civic Engagement—Opportunities and Challenges,” summarized in Gibson 2012 and Stanton 2012 respectively
 
-<sup>2</sup> See, for example, Swarthmore College’s Lang Center for Civic & Social Responsibility ([https://www.swarthmore.edu/lang-center/about-lang-center](https://www.swarthmore.edu/lang-center/about-lang-center)), Loyola University Chicago’s Center for Experiential Learning ([https://www.luc.edu/celts/](https://www.luc.edu/celts/)), or Michigan State University’s Office of University Outreach and Engagement ([https://engage.msu.edu/about/overview](https://engage.msu.edu/about/overview))
+  <p>
+  <sup>1</sup> See the 2005 and 2007 conferences “New Times Demand New Scholarship,” and “New Times Demand New Scholarship II: Research Universities and Civic Engagement—Opportunities and Challenges,” summarized in Gibson 2012 and Stanton 2012 respectively.
+  </p>
+
+  <p>
+    <sup>2</sup> See, for example, Swarthmore College’s Lang Center for Civic & Social Responsibility ([https://www.swarthmore.edu/lang-center/about-lang-center](https://www.swarthmore.edu/lang-center/about-lang-center)), Loyola University Chicago’s Center for Experiential Learning ([https://www.luc.edu/celts/](https://www.luc.edu/celts/)), or Michigan State University’s Office of University Outreach and Engagement ([https://engage.msu.edu/about/overview](https://engage.msu.edu/about/overview)).
+  </p>
 </div>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Technologies of Place and Space
 
@@ -109,10 +117,12 @@ The natural alternative would be to support one or more of the open-source alter
 
 <sup>4</sup> For ArcGIS license costs, see [https://www.esri.com/en-us/arcgis/products/arcgis-desktop/buy](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/buy).
 </div>
+
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## How to Get Started
 
@@ -136,10 +146,11 @@ While the starting points below are organized by role, we recognize that people,
 
 We want to create the Third Library out of the First (and Second) Library. How do you think we ought to get started?
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Recommendations for the Third Library
 
@@ -159,10 +170,11 @@ Concrete steps to address known challenges:
 * Center community impact in your project development, management, and prioritization workflows.
 * Prompt conversations across your organizational hierarchies about expanding your definitions of “patron” and “community.”
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Conclusion
 
@@ -170,10 +182,11 @@ Are you here? We hope so. This brief discussion is meant to highlight that there
 
 _(January 2022)_
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -215,4 +228,5 @@ Torn Apart/Separados. 2018. Accessed October 15, 2021, [http://xpmethod.columbia
 
 Wingo, Rebecca, Jason Heppler, and Paul Schadewald, eds. 2020. _Digital Community Engagement: Partnering Communities with the Academy_. University of Cincinnati Press. Available at [https://ucincinnatipress.manifoldapp.org/read/4259da4f-74f6-4013-bdf4-cf97fcb500b0/section/36c4f690-27d9-4555-aa0a-868d6563ecda](https://ucincinnatipress.manifoldapp.org/read/4259da4f-74f6-4013-bdf4-cf97fcb500b0/section/36c4f690-27d9-4555-aa0a-868d6563ecda).
 
+{% endmarkdown %}
 </section>

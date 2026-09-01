@@ -21,7 +21,7 @@ permalink: /flame/
 ---
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Acknowledgements
 
@@ -29,10 +29,11 @@ permalink: /flame/
 
 We would like to thank Nicole Kang Ferraiolo, Justin Schell, and Kathlin Smith for their guidance and support in developing the podcast.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## About Season 1
 
@@ -51,19 +52,26 @@ FLAME’s guests are groups of people who are affected by lack of, or restricted
 ## Season 1
 
 <iframe title="FLAME podcast on Spotify" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/5dq7mdhEPnc3i2nhsYpsyD?utm_source=generator&si=99ac069bcaaf4906" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Our Guests
 
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
 
+
+
+
+
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Future of FLAME Series
 
@@ -71,10 +79,11 @@ In Season One, we delved into what our guests would like to see altered in their
 
 Our goal is to continue the podcast series with different hosts and guests, with past FLAME teams providing guidance and documentation for future FLAME teams.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Downloads
 
@@ -95,4 +104,5 @@ Our goal is to continue the podcast series with different hosts and guests, with
 *   [Episode 7 Transcript](https://docs.google.com/document/d/1DCN2HpGxEYXFybrb9GAmo8CG_NfOvt7GBctEX_xF04c/edit)
 *   [Episode 8 Transcript](https://docs.google.com/document/d/10KyudxTUZchdNNVlPqVCZ7LuDYoZO7x9YeHTuXkqUa0/edit)
 
+{% endmarkdown %}
 </section>

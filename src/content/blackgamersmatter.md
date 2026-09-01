@@ -15,7 +15,7 @@ permalink: /blackgamersmatter/
 ---
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 It was Christmas 1986, one of the happiest days in my childhood. It was the year I received my very own Nintendo gaming system. One of the very first ones that included Super Mario Bros. and Duck Hunt games along with the controllers and NES Zapper. This shades of gray and black with red letters gaming system was the equivalent of winning the lottery for a five-year Black girl…I was on top of the world (Figure 1)! Some years later I would also get Nintendo’s 8-bit handheld game console, “The Game Boy” and play Tetris until I exhausted all of the levels. These early gaming moments were filled with child-like innocence and without fear. During these moments, I was not thinking about exclusion and diversity, it was all about how I can get more playing time (or in today’s terms screen time) with new gaming toys. Gaming was an opportunity to escape the household chores for that week, something to look forward to after finishing my homework, or a supplement to Saturday morning cartoons.
 
@@ -25,10 +25,12 @@ It was Christmas 1986, one of the happiest days in my childhood. It was the year
 _Figure 1. Christmas 1986, when the author received a Nintendo ES gaming system._
 
 While I am not as active of a player as I was growing up, I’ve switched gears from escaping to play video games to examining the gaming industries global media impact. Since the 1980s and 1990s the gaming industry has evolved to include more elaborate storylines and graphics, new modes of communicating with other fellow gamers, and see the first HBCU (Benedict College-located in Columbia, South Carolina) \[For more information [see here](https://girlsunited.essence.com/article/benedict-college-esports-degree-gaming-room/)\] to host an Esports competition along with establishing an undergraduate degree, minor, and certifications. To say I am amazed is an understatement. Even in my amazement, there is still work to do to normalize the Black experience in gaming.
+
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## A Call to Action
 
@@ -38,10 +40,11 @@ Fast forward to February 2012 the world must process the murder of Trayvon Marti
 
 These same thoughts can and do translate into the gaming space, more specifically through its Black gamers/players. As argued by software analyst Jordan Minor in a 2020 PC Magazine article, “Video games aren’t special. They exist in the same world as everything else and are impacted by the same social, cultural, and political forces.” Thus, gaming has much work to do as it relates to diversity and the acknowledgment of equitable representation. More specifically, when discussing video game character development, the default has historically been cis-, white and male. This becomes problematic when users try to identify with the characters they are playing (Williams et al., 2009). Hence, many Black players and even creators take on a position of suffering in silence, alienation, and a need to belong. Yet, the gaming space, as argued by Kishonna L. Gray, does have the potential to explore the “treacherous terrain” that many Black players experience (Gray, 2020). Furthermore, the essay offers an examination and imagining of the gaming space through an Afrofuturistic lens and how it creates discussions around the relationships between race, access, and technology (Nelson 2002) while also figuring out ways to close the gaming/digital gap. However, before exploring why and how #BlackGamersMatter in this “treacherous terrain” it is necessary to offer some background into the larger relationship between Blackness, technology, and gaming.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Blackness &amp; Technology
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
@@ -57,10 +60,12 @@ Also, there are scholars who are researching the roles of digital activism, soci
 Additionally, there are several scholars who are specifically engaging in the work of Blackness and gaming, which includes Kishonna L. Gray’s (2020) work on the intersections of race, gender, sexuality, and (dis)ability through her book _Intersectional Tech: Black Users in Digital Gaming_; and Lindsey Grace’s work on the creative contributions of Black game makers/designers/developers, designing social impact games, and future gaming archives through his books _Black Game Studies: An Introduction to the games, game makers and scholarship of the African Diaspora_ (2021) and _Doing Things with Games: Social Impact Through Play (2019)_. Both Gray and Grace address the biases in video game designing and developing, while simultaneously finding solutions. These efforts have long-term effects as they play a role in empowering marginalized communities, highlighting how virtual worlds can affect real-world networks and communities, and creating digital archives particularly for game historians, academics and hobbyists. By incorporating personal narratives and experiences from players and makers, it provides exposure and visibility and demonstrates that these are not isolated, solitary experiences.
 
 As a growing topic that is being investigated from numerous disciplines including Africana studies, anthropology, communication studies, gender/women/sexuality studies, library and information studies, new media studies, and sociology, the study of Blackness and technology has made a significant mark within academic circles. In addition to the above-mentioned scholars and their important texts surrounding Blackness and technology, there have been other ground-breaking compilations such as the “Black Code” 2017 special issue of _The Black Scholar_ (Johnson and Neal, 2017); _The Intersectional Internet: Race, Sex, Class, and Culture Online_ (Noble and Tynes, 2016); and solo texts like Feminista Jones’s (2019)  _Reclaiming Our Space: How Black Feminists are Changing the World from the Tweets to the Streets_; Mar Hicks’s (2018) _Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing_; and Sarah Florini’s (2019) _Beyond Hashtags: Racial Politics and Black Digital Networks._ Most, if not at all center Blackness across a range of themes and platforms, while highlighting the joys of being online and the intersections of Black freedom struggles with Black play and praxis (Johnson and Neal, 2017). As scholars continue to push the boundaries and margins of the digital landscape, reshape the beliefs and expectations of who belongs in the room or behind the control, and confront the systemic violence, there is hope that future possibilities between Blackness and technology are endless.
+
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Hidden Figures: Stagnation, Resistance, Progress &amp; Action
 
@@ -112,10 +117,11 @@ Of these characters, even fewer are Black women, who are often portrayed as ambi
 
 Still, even with positive strides, Black gaming consumers, producers, and characters continue to have a strained relationship. While the gaming industry is largely dominated by white men, Black and brown voices have a growing presence. In a 2015 study from the Pew Research Center’s Teen Relationship Survey showed that 83% of non-Hispanic/Black teenagers play video games, compared to 71% of Caucasian teenagers, with 69% of Hispanic/Latinx teens not too far behind (Lenhard 2020). This is important to note as the numbers show high percentages of Black and brown teens playing games, but unfortunately these same numbers do not reflect the same character representations within the games that are being played. When considering the actual staffing/game developers, another report from the International Game Developers Association (IGDA) notes among game developers worldwide 81% identify as white/Caucasian/European, 7% identify as Hispanic/Latinx, and 2% identify as “Black/African-American/African/ Afro-Caribbean” (Westar, Kwan, and Kumar, 2019). What is also important to note is the lack of diversity on the game creation side. Tanya DePass, founder of the nonprofit [I Need Diverse Games](https://ineeddiversegames.org/), argues that for companies that are invested in improving diversity in their content, “the biggest thing is diverse staff, and diverse staff at the leadership level” (Peckham 2020). Furthermore, in order to make this a reality, game studios must hire outside consultants and experts that can review their development plans, while simultaneously providing feedback on where their content may include stereotypes or misrepresent an ethnic group. DePass further argues that a proactive approach is necessary, thus, diversity consultants “should be present in the beginning, not a month before launch” and the action must be treated seriously (Peckham 2020). In addition to the above-mentioned recommendations, Black and brown creators and developers are also no longer simply relying on acceptance into abusive and toxic companies and corporations. As the video game industry increases as a global phenomenon and evolves, the work still continues. This work is coming to fruition through the creation of Black gamer communities.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Playing in the Future: An Emergence of Black Gamer Communities
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
@@ -140,10 +146,11 @@ Motivated to change the gaming landscape from impersonators and opportunists of 
 
 The above communities were selected based on each being created specifically by Black women and how they are shifting the gaming paradigm, and in turn they are reclaiming space that has been previously denied to the Black female gaming community. Operating on their own terms, each of these organizations exemplify what I call a breakthrough vision. They have made their mark in an industry that has overlooked their potential and value, while implementing and executing various visions that reach the masses.7 Digital culture and game studies scholar Frans Mäyrä (2008) suggests that gamers who come together to play possess a shared language, while simultaneously engaging in collective rituals. The collective language and rituals offer a space to generate solutions, build relationships, and even share resources. Taking on attributes of self-determination, visualizing alternate realities and futures becomes a way to channel a language of resilience, which is familiar territory for the survival of Black women. Sugar Gamers, I Need Diverse Games, and Black Girl Gamers function as intersectional communities and platforms that disrupt hegemonic narratives (Gray 2020) by designing multiple lanes of visibility, commanding attention and access, and illustrating that Black women do belong in the gaming world. Ultimately, through each community they have escaped alienation, imagining futures from forgotten pasts, and establishing new gaming traditions.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## The Second Race for Theory: The Challenge for Africology and Africana Philosophy
 
@@ -174,10 +181,11 @@ _(presented April 2022, published May 2023)_
 
 </div>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -263,4 +271,5 @@ Williams, Dmitri, Nicole Martins, Mia Consalvo, and James D. Ivory. “The virt
 
 Womack, Ytasha. “The Divine Feminine in Space.” In _Afrofuturism: The World of Black Sci-Fi and Fantasy Culture_, 104. Lawrence Hill Books, 2013.
 
+{% endmarkdown %}
 </section>

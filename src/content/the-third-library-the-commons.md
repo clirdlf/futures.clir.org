@@ -16,7 +16,7 @@ permalink: /the-third-library-the-commons/
 ---
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Acknowledgements
 
@@ -63,10 +63,11 @@ While the reflections in the following three sections are relatively self-contai
 <sup>1</sup> We were able to find 116 R1 library strategic plan documents to include in the corpus; there are 131 R1 universities overall, giving us fairly good coverage. The data and code required to create the word cloud above are provided at the following link: [https://github.com/aranganath24/clirproject](https://github.com/aranganath24/clirproject).
 </div>
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Section One: The Library and the Knowledge Commons
 
@@ -136,10 +137,11 @@ This mobilization against the commodification of academic knowledge and the corp
 
 If library workers are to engage in the political work of building a Third Library that is a genuine steward of the knowledge commons, and in doing so successfully challenge the excesses of the corporate university that buttresses the regime of knowledge capital at the expense of the commons, it is therefore necessary to build solidarity and mutual trust among the library’s workers, so as to create the conditions necessary for mutual empowerment and collective action. It is also necessary to cultivate a civic imagination that will allow library staff, the library’s patrons, and other university stakeholders to see beyond the horizon of contemporary knowledge capitalism, and to explore ways of remaking the world through democratic, rather than market-driven, governance. Below, we explore how transposing the concept of the commons to the library workplace, and to its physical spaces, may offer us a way to meaningfully pursue these ends.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Section Two: The Library as a Workplace Commons
 
@@ -197,10 +199,11 @@ In addition, whether unionized or not, library staff can and should show solidar
 
 Library staff have an important role to play when it comes to building the library of the future. A Third Library is possible, but only if library workers realize that reinforcing existing statuses and hierarchies will not create positive change. Likewise, centering narrow professional concerns will also not create positive change. To create a democratic and decolonizing Third Library, library staff need to work together to create a workplace commons that draws on collective power and focuses on addressing social justice issues that affect not only library workers, but also the broader communities in which our institutions are located.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Section Three: Space, and The Library as a Physical Commons
 
@@ -254,10 +257,11 @@ With the OPC and library conceived as separate endeavors, the commons spaces on 
 Academic libraries should take note of this tendency, seen in the design of the Obama Presidential Center, to devalue or eliminate librarians’ work from the commons due to online services. As Marie L. Radford points out, such services “seem deceptively simple because we live online now, but what’s underneath there is the level of complexity about human interaction” (qtd. in Carlson 2021). Additionally, academic libraries must take note that when building knowledge commons, we must avoid the paradox in which faculty “vote to protect the collections budgets from cuts while allowing, directly or indirectly, reductions in staff that prevent the very acquisitions and systems design and other services needed to bring them the collections they defended” (Pritchard 2008, 299). Library work must be a centerpiece not only in building the knowledge commons, but also advocating for free and open access to information and resisting the encroaching demands of knowledge capitalism. A Third Library is possible when building physical spaces that allow for the collective power of a workplace commons, which in turn makes it possible to advocate for a true knowledge commons.
 
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Conclusion
 
@@ -279,10 +283,11 @@ As a social institution, the Third Library has the potential to play an essentia
 
 _(January 2022)_
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -451,10 +456,11 @@ Washburn, Jennifer. 2005. _University, Inc. The Corporate Corruption of American
 
 Zu, Lihong Zu. 2012. “The Role of Paraprofessionals in Technical Services in Academic Libraries.” _Library Resources and Technical Services_ 56(3). [https://doi.org/10.5860/lrts.56n3.127](https://doi.org/10.5860/lrts.56n3.127).
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Downloads
 
@@ -464,4 +470,5 @@ Zu, Lihong Zu. 2012. “The Role of Paraprofessionals in Technical Services in A
 
 - [View on Humanities Commons](https://doi.org/10.17613/4h0p-c920)
 
+{% endmarkdown %}
 </section>

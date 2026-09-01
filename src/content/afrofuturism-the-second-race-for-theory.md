@@ -18,7 +18,7 @@ permalink: /afrofuturism-the-second-race-for-theory/
 ---
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 I was so glad when I got this email from Synatra inviting me to talk about this because I’ve been in conversation with the Black speculative movement over the last eighteen months about the subtle shifts that have gone on in relation to how knowledge is getting produced around the topic of Afrofuturism. At that time, I was also working on The Black Angel of History: Myth-Science, Metamodernism, and the Metaverse, an exhibition at Carnegie Hall. In his 1964 address at the Audubon Ballroom, Malcolm X stated, “I, for one, believe that if you give people a thorough understanding of what it is that confronts them, and the basic causes that produce it, they’ll create their own program; and when the people create a program, you get action.” One of the things we kept in mind when developing the contemporary Afrofuturist movement was integrating community spaces. When we do it internationally, I said, “we’re not going to go in there with an American-centric colonizer aspect. They can figure out what they need for themselves. They just want to know what tools are available.” And they have; usually their own local knowledge systems will help enforce that. in Johannesburg, South Africa during the Fall of 2018 activist Naledi Chirwa said, “Yeah, for us, Afrofuturism is the politics of the stomach. You know, who gets to eat and who does not eat.” One of the things that I share with some of my colleagues is that American intellectuals sometimes can be unique in their approach to when we are talking in the abstract. One of my previous colleagues from Guyana said, “You can always tell an American scholar when they talk about some things internationally, because it’s different from us. Sometimes the way we talk about our ideas determines if you have a roof over your head or if you get to eat or not.” And so, sometimes what Americans talk about is not very practical, in terms of its application.
 
@@ -35,10 +35,11 @@ At this point, intellectuals began shifting from the anti-colonial Black Power e
 The Africological response to this period and discussions of Black futures was explored through a few works during this time. Mark Dery (1994) coined the term “Afrofuturism” in dialogue with author and literary critic Samuel R. Delaney, writer, musician, and producer Greg Tate, and hip hop scholar Tricia Rose. Additionally, C. Tsehloane Keto’s _The Africa Centered Perspective of History and Social Sciences in the Twenty-first Century_ (1993) was one of those thin 100-page books that you could only find in Black bookstores. Keto explains, “As a futurologist she or he can speculate, engage beyond the next century… to create in sharp contrast a time map on which to trace the events of the past, create history through action in the present, and plot the path of possible future action” (1993, 120-122). Asante also published _Malcolm X as Cultural Hero and Other Afrocentric Essays_ (1993) in which he deals with space and time. Then also, the first scholar using Afrocentricity in relation to the world wide web was Anna Everett in her essay _The revolution will be digitized: Afrocentricity and the digital public sphere_ (2002), in which she establishes an Africological perspective in relation to the Web 1.0 era.
 
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## The Second Race for Theory: The Challenge for Africology and Africana Philosophy
 
@@ -48,10 +49,11 @@ According to Moore’s Law, approximately every eighteen months knowledge double
 
 Now, Africology and Afrofuturism 2.0 deals with a global Black or African speculative imagination. It is to the left of the ideological left because it emanates from an alternative geography of reason that centers Africa instead of Europe, and it has these different components organized around Afrocentric meta theory, which deals with agency, location, or dislocation; Afrofuturism 2.0, which is a transnational theorization influenced by the merging of social media, digital aesthetics, and file sharing, the African Union, which establishes the African diaspora as the sixth region of the continent, platform capitalism, blockchain and biotech, and existential threats. Additionally, Afrofuturism 2.0 deals with five dimensions that include metaphysics, aesthetics, theoretical and applied science, social science, and programmatic spaces. Finally, Astro-Blackness assesses a political commitment to Black consciousness connected via digital platforms that transcend the nation-state that has been occurring for the past two decades.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Theory and Praxis: The Structure of Artistic Revolutions
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
@@ -61,10 +63,11 @@ The Black Speculative Arts Movement (BSAM), established in 2015 with the _Unveil
 
 
 Jennings, myself, and others have discussed a commitment to inform our BSAM praxis through scholarship. I have collaborated with several scholars to publish three edited volumes (Anderson and Jones, 2015; Anderson and Fluker, 2019; Brooks, Anderson, and Taylor, 2020). Another aspect of BSAM is that it is poly-temporal and facilitates the creation of imagination survival programs internationally in such countries as Brazil, Kenya, Nigeria, South Africa, Cameroon, Ghana, and Canada. Methodologically speaking digital humanities is focused on data analysis, data capture, and data structure. However, for the Africologist, what is key is the orientation toward the data, as in the case of “Afrofuturist Intellectual Mixtapes: A Classroom Case Study” (Thompson and Carrera, 2021)—in which _Afrofuturism 2.0: The Rise of Astro-Blackness_ (Anderson and Jones, 2015) contributed as a primary text—and _Afrofuturism and Digital Humanities: Show Me and I Will Engage Differently_ (Carter, 2022). Additionally, I regard _Cosmic Underground: A Grimoire of Black Speculative Discontent_ (Anderson and Jennings, 2018), the Afro-Canadian project _Cosmic Underground Northside: An Incantation of Black Canadian Speculative Discourse and Innerstandings_ (Vercetty and Hudson, 2021), which includes contributions from Black Caribbean folks, and _The Comet – 150 Years W.E.B. DuBois: Afrofuturism 2.0_ (Kelly, 2021), which includes a Black European perspective, as the speculative message from the grassroots.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Looking Ahead Afrofuturism 3.0
 
@@ -74,10 +77,11 @@ The explosion of African creatives, such as founder of ART X Lagos Tokini Peters
 
 _(presented April 2022, published May 2023)_
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -131,4 +135,5 @@ West, C. (1982). _An Afro-American Revolutionary Christianity_. Philadelphia: We
 
 Wilderson, F. B. (2020). _Afropessimism_. Liveright.
 
+{% endmarkdown %}
 </section>

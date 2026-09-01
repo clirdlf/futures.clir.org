@@ -1,13 +1,12 @@
 const markdownIt = require('markdown-it');
 const markdownItAnchor = require('markdown-it-anchor');
-const { EleventyHtmlBasePlugin, EleventyRenderPlugin } = require('@11ty/eleventy');
+const { EleventyHtmlBasePlugin } = require('@11ty/eleventy');
 const { eleventyImageTransformPlugin } = require('@11ty/eleventy-img');
 
 const baseUrl = '/futures.clir.org/';
 const pathPrefix = process.env.ELEVENTY_PATH_PREFIX || baseUrl;
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     formats: ['avif', 'webp', 'auto'],
     widths: [480, 960, 1440, 'auto'],
@@ -27,6 +26,7 @@ module.exports = function (eleventyConfig) {
   const markdown = markdownIt({ html: true, linkify: true, typographer: true })
     .use(markdownItAnchor, { slugify: (value) => value.toLowerCase().trim().replace(/[^\w]+/g, '-') });
   eleventyConfig.setLibrary('md', markdown);
+  eleventyConfig.addPairedShortcode('markdown', (content) => markdown.render(content));
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets' });
   eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon.ico': 'assets/favicon/favicon.ico' });
   eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon-16x16.png': 'assets/favicon/favicon-16x16.png' });

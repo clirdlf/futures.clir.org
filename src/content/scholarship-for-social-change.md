@@ -14,7 +14,7 @@ permalink: /scholarship-for-social-change/
 ---
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## About this Contribution
 
@@ -36,10 +36,11 @@ CLIR commits to maintaining and updating this visualization for two years from t
 
 _(January 2022)_
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Data Visualization
 <div class="zigzag" aria-hidden="true"></div>
@@ -47,10 +48,11 @@ _(January 2022)_
 Zoom in and out of this visualization by using your mouse/trackpad (on a laptop/desktop) or by pinching your screen on a mobile device. In addition to creating new nodes and relationships on the visualization that readers of this site will submit, we plan on incorporating other visualization features, such as “tool tip” links for individual projects and more.
 
 <iframe src="https://clirdlf.github.io/scholarship-as-social-change/alchemy.html" title="" width="100%" height="800px" allow="fullscreen"></iframe>
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Downloads & Links
 
@@ -65,4 +67,5 @@ Zoom in and out of this visualization by using your mouse/trackpad (on a laptop/
 - [View on Humanities Commons](https://doi.org/10.17613/h3gk-ta62)
 
 
+{% endmarkdown %}
 </section>

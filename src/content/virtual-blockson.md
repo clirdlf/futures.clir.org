@@ -17,7 +17,7 @@ permalink: /virtual-blockson/
 ---
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ![A virtual recreation of the Blockson reading room with red-patterned carpet, tile ceiling, 2 tables, and glassless windows that look out onto the blue empty Unity Game Engine space. There are 3D models of African Instruments on one of the long tables. A slot drum is floating in air, being lifted by a 3D representation of the VR controller.](/assets/Virtual-Blockson-Figure-1.jpg)
 
@@ -72,10 +72,11 @@ Dox Thrash was born in rural Griffin, Georgia in 1893 to a family that lived in 
 
 Figure 7 screenshot of the Virtual Blockson reading room.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Project Format
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
@@ -159,10 +160,11 @@ _C. Cite primary sources in accordance with appropriate citation style guideline
 _D. Adhere to copyright and privacy laws when incorporating primary source information in a research or creative project._ 
 
 This learning objective will be accomplished by providing players with a basic research question that they will have to answer in order to progress and win the game. They will have to interact with various materials from the Blockson Collection, as well as recreated objects and spaces in order to unlock information that will contribute to the refinement of the provided research questions as the game progresses. Materials from the Blockson Collection will have records within the TUL catalog that the accompanying teaching materials will list. Students will be able to locate the records and learn how to properly cite them, identify rights information, and think through incorporating them in accordance with legal and ethical guidelines. TUL is the Digital Public Library of America (DPLA) service hub for the state of Pennsylvania, known as PA Digital. Within this capacity, it regularly offers workshops and resources on copyright. Examples of these resources can be found on the Rights Resources page of the PA Digital site.6 Resources on archival ethics mentioned under the second guideline will contribute to point “B” above.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Audience and Distribution
 
@@ -170,10 +172,11 @@ This learning objective will be accomplished by providing players with a basic r
 
 While the final _Virtual Blockson_ game will be free and open to the public, for this phase of work, we will focus on students from local high schools within Philadelphia. During the 2020-2021 school year, there were 198,645 students enrolled in Philadelphia schools, 52% of whom were Black (Fast Facts, 2022). As is common in many under-funded districts, the School District of Philadelphia has seen a large number of public school closings – 30 since 2012 (Steinberg 2019). As of 2017, there are seven certified, full-time school librarians for all 216 remaining district operated schools with seventeen libraries kept open by volunteers from the West Philadelphia Alliance for Children (Fast Facts, 2022; Graham, 2020; West Philadelphia Alliance for Children, 2021). As a result of these demographic realities, the project will look to formally incorporate a culturally relevant pedagogical framework (Talpade & Talpade, 2020) into the assessment of the next build phase. Research has consistently shown that learning outcomes are impacted, not only by the content of lessons, but by student perception of the creators of sources. This has been shown to be particularly important for Black students and is an important avenue to fully explore, especially since this will be the first time many students have encountered the concept of an archive.
 
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--overview">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## The Second Race for Theory: The Challenge for Africology and Africana Philosophy
 
@@ -184,19 +187,21 @@ While the final _Virtual Blockson_ game will be free and open to the public, for
 **_Accessibility [Testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/)._** The accessibility of the game will be tested on an iterative basis as we develop specific design approaches. These approaches will need to be tested before being fully integrated into the game. Players with motor, hearing, visual, neurological, and intellectual disabilities will need to be brought in to assess whether or not they can physically operate the game, whether they can perceive and respond to sensory cues, whether those with neurological disabilities are safe as those with epilepsy and vertigo are examples of safety concerns, and whether there are enough allowances for those with neurological and intellectual disabilities to enable gameplay (e.g., the ability to pause and resume, making sure text is at a primary reading level). The first six months of the second year of project development will focus on iterative [testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/) and feedback. Three students from each category of disability will be selected to participate, totalling fifteen students. They will be brought in twice during the iterative phase to test portions of the game, then test them again after their feedback is incorporated. At the beginning of the last six months, they will be brought in to test the overall prototype. We will collect feedback in one-hour sessions with preselected activities and assessment tools so that bugs and accessibility barriers can be identified and corrected. Accessibility testers will receive an honorarium.
 
 **_Users [Testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/) for General Gameplay and Pedagogical Efficacy._** We will test the playability of the game and its pedagogical efficacy in the last six months of the grant period. During this time, we will work with the teachers to solicit high school students from their classes for participation in user [testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/). Teachers will reach out to parents for consent and an invitation to attend their child’s user [testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/) session. Sixteen students will be selected for participation and divided into two groups that will participate in sessions on two different days. While it would be ideal to test the game in classrooms, at this stage the game will only be a prototype. Our immediate goal is to assess the usability of the prototype and identify any bugs in the gameplay. As a result, students will visit the library with their parents or legal guardians, and be invited into the Scholar Studio’s immersive studio to play the game. Different students will test different types of headsets. This will allow us to test for bugs on different platforms. An hour will be dedicated to gameplay (i.e., getting students in the headsets, letting them play, then getting them out of headsets) and another hour for feedback and assessment. Feedback will be collected via focus group where the students will be gathered together and asked a specified set of questions to assess levels of engagement and enjoyment during gameplay, as well as assessing for comprehension of the themes, events, and specific learning objectives. Responses will be coded and feedback and identified bugs will be addressed. Students will receive a small honorarium for their participation.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--tint">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## Conclusion
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
 
 While mentioned briefly, the emphasis on Sankofa teaching as a leading principle in this work is essential to our mission. Sankofa is an Akan word meaning “it is not taboo to fetch what is at risk of being left behind” (Carter G. Woodson Center, 2017). Erasure of Black history is an ongoing battle and it is evermore important that agency be given to Black students so that they may protect what is at risk of being forgotten. The _Virtual Blockson_ does not aim to tell players a story; it aims to teach them how to write one and how to understand the tales they have already been told. By immersing students in a space without traditional physical and temporal limitations, the _Virtual Blockson_ invites them to examine their history and world from new perspectives that will be crucial to them in the current political and social climate. It is also important to remember that, while virtual reality is an interesting medium with plenty of potential for the future, it is still just a tool that depends on the imagination and will of those who wield it. This can be easy to forget with the technocratic craze of American start-up culture characterized by hyper-wealthy, white men like Elon Musk, Mark Zuckerberg, and Jeff Bezos who make technology appear to be a neutral, self-driving force that only produces progress and profit. However, despite the obsession with profit and neo-liberal ideas of social progress, spaces and tools that center knowledge, play, collaboration, and self-actualization have always existed in the analog and can exist in the emerging digital future. As players engage with the _Virtual Blockson_, it is our hope they begin to imagine what that alternate digital future can be.
+{% endmarkdown %}
 </section>
 
 <section class="article-section article-section--references">
-{% renderTemplate "md" %}
+{% markdown %}
 
 ## References
 
@@ -283,4 +288,5 @@ Wineburg, Sam, Daisy Martin, and Chauncey Monte-Sano. _Reading Like a Historian:
 Wright-Maley, C., Lee, J.K., & Friedman, A. (2018). Digital simulations and games in history education. In S.A. Metzger & L.A. Harris (Eds.) _The Wiley international handbook of history teaching and learning_ (pp. 603-629). Wiley Blackwell.
 
 Zantua, L.S.O. (2017). Utilization of virtual reality content in grade 6 social studies using affordable virtual reality technology_. Asia Pacific Journal of Multidisciplinary Research, 5_(2), 1-10.
+{% endmarkdown %}
 </section>
