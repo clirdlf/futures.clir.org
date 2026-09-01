@@ -1902,7 +1902,7 @@ body {
   color: #000;
   font-size: 26px;
   font-family: var(--primary-font-family);
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1.2;
 }
 .site-footer h2:first-child {
@@ -1914,8 +1914,8 @@ body {
 }
 .footer-contact img {
   display: block;
-  width: 84px;
-  height: 84px;
+  width: 100%;
+  height: auto;
   margin-bottom: 27px;
 }
 .footer-contact address {
@@ -1980,10 +1980,16 @@ body {
   border-top: 1px solid #e5e5e5;
 }
 .site-footer__legal > a {
-  color: var(--cf-pink);
-  font-size: 20px;
-  font-weight: 600;
-  text-decoration: none;
+  display: block;
+
+  
+}
+
+.site-footer__legal > a img {
+  display: block;
+  /* width: 84px; */
+  width: 60px;
+  height: auto;
 }
 .site-footer__legal p {
   margin: 0;
