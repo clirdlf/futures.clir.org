@@ -4,9 +4,23 @@
   if (!button) return;
 
   const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  let updatePending = false;
 
   const updateVisibility = () => {
-    button.hidden = window.scrollY < 400;
+    const shouldHide = window.scrollY < 400;
+
+    if (button.hidden !== shouldHide) {
+      button.hidden = shouldHide;
+    }
+
+    updatePending = false;
+  };
+
+  const requestVisibilityUpdate = () => {
+    if (updatePending) return;
+
+    updatePending = true;
+    window.requestAnimationFrame(updateVisibility);
   };
 
   button.addEventListener('click', () => {
@@ -16,6 +30,6 @@
     });
   });
 
-  window.addEventListener('scroll', updateVisibility, { passive: true });
-  updateVisibility();
+  window.addEventListener('scroll', requestVisibilityUpdate, { passive: true });
+  requestVisibilityUpdate();
 })();
