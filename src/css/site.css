@@ -3112,6 +3112,12 @@ body {
   box-shadow: inset 0 0 40px 12px rgba(0, 0, 0, 0.35);
 }
 
+.print-edition .print-cover__art img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 .print-edition .print-cover__panel {
   min-height: 0;
   display: flex;
@@ -3287,7 +3293,7 @@ body {
   display: none;
 }
 
-.print-edition .print-about-content .about-hero h1 {
+.print-edition .print-about-content .about-hero h2 {
   margin: 0;
   color: #a51d4b;
   font-family: Montserrat, Arial, sans-serif;
@@ -3539,13 +3545,42 @@ body {
   margin: 0;
 }
 
+@page :first {
+  size: 8.5in 11in;
+  margin: 0;
+}
+
+/* Chrome otherwise fits the full-bleed cover into the earlier 0.7in page box. */
+@page {
+  size: 8.5in 11in;
+  margin: 0;
+}
+
 @media print {
+  html,
+  body,
+  main,
   .print-edition-page,
   .print-edition {
     width: auto !important;
+    max-width: 100% !important;
     margin: 0 !important;
     background: #fff !important;
     box-shadow: none !important;
+    overflow-x: hidden !important;
+  }
+  .print-edition .print-section,
+  .print-edition .print-entry-content,
+  .print-edition .article-section {
+    min-width: 0 !important;
+    max-width: 100% !important;
+    contain: inline-size;
+  }
+  .print-edition :is(img, picture, svg, canvas, video, iframe, figure, table, blockquote) {
+    max-width: 100% !important;
+  }
+  .print-edition :is(p, li, a, h1, h2, h3, h4) {
+    overflow-wrap: anywhere;
   }
   .print-edition .print-cover {
     page: cover;
@@ -3559,8 +3594,11 @@ body {
     -webkit-print-color-adjust: exact;
   }
   .print-edition .print-section {
-    padding-right: 0 !important;
-    padding-left: 0 !important;
+    width: 8.5in !important;
+    padding-right: 0.7in !important;
+    padding-left: 0.7in !important;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
   }
   .print-edition .print-section--about {
     break-before: auto !important;
@@ -3582,5 +3620,54 @@ body {
   .print-edition .article-section table,
   .print-edition .article-section blockquote {
     break-inside: avoid;
+  }
+}
+
+/* Safari can fragment a full-page grid/flex cover across two PDF pages. */
+@media print {
+  @supports (-webkit-touch-callout: none) {
+    .print-edition .print-cover {
+      display: block !important;
+      height: calc(11in - 1px) !important;
+      min-height: calc(11in - 1px) !important;
+      page-break-inside: avoid !important;
+      break-inside: avoid-page !important;
+    }
+    .print-edition .print-cover__art {
+      height: 56%;
+    }
+    .print-edition .print-cover__panel {
+      position: relative;
+      height: 44%;
+    }
+    .print-edition .print-cover__imprint {
+      position: absolute;
+      right: 0.72in;
+      bottom: 0.42in;
+      left: 0.72in;
+    }
+  }
+
+  @supports (-moz-appearance: none) {
+    .print-edition .print-cover {
+      display: block !important;
+      height: calc(11in - 1px) !important;
+      min-height: calc(11in - 1px) !important;
+      page-break-inside: avoid !important;
+      break-inside: avoid-page !important;
+    }
+    .print-edition .print-cover__art {
+      height: 56%;
+    }
+    .print-edition .print-cover__panel {
+      position: relative;
+      height: 44%;
+    }
+    .print-edition .print-cover__imprint {
+      position: absolute;
+      right: 0.72in;
+      bottom: 0.42in;
+      left: 0.72in;
+    }
   }
 }
