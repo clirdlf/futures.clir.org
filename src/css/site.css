@@ -1779,6 +1779,14 @@ body {
 .contribution-card--reverse .contribution-card__image img {
   margin: 0 -16px 0 0;
 }
+.contribution-card__image--portrait picture {
+  display: block;
+}
+.contribution-card__image--portrait img {
+  height: auto;
+  max-height: none;
+  object-fit: contain;
+}
 .contribution-card--reverse .contribution-card__image figcaption {
   padding-right: 16px;
 }
