@@ -175,14 +175,7 @@
   font-weight: 900;
   line-height: 1.2;
 }
-.article-section--overview h2::after {
-  content: "";
-  display: block;
-  width: 58px;
-  height: 7px;
-  margin-top: 15px;
-  background: #ec8323;
-}
+
 .article-section ol {
   margin: 45px 0 0;
   padding: 30px 0 0;
@@ -1698,6 +1691,9 @@ body {
   margin: 0 0 20px;
   background-color: var(--cf-green);
 }
+.zigzag--orange {
+  background-color: #ef8354;
+}
 .text-link {
   color: var(--cf-wine);
   font-size: 16px;
@@ -2265,10 +2261,6 @@ body {
 .about-section .zigzag {
   margin-bottom: 20px;
 }
-.about-section .zigzag--orange {
-  background-color: var(--cf-orange);
-}
-
 .about-section .footnotes p {
     font-size: 14px;
 }
