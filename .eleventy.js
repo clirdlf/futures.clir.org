@@ -27,6 +27,7 @@ module.exports = function (eleventyConfig) {
     .use(markdownItAnchor, { slugify: (value) => value.toLowerCase().trim().replace(/[^\w]+/g, '-') });
   eleventyConfig.setLibrary('md', markdown);
   eleventyConfig.addPairedShortcode('markdown', (content) => markdown.render(content));
+  eleventyConfig.addFilter('markdown', (content) => markdown.render(String(content ?? '')));
   eleventyConfig.addPassthroughCopy({ 'src/assets': 'assets' });
   eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon.ico': 'assets/favicon/favicon.ico' });
   eleventyConfig.addPassthroughCopy({ 'src/favicon/favicon-16x16.png': 'assets/favicon/favicon-16x16.png' });
