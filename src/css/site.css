@@ -2432,11 +2432,6 @@ body {
 .team-member--pink { background: #d53878; }
 .team-member--orange { background: #f47c16; }
 .team-member--yellow { background: #f1c41e; }
-.team-member--green,
-.team-member--orange,
-.team-member--yellow {
-  color: #1e1e1e;
-}
 .team-member--wine,
 .team-member--green,
 .team-member--orange,
@@ -2448,9 +2443,6 @@ body {
   margin: 0 0 12px;
   color: #fff;
   font-size: 23px;
-}
-.acknowledgements-page :is(.team-member--green, .team-member--orange, .team-member--yellow) h3 {
-  color: inherit;
 }
 .team-member .zigzag {
   width: 54px;
