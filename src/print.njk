@@ -26,7 +26,7 @@ permalink: /print/
 
   <section class="print-section print-section--about">
     {% for item in collections.all %}
-      {% if item.url == '/about/' %}<div class="print-about-content">{{ item.templateContent | safe }}</div>{% endif %}
+      {% if item.url == '/about/' %}<div class="print-about-content">{{ item.templateContent | demoteFirstHeading | safe }}</div>{% endif %}
     {% endfor %}
   </section>
 

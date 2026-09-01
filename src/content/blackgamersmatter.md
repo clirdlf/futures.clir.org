@@ -20,7 +20,7 @@ permalink: /blackgamersmatter/
 It was Christmas 1986, one of the happiest days in my childhood. It was the year I received my very own Nintendo gaming system. One of the very first ones that included Super Mario Bros. and Duck Hunt games along with the controllers and NES Zapper. This shades of gray and black with red letters gaming system was the equivalent of winning the lottery for a five-year Black girl…I was on top of the world (Figure 1)! Some years later I would also get Nintendo’s 8-bit handheld game console, “The Game Boy” and play Tetris until I exhausted all of the levels. These early gaming moments were filled with child-like innocence and without fear. During these moments, I was not thinking about exclusion and diversity, it was all about how I can get more playing time (or in today’s terms screen time) with new gaming toys. Gaming was an opportunity to escape the household chores for that week, something to look forward to after finishing my homework, or a supplement to Saturday morning cartoons.
 
 
-![](/assets/Gipson-Figure-1.jpg)
+![The author as a child at Christmas in 1986 with a Nintendo Entertainment System.](/assets/Gipson-Figure-1.jpg)
 
 _Figure 1. Christmas 1986, when the author received a Nintendo ES gaming system._
 
@@ -97,19 +97,19 @@ However, the murder of George Floyd would not be the only occurrence that led to
 
 Much like how history, dictated through a white lens, has created a narrative that Blackness/Black people have a limited existence within popular culture or specifically that we do not exist in science fiction, fantasy, speculative fiction realms, this myth is very much present throughout the gaming arena. The first video game featuring a Black person was the SEGA game “Heavyweight Champ” (Figure 6) an arcade game released in 1976, remade in 1987, and re-released in the early 1990s.
 
-![](/assets/Figure-6.jpg)
+![Screenshot from Sega's Heavyweight Champ, an early boxing video game featuring a Black character.](/assets/Figure-6.jpg)
 
 _Figure 6 Sega Game "Heavyweight Champ"_
 
 Early video game interpretations of Black characters were primarily portrayed in sports and fighting games (i.e. “Heavyweight Champ” and “Punchout” \[Figure 7\]) or as problematic caricatures with Blackface, exaggerated and grotesque features.
 
-![](/assets/Figure.jpeg)
+![Screenshot from Nintendo's Punch-Out showing a boxing match.](/assets/Figure.jpeg)
 
 Figure 7. Nintendo Game "Punch-Out!!"
 
 An example of this characterization can be found in the role-playing video game “Square’s Tom Sawyer”<sup>1</sup> (Figure 8). When specifically engaging with the larger character picture, as noted by digital media scholars Anna Everett and S. Craig Watkins (2008), nearly 70% of video game protagonists are White males, while communications scholars Dmitri Williams, Nicole Martins, Mia Consalvo, and James D. Ivory (2009) stretch that figure to nearly 80%. Between the two studies, each discovered that even with the increase of Black and brown bodies represented in actual video games, the depictions are limited to criminals, hustlers, hyper-violent terrorists, athletes, and brawn over brain sidekicks.
 
-![](/assets/Gipson-Figure-7.jpg)
+![Screenshot from Square's Tom Sawyer showing a racist Blackface caricature.](/assets/Gipson-Figure-7.jpg)
 
 _Figure 8. Screenshot showing graphics of a Blackface caricature from Square’s Tom Sawyer_
 

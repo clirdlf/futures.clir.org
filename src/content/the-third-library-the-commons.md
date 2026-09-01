@@ -246,7 +246,7 @@ The library worker’s role is indispensable in cultivating a commons that explo
 
 One potential solution is to design physical commons in libraries that encourage students to create digital content. For example, Kate Winger-Playdon, associate dean and director of architecture and environmental design at the Tyler School of Art and Architecture at Temple University, acknowledges that the “concept of research has changed and the \[Charles\] library reflects that in a really interesting way. Whereas one thinks about research as scholarly research, using books, we can now think about research as having a creative side. And the library reflects this by having spaces for making things: makerspaces, digital tools, places for collaboration” (Temple University 2019). In creating a commons that encourages creative scholarship, academic libraries are also encouraging students to think critically about both the opportunities of creating born-digital content that can contribute to a democratic knowledge commons and the challenges of circulating this digital content in systems that are built to sustain knowledge capitalism.
 
-![](/assets/Charles-Library-1-1.jpg)
+![Interior of Temple University's Charles Library, showing its open collaborative spaces and sweeping wooden arches.](/assets/Charles-Library-1-1.jpg)
 
 _The Charles Library at Temple University. “[Temple\_Univ (13)](https://www.flickr.com/photos/138425397@N05/48805150901/in/album-72157690252639433/) by [Michael Stokes](https://www.flickr.com/photos/138425397@N05/) is licensed under [CC BY 2.0.](https://creativecommons.org/licenses/by/2.0/)_
 

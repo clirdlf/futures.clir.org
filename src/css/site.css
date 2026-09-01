@@ -87,7 +87,7 @@
   justify-content: center;
   gap: 75px;
   margin: 0 0 28px;
-  color: #888;
+  color: #666;
   font-size: 15px;
   letter-spacing: .04em;
   text-transform: uppercase;
@@ -98,7 +98,7 @@
 }
 .article-feature .article-affiliation {
   margin: 0;
-  color: #777;
+  color: #707070;
   /* font-family: Georgia, serif; */
   font-size: 14px;
   margin: auto;
@@ -128,7 +128,7 @@
   text-align: left;
 }
 .article-editors-note a {
-  color: #42a765;
+  color: #276b45;
   text-decoration: underline;
   text-decoration-color: #bbb;
   text-underline-offset: 4px;
@@ -194,7 +194,7 @@
   margin: 10px 0;
 }
 .article-section a {
-  color: #379254;
+  color: #276b45;
   text-decoration-line: underline;
   text-decoration-color: currentColor;
 }
@@ -456,6 +456,12 @@ body {
 a {
   color: inherit;
   text-underline-offset: 0.2em;
+}
+
+:where(a, button, summary, iframe):focus-visible {
+  outline: 3px solid #000;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 6px #fff;
 }
 
 .skip-link {
@@ -1033,7 +1039,7 @@ body {
 }
 .button {
   margin-top: 0.35rem;
-  background: #ef8354;
+  background: #a8431f;
   color: #fff;
   font-size: 0.88rem;
 }
@@ -1813,10 +1819,10 @@ body {
   letter-spacing: 1px;
 }
 .support a {
-  color: #379254;
+  color: #276b45;
   font-weight: 400;
   text-decoration-line: underline;
-  text-decoration-color: #379254;
+  text-decoration-color: #276b45;
   transition: color 0.25s ease, text-decoration-color 0.25s ease;
 }
 .support a:hover,
@@ -1899,7 +1905,7 @@ body {
   margin-top: 28px;
 }
 .site-footer a {
-  color: #42a765;
+  color: #276b45;
   font-weight: 500;
 }
 .footer-contact img {
@@ -2026,7 +2032,7 @@ body {
 }
 .glossary-card h2 {
   margin: 0 0 16px;
-  color: #3d9c5b;
+  color: #276b45;
   font-family: Montserrat, "Public Sans", sans-serif;
   font-size: 30px;
   font-weight: 900;
@@ -2047,7 +2053,7 @@ body {
   padding-left: 4px;
 }
 .glossary-card a {
-  color: #3d9c5b;
+  color: #276b45;
   text-decoration-color: #c5c5c5;
   text-decoration-thickness: 2px;
   text-underline-offset: 5px;
@@ -2151,7 +2157,7 @@ body {
   font-size: 14px;
 }
 .about-meta a {
-  color: #379254;
+  color: #276b45;
   text-decoration-line: underline;
 }
 .about-section {
@@ -2373,6 +2379,11 @@ body {
 .team-member--pink { background: #d53878; }
 .team-member--orange { background: #f47c16; }
 .team-member--yellow { background: #f1c41e; }
+.team-member--green,
+.team-member--orange,
+.team-member--yellow {
+  color: #1e1e1e;
+}
 .team-member--wine,
 .team-member--green,
 .team-member--orange,
@@ -2384,6 +2395,9 @@ body {
   margin: 0 0 12px;
   color: #fff;
   font-size: 23px;
+}
+.acknowledgements-page :is(.team-member--green, .team-member--orange, .team-member--yellow) h3 {
+  color: inherit;
 }
 .team-member .zigzag {
   width: 54px;

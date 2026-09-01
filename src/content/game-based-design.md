@@ -27,7 +27,7 @@ Libraries increasingly offer both tabletop and video games for loan, but the rol
 
 In this piece, we speculate on the future of libraries through the lens of digital games by exploring what gaming can offer digital exhibitions, exhibit design, and data curation in all its forms. Specifically, this essay explores the gamification of digital exhibits through design thinking and use cases. While traditional modes of exhibit curation and pedagogy have been exclusive to many communities, gaming offers a way of innovating digital exhibits and pedagogy for a more diverse audience. In other words, gaming and gamification, as understood in this paper, make space to explore use cases that consider the audiences that have been excluded from library exhibits and those who may be included through gaming. Specifically, we offer an overview of the many ways that gaming can be used to make more-inclusive digital exhibits for people with diverse backgrounds (e.g., disabled, Lesbian, Gay, Bisexual, Trans, Queer, Intersex, Asexual or Ally (LGBTQIA+), Black, Indigenous, and other minoritized groups).
 
-![](/assets/Introduction-1.png)
+![Mind map connecting the contribution's main themes: games in libraries, digital exhibits, accessibility, and design thinking.](/assets/Introduction-1.png)
 
 _Fig. 1: Mind map of the contents of this contribution._
 
@@ -51,7 +51,7 @@ Based on these examples, to successfully provide gaming services, libraries shou
 <section class="article-section article-section--tint">
 {% markdown %}
 
-![](/assets/Games-in-Libraries-Examples-1.png)
+![Examples of library games used for information literacy, student engagement, access to resources, virtual gatherings, collections, outreach, and social interaction.](/assets/Games-in-Libraries-Examples-1.png)
 
 _Fig. 2: Examples of games in libraries targeting transfer students_
 
@@ -87,7 +87,7 @@ The application of design thinking in libraries is not new ([Bell 2008](https://
 
 Much in the spirit of IDEO and other design toolkits for libraries (e.g., Marquez and Downey 2016), we propose activities and examples that can be employed and adapted to explore gamification of digital exhibits, specifically regarding the first phase of design thinking: _empathize_. The goal of this phase is to better understand the needs, wants, desires, and perspectives of potential users. When exploring the gamification of digital exhibits, figuring out who to talk to might be a challenge, therefore activities in this phase are largely centered around conducting research about potential users. This research on users is usually conducted through the methods of stakeholder mapping, user interviews, persona creation, and other empathize-phase activities.
 
-![](/assets/Libary-of-Games-Visuals-1.png)
+![Design-thinking activities for libraries in the empathize phase, including stakeholder mapping, user interviews, and persona creation.](/assets/Libary-of-Games-Visuals-1.png)
 
 _Fig. 3: Empathize-phase design thinking activities for libraries_
 
@@ -110,7 +110,7 @@ In addition to the above listed methods, there are a number of empathize-phase a
 <section class="article-section article-section--tint">
 {% markdown %}
 
-![](/assets/Gamifying-Collections-1.png)
+![Tools and examples for gamifying library collections, organized around design-thinking methods and accessible digital exhibits.](/assets/Gamifying-Collections-1.png)
 
 _Fig. 4: Tools and examples of gamifying collections in libraries_
 
@@ -145,7 +145,7 @@ Each of these gamified digital exhibits seek innovations in digital technologies
 <section class="article-section article-section--overview">
 {% markdown %}
 
-![](/assets/Conclusion.png)
+![Summary of recommendations for using inclusive, accessible game-based design in digital library exhibits.](/assets/Conclusion.png)
 
 ## Conclusion
 

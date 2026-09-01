@@ -47,7 +47,9 @@ _(January 2022)_
 
 Zoom in and out of this visualization by using your mouse/trackpad (on a laptop/desktop) or by pinching your screen on a mobile device. In addition to creating new nodes and relationships on the visualization that readers of this site will submit, we plan on incorporating other visualization features, such as “tool tip” links for individual projects and more.
 
-<iframe src="https://clirdlf.github.io/scholarship-as-social-change/alchemy.html" title="" width="100%" height="800px" allow="fullscreen"></iframe>
+<iframe src="https://clirdlf.github.io/scholarship-as-social-change/alchemy.html" title="Scholarship as social change project visualization" width="100%" height="800px" allow="fullscreen"></iframe>
+
+[Open the scholarship as social change visualization in a new tab](https://clirdlf.github.io/scholarship-as-social-change/alchemy.html).
 {% endmarkdown %}
 </section>
 

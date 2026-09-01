@@ -47,6 +47,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('padNumber', (value) => String(value).padStart(2, '0'));
   eleventyConfig.addFilter('absoluteUrl', (value, base) => new URL(String(value).replace(/^\//, ''), base).toString());
   eleventyConfig.addFilter('json', (value) => JSON.stringify(value).replace(/</g, '\\u003c'));
+  eleventyConfig.addFilter('demoteFirstHeading', (value) => String(value)
+    .replace(/<h1(\b[^>]*)>/i, '<h2$1>')
+    .replace(/<\/h1>/i, '</h2>'));
   return {
     pathPrefix,
     dir: { input: 'src', includes: '_includes', data: '_data', output: 'public' },

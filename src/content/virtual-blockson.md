@@ -68,7 +68,7 @@ _Figure 5 & Figure 6 Photos from the John W. Mosley Photograph Collection. Left:
 
 Dox Thrash was born in rural Griffin, Georgia in 1893 to a family that lived in a former slave cabin. As many did during the Great Migration, Thrash would leave home as a teenager to escape the racial violence and harsh economic conditions of the South, as well as seek an education at an art school that would accept Black students. He performed as part of plantation vaudeville-like acts before settling in Chicago. He took night classes at the Art Institute of Chicago while working during the day. After being injured in the first World War, he used his government funding to return to Chicago and enroll full-time at the Art Institute. He would travel for work again and eventually settle in Philadelphia in 1925 to work while pursuing his artistic career. In 1937, after he had completed a Works Progress Administration arts project, he pioneered the carborundum printing technique with two other artists, a process where silicon carbide was used to make etchings on copper plates (Ittmann, 2001). Thrash’s story is representative of the African American experience during the Great Migration. Students choosing to play this track will learn about the conditions that led African Amerians to migrate away from the South and explore issues of class and access for Black artists.
 
-![](/assets/Virtual-Blockson-Figure-7-1024x577.jpg)
+![Virtual reconstruction of the Charles L. Blockson Afro-American Collection reading room.](/assets/Virtual-Blockson-Figure-7-1024x577.jpg)
 
 Figure 7 screenshot of the Virtual Blockson reading room.
 
