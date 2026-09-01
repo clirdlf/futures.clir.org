@@ -148,6 +148,10 @@
 .article-section--tint {
   background: #fcf7f3;
 }
+.article-section--tint:has(.guest-grid) {
+  padding-right: max(30px, calc((100% - 1800px) / 2));
+  padding-left: max(30px, calc((100% - 1800px) / 2));
+}
 
 .article-section p {
     margin-block-end: 20px;
@@ -193,6 +197,81 @@
   color: #379254;
   text-decoration-line: underline;
   text-decoration-color: currentColor;
+}
+.guest-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: start;
+  gap: 46px;
+  margin-top: 40px;
+}
+.guest-card {
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  align-items: center;
+  gap: 30px 34px;
+  min-width: 0;
+  padding: 46px;
+  border-radius: 16px;
+  background: #fff;
+}
+.guest-card img {
+  width: 150px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.article-section .guest-card h3 {
+  margin: 0;
+  color: #000;
+  font-family: Montserrat, "Public Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 1.18;
+}
+.guest-card p {
+  grid-column: 1 / -1;
+  margin: 0;
+  font-size: 16px;
+  line-height: 2.05;
+}
+.guest-card details {
+  grid-column: 1 / -1;
+  margin-top: 0;
+}
+.guest-card summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #000;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 900;
+  line-height: 1.2;
+  list-style: none;
+  text-transform: uppercase;
+}
+.guest-card summary::-webkit-details-marker {
+  display: none;
+}
+.guest-card summary::after {
+  width: 12px;
+  height: 12px;
+  margin-right: 4px;
+  border-right: 4px solid currentColor;
+  border-bottom: 4px solid currentColor;
+  content: "";
+  transform: rotate(45deg) translate(-4px, -4px);
+  transition: transform 180ms ease;
+}
+.guest-card details[open] summary::after {
+  transform: rotate(225deg) translate(-4px, -4px);
+}
+.guest-card details[open] summary {
+  margin-bottom: 24px;
+}
+.guest-card details p + p {
+  margin-top: 22px;
 }
 .article-feature .article-section--references {
   position: relative;
@@ -298,6 +377,57 @@
   .article-section blockquote {
     margin-left: 15px;
     margin-right: 0;
+  }
+  .guest-grid {
+    grid-template-columns: 1fr;
+  }
+  .guest-card {
+    grid-template-columns: 104px minmax(0, 1fr);
+    gap: 28px 24px;
+    padding: 36px 28px;
+    border-radius: 18px;
+  }
+  .guest-card img {
+    width: 104px;
+  }
+  .article-section .guest-card h3 {
+    font-size: clamp(26px, 8vw, 38px);
+  }
+  .guest-card p {
+    font-size: 18px;
+    line-height: 1.75;
+  }
+  .guest-card summary {
+    font-size: 18px;
+  }
+  .guest-card summary::after {
+    width: 14px;
+    height: 14px;
+    border-width: 0 4px 4px 0;
+  }
+  .guest-card details[open] summary {
+    margin-bottom: 24px;
+  }
+  .guest-card details p + p {
+    margin-top: 24px;
+  }
+}
+
+@media (min-width: 701px) and (max-width: 1250px) {
+  .guest-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 30px;
+  }
+  .guest-card {
+    grid-template-columns: 110px minmax(0, 1fr);
+    gap: 28px 24px;
+    padding: 32px;
+  }
+  .guest-card img {
+    width: 110px;
+  }
+  .article-section .guest-card h3 {
+    font-size: 28px;
   }
 }
 @theme {
