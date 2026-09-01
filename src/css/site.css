@@ -1808,7 +1808,7 @@ body {
   line-height: 1.4;
 
   a {
-    color: var(--cf-green);
+    color: #276b45;
     text-decoration: underline;
   }
 }
