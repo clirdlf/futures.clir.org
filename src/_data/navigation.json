@@ -1,5 +1,6 @@
 [
   { "label": "About", "url": "/about/" },
   { "label": "Contributions", "url": "/#contributions" },
+  { "label": "Acknowledgements", "url": "/acknowledgements/" },
   { "label": "Print edition", "url": "/print/" }
 ]

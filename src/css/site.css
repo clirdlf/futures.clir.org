@@ -2290,6 +2290,218 @@ body {
   font-style: italic;
 }
 
+.acknowledgements-page .about-section h3 {
+  margin: 42px 0 12px;
+  color: #510420;
+  font-family: Montserrat, sans-serif;
+  font-size: 23px;
+  font-weight: 800;
+  line-height: 1.25;
+}
+.acknowledgements-page .about-section h3 + p {
+  margin-top: 0;
+}
+.acknowledgements-date {
+  color: #696969;
+  font-style: italic;
+}
+.acknowledgements-names {
+  columns: 2;
+  margin: 26px 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 16px;
+  line-height: 2;
+}
+.acknowledgements-thanks {
+  padding-top: 80px;
+}
+
+/* Acknowledgements page */
+.acknowledgements-page > .about-section:first-child {
+  padding: 80px 30px;
+  background: var(--cf-cream);
+}
+.acknowledgements-page > .about-section:first-child .about-section__inner {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 58px 62px 48px;
+  background: #fff;
+  box-shadow: 0 1px 18px rgba(81, 4, 32, 0.12);
+}
+.acknowledgements-page > .about-section:first-child h2 {
+  font-size: 30px;
+}
+.acknowledgements-team__header {
+  min-height: 230px;
+  display: grid;
+  align-content: center;
+  justify-items: center;
+  padding: 50px 24px;
+  color: #fff;
+  background: var(--cf-pink) url("curated-futures-horizontal-pattern.svg") center / 4002px auto repeat-x;
+}
+.acknowledgements-team__header h2 {
+  margin: 0 0 18px;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  line-height: 1.15;
+}
+.acknowledgements-team__header .zigzag {
+  background-color: var(--cf-yellow);
+}
+.acknowledgements-team__grid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.team-member {
+  min-height: 500px;
+  padding: 66px max(40px, calc((100vw - 1200px) / 2));
+  color: #fff;
+}
+.team-member--wide {
+  grid-column: 1 / -1;
+  min-height: 400px;
+  padding-right: max(40px, calc((100vw - 850px) / 2));
+  padding-left: max(40px, calc((100vw - 850px) / 2));
+}
+.team-member--wine { background: #971b48; }
+.team-member--green { background: #51a46c; }
+.team-member--pink { background: #d53878; }
+.team-member--orange { background: #f47c16; }
+.team-member--yellow { background: #f1c41e; }
+.team-member--wine,
+.team-member--green,
+.team-member--orange,
+.team-member--yellow {
+  min-height: 590px;
+  padding: 92px clamp(52px, 5vw, 105px) 64px;
+}
+.acknowledgements-page .team-member h3 {
+  margin: 0 0 12px;
+  color: #fff;
+  font-size: 23px;
+}
+.team-member .zigzag {
+  width: 54px;
+  height: 10px;
+  margin: 0 0 24px;
+}
+.team-member--wine .zigzag,
+.team-member--orange .zigzag { background-color: var(--cf-yellow); }
+.team-member--green .zigzag { background-color: var(--cf-pink); }
+.team-member--pink .zigzag { background-color: var(--cf-green); }
+.team-member--yellow .zigzag { background-color: var(--cf-orange); }
+.team-member p {
+  margin: 0 0 20px;
+  font-size: 15px;
+  line-height: 2;
+}
+.acknowledgements-contributors {
+  padding: 78px 30px 100px;
+  background: var(--cf-cream);
+}
+.acknowledgements-contributors .about-section__inner {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.acknowledgements-contributors h2 {
+  text-align: center;
+}
+.acknowledgements-contributors .zigzag {
+  margin-right: auto;
+  margin-left: auto;
+  background-color: var(--cf-orange);
+}
+.contributors-list {
+  margin-top: 24px;
+}
+.contributors-list details {
+  margin-bottom: 5px;
+  color: #fff;
+  background: #971b48;
+}
+.contributors-list summary {
+  position: relative;
+  padding: 12px 46px 12px 18px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.25;
+  list-style: none;
+}
+.contributors-list summary::-webkit-details-marker {
+  display: none;
+}
+.contributors-list summary::after {
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  content: "+";
+  font-size: 18px;
+  font-weight: 400;
+  transform: translateY(-50%);
+}
+.contributors-list details[open] summary::after {
+  content: "−";
+}
+.contributor-bio {
+  padding: 18px 20px 8px;
+  border-top: 1px solid rgba(255, 255, 255, 0.35);
+  background: #fff;
+  color: var(--color-text);
+}
+.acknowledgements-page .contributor-bio p {
+  font-size: 15px;
+  line-height: 1.8;
+}
+.acknowledgements-reviewers {
+  padding: 82px 30px 100px;
+  background: #fff;
+}
+.acknowledgements-reviewers .about-section__inner {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.acknowledgements-reviewers .zigzag {
+  background-color: var(--cf-green);
+}
+.acknowledgements-reviewers .acknowledgements-names {
+  columns: 2;
+  column-gap: 80px;
+  font-weight: 700;
+}
+.acknowledgements-thanks {
+  position: relative;
+  overflow: hidden;
+  padding: 80px 30px;
+  color: #fff;
+  text-align: center;
+  background: #971b48 url("curated-futures-horizontal-pattern.svg") center / 4002px auto repeat-x;
+}
+.acknowledgements-thanks .about-section__inner {
+  position: relative;
+  max-width: 650px;
+  margin: 0 auto;
+}
+.acknowledgements-page .acknowledgements-thanks h2 {
+  color: #fff;
+}
+.acknowledgements-thanks .zigzag {
+  margin-right: auto;
+  margin-left: auto;
+  background-color: var(--cf-yellow);
+}
+.acknowledgements-page .acknowledgements-thanks p {
+  font-family: Montserrat, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.65;
+}
+
 @media screen and (max-width: 800px) {
   .clir-bar {
     display: none;
@@ -2435,6 +2647,60 @@ body {
   }
   .about-section:first-child {
     padding-top: 10px;
+  }
+  .acknowledgements-page .about-section h3 {
+    margin-top: 34px;
+    font-size: 21px;
+  }
+  .acknowledgements-names {
+    columns: 1;
+  }
+  .acknowledgements-thanks {
+    padding-top: 60px;
+  }
+  .acknowledgements-page > .about-section:first-child {
+    padding: 44px 18px;
+  }
+  .acknowledgements-page > .about-section:first-child .about-section__inner {
+    padding: 34px 26px 26px;
+  }
+  .acknowledgements-page > .about-section:first-child h2 {
+    font-size: 25px;
+  }
+  .acknowledgements-team__header {
+    min-height: 170px;
+    background-size: 2800px auto;
+  }
+  .acknowledgements-team__header h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .acknowledgements-team__grid {
+    grid-template-columns: 1fr;
+  }
+  .team-member,
+  .team-member--wide {
+    grid-column: auto;
+    min-height: 0;
+    padding: 48px 24px;
+  }
+  .team-member p {
+    font-size: 15px;
+    line-height: 1.8;
+  }
+  .acknowledgements-contributors,
+  .acknowledgements-reviewers {
+    padding: 60px 20px;
+  }
+  .acknowledgements-reviewers .acknowledgements-names {
+    columns: 1;
+  }
+  .acknowledgements-thanks {
+    padding: 64px 24px;
+    background-size: 2800px auto;
+  }
+  .acknowledgements-page .acknowledgements-thanks p {
+    font-size: 17px;
   }
 }
 
