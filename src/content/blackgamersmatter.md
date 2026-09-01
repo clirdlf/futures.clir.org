@@ -105,8 +105,8 @@ Early video game interpretations of Black characters were primarily portrayed in
 
 ![Screenshot from Nintendo's Punch-Out showing a boxing match.](/assets/Figure.jpeg)
 
-Figure 7. Nintendo Game "Punch-Out!!"
-
+_Figure 7. Nintendo Game "Punch-Out!!"
+_
 An example of this characterization can be found in the role-playing video game “Square’s Tom Sawyer”<sup>1</sup> (Figure 8). When specifically engaging with the larger character picture, as noted by digital media scholars Anna Everett and S. Craig Watkins (2008), nearly 70% of video game protagonists are White males, while communications scholars Dmitri Williams, Nicole Martins, Mia Consalvo, and James D. Ivory (2009) stretch that figure to nearly 80%. Between the two studies, each discovered that even with the increase of Black and brown bodies represented in actual video games, the depictions are limited to criminals, hustlers, hyper-violent terrorists, athletes, and brawn over brain sidekicks.
 
 ![Screenshot from Square's Tom Sawyer showing a racist Blackface caricature.](/assets/Gipson-Figure-7.jpg)
@@ -138,7 +138,7 @@ In addition to multimedia projects, Sugar Gamers serves as a community platform 
 
 **What’s in a Hashtag?** Operating in the same vein as _Sugar Gamers_ is the online platform, _I Need Diverse Games_ (INDG). This project was born out of a reactionary tweet (#INeedDiverseGames) in response to the lack of diverse protagonists being featured in the latest list of upcoming games.3 Created in 2014 as a non-profit foundation, DePass and INDG have been dedicated to aiding underrepresented people gain access and visibility within the gaming industry, while also offering scholarship/financial assistance through travel/housing grants and passes for game developer conferences and conventions. These efforts have allowed the opportunity for 25 scholar participants to attend the annual Game Developers Conference4 with an all-access pass (valued at $1600) each year since 2015-16. Moreover, through her foundation and own personal passion, DePass who also identifies as a gamer (her handle on Twitch5 is ‘Cypheroftyr’), seeks to change the narrative of who is in the room and sitting at the table. DePass argues, “If we’re not in the room, we don’t have a way to bring up these issues without worrying about being the squeaky wheel and losing the job that a lot of us need… it’s not just getting in the room; it’s getting in the room and being heard and having your ideas treated respectfully” (Thompson, 2022). Over time, DePass has become hopeful that changes are happening and that gaming is evolving. Tracking the data for INDG from the International Game Developers Association (IGDA), she found that less than 1% of all respondents identified as Black and less than 4% identified as Asian (Weststar et al., 2021).6 Ultimately, INDG seeks to discuss, analyze, and critique identity and culture in video games through a multi-faceted lens rooted in intersectionality.
 
-_“__We’re energized by the opportunity to change the way people think about gaming”_ (Black Girl Gamers).
+_“We’re energized by the opportunity to change the way people think about gaming”_ (Black Girl Gamers).
 
 The above quote can be read as a call to action for gamers in the present and hopeful future. As the first thing that viewers see when entering their website, [Black Girl Gamers](https://www.theblackgirlgamers.com/) is making a bold statement and establishing who they are as a gaming community. Defined as an “inclusive online gaming community,” Black Girl Gamers is one of the most successful and largest gaming communities for Black women, amassing over 8,000 members worldwide. Black Girl Gamers was founded in 2015 by British author and blogger, Jay-Ann Lopez, as a Facebook group providing community for Black women gamers  (Lopez, 2015). In the under 10 years that it has existed, Black Girl Gamers has made a global impact and created partnerships with such organizations as Google, Playstation, Twitch, Riot Games, Adidas, Facebook, EA, and Netflix. Much like the above-mentioned organizations, Black Girl Gamers also prides itself on diversity, inclusion, and equity for Black women in gaming. 
 
@@ -152,7 +152,7 @@ The above communities were selected based on each being created specifically by 
 <section class="article-section article-section--overview">
 {% markdown %}
 
-## The Second Race for Theory: The Challenge for Africology and Africana Philosophy
+## Game Over…Not Yet
 
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
 

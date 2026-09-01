@@ -41,7 +41,7 @@ In what follows, I outline the processes and tools utilized to develop this proj
 {% endmarkdown %}
 </section>
 
-<section class="article-section article-section--overview">
+<section class="article-section article-section--overview article-section--mural-list">
 {% markdown %}
 
 ## Establishing a Workflow to Generate Three-Dimensional Assets
@@ -105,19 +105,19 @@ When I returned to re-capture them using the Polycam LiDAR 3D Scanner mobile app
 
 After generating these models, as well as those of the aforementioned African sculptures and instruments, they were uploaded to the [Sketchfab](http://sketchfab.com) three-dimensional modeling platform in separate collections by type so that the models would be publicly viewable: outdoor sculptures ([Figure 3](https://skfb.ly/oEAoH)),<sup>6</sup> murals ([Figure 4](https://skfb.ly/oAtPK)),<sup>7</sup> African sculptures ([Figure 5](https://skfb.ly/oyFVN)),<sup>8</sup> and African instruments ([Figure 6](https://skfb.ly/oEAoN)).<sup>9</sup>
 
-<iframe title="Sketchfab Viewer" id="client-246bfb7ef6f74f18bd25056ca95ef393" allowvr="" src="https://sketchfab.com/models/246bfb7ef6f74f18bd25056ca95ef393/embed?api_version=1.5.2&amp;api_id=1_client-246bfb7ef6f74f18bd25056ca95ef393&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
+<iframe class="sketchfab-embed" title="Sketchfab Viewer" id="client-246bfb7ef6f74f18bd25056ca95ef393" allowvr="" src="https://sketchfab.com/models/246bfb7ef6f74f18bd25056ca95ef393/embed?api_version=1.5.2&amp;api_id=1_client-246bfb7ef6f74f18bd25056ca95ef393&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
 
 _Figure 3: outdoor sculptures_
 
-<iframe title="Sketchfab Viewer" id="client-113331a2e92940e493bf83cac9a75416" allowvr="" src="https://sketchfab.com/models/113331a2e92940e493bf83cac9a75416/embed?api_version=1.5.2&amp;api_id=1_client-113331a2e92940e493bf83cac9a75416&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
+<iframe class="sketchfab-embed" title="Sketchfab Viewer" id="client-113331a2e92940e493bf83cac9a75416" allowvr="" src="https://sketchfab.com/models/113331a2e92940e493bf83cac9a75416/embed?api_version=1.5.2&amp;api_id=1_client-113331a2e92940e493bf83cac9a75416&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
 
 _Figure 4: murals_
 
-<iframe title="Sketchfab Viewer" id="client-8e797df055624a6fa147b4be2e6b32a1" allowvr="" src="https://sketchfab.com/models/8e797df055624a6fa147b4be2e6b32a1/embed?api_version=1.5.2&amp;api_id=1_client-8e797df055624a6fa147b4be2e6b32a1&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
+<iframe class="sketchfab-embed" title="Sketchfab Viewer" id="client-8e797df055624a6fa147b4be2e6b32a1" allowvr="" src="https://sketchfab.com/models/8e797df055624a6fa147b4be2e6b32a1/embed?api_version=1.5.2&amp;api_id=1_client-8e797df055624a6fa147b4be2e6b32a1&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
 
 _Figure 5: African sculptures_
 
-<iframe title="Sketchfab Viewer" id="client-3df757f3828f444d8ae31e11fd8c0df1" allowvr="" src="https://sketchfab.com/models/3df757f3828f444d8ae31e11fd8c0df1/embed?api_version=1.5.2&amp;api_id=1_client-3df757f3828f444d8ae31e11fd8c0df1&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
+<iframe class="sketchfab-embed" title="Sketchfab Viewer" id="client-3df757f3828f444d8ae31e11fd8c0df1" allowvr="" src="https://sketchfab.com/models/3df757f3828f444d8ae31e11fd8c0df1/embed?api_version=1.5.2&amp;api_id=1_client-3df757f3828f444d8ae31e11fd8c0df1&amp;autostart=0&amp;tracking=0" frameborder="0" allowfullscreen="" mozallowfullscreen="true" webkitallowfullscreen="true" allow="vr; autoplay; fullscreen"></iframe>
 
 _Figure 6: African instruments_
 
@@ -174,7 +174,11 @@ After building the entire project in Unity, I downloaded Xcode so that I could s
 
 _Figure 8. Demonstration of the SacredGS Ar App working with the project story map website._
 
-<video src="https://futures.clir.org/wp-content/uploads/sites/41/2023/04/figure-8.mp4" controls="" preload="metadata" controlslist="nodownload"></video>
+<video controls preload="metadata" controlslist="nodownload">
+  <source src="/assets/figure-8.webm" type="video/webm">
+  <source src="/assets/figure-8.mp4" type="video/mp4">
+  Your browser does not support embedded video.
+</video>
 
 {% endmarkdown %}
 </section>
@@ -188,7 +192,7 @@ _Figure 8. Demonstration of the SacredGS Ar App working with the project story m
 
 _Sacred Geographic Superimpositions_ is essentially my entrée into the larger Black speculative project to apply an Afrofuturist conceptual framework to the application of digital humanities tools. In this project, photogrammetry, story mapping, and augmented reality provided a method for cultural preservation and curation as a means to honor those artworks which were in Philadelphia at some point during the project’s development. Cultural critic and originator of the term “Afrofuturism” Mark Dery explains, 
 
-It’s worth pointing out, in the context of what I’ve chosen to call “Afrofuturism,” that the mojos and goofer dust of Delta blues, together with the lucky charms, fetishes, effigies, and other devices employed in syncretic belief systems, such as voodoo, hoodoo, santería, mambo, and macumba, function very much like the joysticks, Datagloves, Waldos, and Spaceballs used to control virtual realities. Jerome Rothenburg would call them technologies of the sacred (1994, p. 210). 
+> It’s worth pointing out, in the context of what I’ve chosen to call “Afrofuturism,” that the mojos and goofer dust of Delta blues, together with the lucky charms, fetishes, effigies, and other devices employed in syncretic belief systems, such as voodoo, hoodoo, santería, mambo, and macumba, function very much like the joysticks, Datagloves, Waldos, and Spaceballs used to control virtual realities. Jerome Rothenburg would call them technologies of the sacred (1994, p. 210). 
 
 In that discussion, sociologist and hip hop scholar Tricia Rose comments, “ancestor worship in Black culture is a way of countering a historical erasure” (Rose quoted in Dery, 1994, p. 215). This project is indeed a spiritual scholarly endeavor to document and celebrate ephemeral Black public art in Philadelphia in a manner that transports them into the ancestral plane of the “transformative archive” to grapple with the power structures that govern the way we “preserve, gather, and share historical documents” in a manner that brings scholarly research and data curation out of the academy into a curated space grounded in storytelling and interpretation (Lothian and Phillips, 2013). As noted earlier, some public artworks that fit the scope of the project were not included because they had already been removed, others that were included were never intended to be permanently installed in Philadelphia, and the remainder could be removed at any moment. As such, the augmented reality output of this project was developed in an effort to celebrate those temporary and semi-permanent public artworks as sacred spaces adorned with objects pulled from my own spiritual practice. In other words, this phase of the project was my opportunity to use digital humanities tools to supplant the proverbial flowers that we often give to honor someone toward the end of their life or after they have died.
 

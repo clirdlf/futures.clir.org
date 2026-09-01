@@ -26,7 +26,7 @@ _Figure 1: screenshot of the Virtual Blockson reading room_
 
 The _Virtual Blockson_ is a project that utilizes virtual reality (VR) to teach high school students primary source literacy using materials from the Charles L. Blockson Afro-American Collection (Blockson Collection) housed at the Temple University Libraries.The Blockson Collection, comprising over 700,000 items related to the African Diaspora, includes a multitude of materials types such as books, sheet music, manuscripts, photographs, sculptures, and films. This rich variety of materials, covering a broad range of topics and time periods, is suited to gamification via a multi-modal medium like VR. In addition to the VR game itself, accompanying teaching guides, onboarding materials for teachers and players, and stand alone 3D models will be created to situate the game within a broader social studies curriculum. The completion of the game, in tandem with accompanying teaching materials, will allow students to meet the learning objectives laid out in the Guidelines for Primary Source Literacy developed by a joint task force on behalf of the Association of College and Research Libraries Rare Books and Manuscripts Section (ACRL/RBMS) and the Society of American Archivists (SAA). 
 
-To support this work, the Temple University Libraries Loretta C. Duckworth Scholars Studio (Scholars Studio) and Blockson Collection have developed a collaborative project to support the development of a prototype that will feature a level of the game focusing on the Pyramid Club. Using photos from the Blockson Collection’s John W. Mosley collection, primary and secondary sources from the collection, as well as supplementary materials from related archives and museums, this prototype will introduce students to Black art and artists during the 1940’s. We will also produce an accompanying teaching toolkit, consisting of teaching materials and onboarding documentation for teachers. Accessibility [testing](/glossary/#testing)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](/glossary/#testing) for disability, documenting accessibility approaches, general user [testing](/glossary/#testing)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](/glossary/#testing) for gameplay, assessment of the pedagogical efficacy of the game, and assessment of the sufficiency of the teaching toolkit will also take place during this phase of work.
+To support this work, the Temple University Libraries Loretta C. Duckworth Scholars Studio (Scholars Studio) and Blockson Collection have developed a collaborative project to support the development of a prototype that will feature a level of the game focusing on the Pyramid Club. Using photos from the Blockson Collection’s John W. Mosley collection, primary and secondary sources from the collection, as well as supplementary materials from related archives and museums, this prototype will introduce students to Black art and artists during the 1940’s. We will also produce an accompanying teaching toolkit, consisting of teaching materials and onboarding documentation for teachers. Accessibility [testing](/glossary/#testing) for disability, documenting accessibility approaches, general user [testing](/glossary/#testing) for gameplay, assessment of the pedagogical efficacy of the game, and assessment of the sufficiency of the teaching toolkit will also take place during this phase of work.
 
 ## Humanities Content
 
@@ -54,7 +54,7 @@ His photographs of the Pyramid Club capture the visits of important figures such
 
 ![A black and White photo of three African American people in clothing from the 1940’s. Laura Wheeler Waring is the figure on the right and is shaking hands with Dr. Nathan F. Mossell while Sadie T.M. Alexander stands in the center and smiles at Wheeler-Waring.](/assets/Virtual-Blockson-Figure-4.jpg)
 
-Figure 4 Laura Wheeler Waring shaking hands with Dr. Nathan F. Mossell and Sadie T.M. Alexander, 1940’s (from the John W. Mosley Photograph Collection)
+_Figure 4 Laura Wheeler Waring shaking hands with Dr. Nathan F. Mossell and Sadie T.M. Alexander, 1940’s (from the John W. Mosley Photograph Collection)_
 
 ## Laura Wheeler Waring
 
@@ -70,7 +70,7 @@ Dox Thrash was born in rural Griffin, Georgia in 1893 to a family that lived in 
 
 ![Virtual reconstruction of the Charles L. Blockson Afro-American Collection reading room.](/assets/Virtual-Blockson-Figure-7-1024x577.jpg)
 
-Figure 7 screenshot of the Virtual Blockson reading room.
+_Figure 7 screenshot of the Virtual Blockson reading room._
 
 {% endmarkdown %}
 </section>
@@ -97,6 +97,8 @@ As previously mentioned, this game looks to teach the process of primary source 
 
 ### Conceptualize.
 
+<div class="ms-8">
+
 _A. Distinguish primary from secondary sources for a given research question. Demonstrate an understanding of the interrelatedness of primary and secondary sources for research._ 
 
 _B. Articulate what might serve as primary sources for a specific research project within the framework of an academic discipline or area of study._
@@ -107,7 +109,11 @@ _D. Understand that research is an iterative process and that as primary sources
 
 In order to complete the game, students will encounter and interact with virtual recreations of primary and secondary sources from the Blockson Collection (i.e., virtual objects). Players must interact with these virtual objects in order to attain information (i.e., clues). As more clues are identified, students will gradually refine the research question they were given at the start of the game and request increasingly specific materials that will help them understand the space within which they have been placed (e.g. starting with secondary reference materials and progressing to more specialized primary and secondary sources in order to understand how these materials differ in content and physical organization). Players will engage in an iterative cycle of using information that has been provided in advance, as well as by the virtual archivist, to identify and request items from the collection that will take them into recreated spaces where they will then identify clues that will redirect them back to the reading room for additional materials. As they examine the sources in the reading room, this will add useful information and annotations to a virtual notebook/tablet that will allow them to return to the recreated Pyramid Club and progress in the game. This information will also refine their research questions. This aspect of the gameplay will replicate the iterative nature of research and show the relationship between primary and secondary sources, as well as how they are used to refine and answer research questions. The materials “pulled” for the player will be in a number of formats, demonstrating the different types of sources that can be applied to different types of research questions. 
 
+</div>
+
 ### Find and Access.
+
+<div class="ms-8">
 
 _A. Identify the possible locations of primary sources._ 
 
@@ -118,6 +124,7 @@ _C. Distinguish between catalogs, databases, and other online resources that con
 _D. Understand that historical records may never have existed, may not have survived, or may not be collected and/or publicly accessible. Existing records may have been shaped by the selectivity and mediation of individuals such as collectors, archivists, librarians, donors, and/or publishers, potentially limiting the sources available for research._ 
 
 _E. Recognize and understand the policies and procedures that affect access to primary sources, and that these differ across repositories, databases, and collections._
+</div>
 
 The majority of the above competencies will be supported within the assignments and resources contained within the teaching toolkit. These will include existing resources, typically used to teach undergraduate students how to locate and access materials within a university’s archive and/or special collections, adapted for high school education. These existing resources include handouts and slides associated with Temple University Libraries’ (TUL) information literacy workshops, as well as other materials and practices used by TUL’s Special Collections Research Center (SCRC) for instruction and class visits.<sup>1</sup>> High school students are regular visitors to TUL and its special collections and often utilize these resources for tours and as part of their research for Philadelphia’s National History Day.<sup>2</sup>  
 
@@ -125,15 +132,20 @@ Additionally, lessons from the Stanford History Education Group’s _Reading Lik
 
 ### Read, Understand, and Summarize.
 
+<div class="ms-8">
+
 _A. Examine a primary source, which may require the ability to read a particular script, font, or language, to understand or operate a particular technology, or to comprehend vocabulary, syntax, and communication norms of the time period and location where the source was created._ 
 
 _B. Identify and communicate information found in primary sources, including summarizing the content of the source and identifying and reporting key components such as how it was created, by whom, when, and what it is._ 
 
 _C. Understand that a primary source may exist in a variety of iterations, including excerpts, transcriptions, and translations, due to publication, copying, and other transformations._
+</div>
 
 Within the game, players will encounter virtual recreations of various types of materials. The objective of the game is to contextualize those materials within the larger historical narrative and refine and answer a research question. These materials will consist of related mixtures of primary and secondary sources that show how secondary sources may contain alternative formats of primary sources, or that there are various versions and formats of primary sources (e.g., folders containing both typed transcripts of hand-written correspondence alongside the original correspondence). This is easily achieved due to the multimodal nature of the Blockson Collection’s holdings. Photos, manuscripts, musical recordings, reference materials, and museum objects are all present within the collection. This will give players a better understanding of what constitutes a source. As they encounter materials from the Blockson Collection, they will be able to acquire clues (i.e., annotations) from those sources and see how they apply to the historical focus of that game level. Those clues will act as an example of how the content of a source can be summarized and applied. Skills listed in point “B” will be further developed by prompts within the teaching materials as students are expected to think about key reporting components when assessing how different types of sources are used for different types of research. 
 
 ### Interpret, Analyze, and Evaluate.
+
+<div class="ms-8">
 
 _A. Assess the appropriateness of a primary source for meeting the goals of a specific research or creative project._ 
 
@@ -146,10 +158,13 @@ _D. As part of the analysis of available resources, identify, interrogate, and c
 _E. Factor physical and material elements into the interpretation of primary sources including the relationship between container (binding, media, or overall physical attributes) and informational content, and the relationship of original sources to physical or digital copies of those sources._
 
 _F. Demonstrate historical empathy, curiosity about the past, and appreciation for historical sources and historical actors._
+</div>
 
 VR is particularly useful in supporting this learning objective. By having students immerse themselves in a recreated historical space, they engage with historical events differently. By converting it into a game, they have a motive (i.e., completing the game with a high ranking) to investigate and explore the people, events, and time period that construct the underlying context behind the archival materials they are encountering. In addition, prompts included within the teaching materials will guide teachers in helping students further interrogate how the events, spaces, people, and time periods they “visited” are functionally represented by the materials they encountered (e.g., whether that representation is accurate, thorough, and representative). Prompts will also interrogate the bias and gaps in the materials themselves. For example, the Pyramid Club did not allow women to be members. Prompts will guide students through thinking about how this would impact the resources they encountered. While all of this will be explored during this prototyping phase, it will be even more greatly achieved once the full game is developed and students see a greater variety of resources and narratives.
 
 ### Use and Incorporate.
+
+<div class="ms-8">
 
 _A. Examine and synthesize a variety of sources in order to construct, support, or dispute a research argument._ 
 
@@ -158,6 +173,7 @@ _B. Use primary sources in a manner that respects privacy rights and cultural co
 _C. Cite primary sources in accordance with appropriate citation style guidelines or according to repository practice and preferences (when possible)._ 
 
 _D. Adhere to copyright and privacy laws when incorporating primary source information in a research or creative project._ 
+</div>
 
 This learning objective will be accomplished by providing players with a basic research question that they will have to answer in order to progress and win the game. They will have to interact with various materials from the Blockson Collection, as well as recreated objects and spaces in order to unlock information that will contribute to the refinement of the provided research questions as the game progresses. Materials from the Blockson Collection will have records within the TUL catalog that the accompanying teaching materials will list. Students will be able to locate the records and learn how to properly cite them, identify rights information, and think through incorporating them in accordance with legal and ethical guidelines. TUL is the Digital Public Library of America (DPLA) service hub for the state of Pennsylvania, known as PA Digital. Within this capacity, it regularly offers workshops and resources on copyright. Examples of these resources can be found on the Rights Resources page of the PA Digital site.6 Resources on archival ethics mentioned under the second guideline will contribute to point “B” above.
 {% endmarkdown %}
@@ -172,6 +188,8 @@ This learning objective will be accomplished by providing players with a basic r
 
 While the final _Virtual Blockson_ game will be free and open to the public, for this phase of work, we will focus on students from local high schools within Philadelphia. During the 2020-2021 school year, there were 198,645 students enrolled in Philadelphia schools, 52% of whom were Black (Fast Facts, 2022). As is common in many under-funded districts, the School District of Philadelphia has seen a large number of public school closings – 30 since 2012 (Steinberg 2019). As of 2017, there are seven certified, full-time school librarians for all 216 remaining district operated schools with seventeen libraries kept open by volunteers from the West Philadelphia Alliance for Children (Fast Facts, 2022; Graham, 2020; West Philadelphia Alliance for Children, 2021). As a result of these demographic realities, the project will look to formally incorporate a culturally relevant pedagogical framework (Talpade & Talpade, 2020) into the assessment of the next build phase. Research has consistently shown that learning outcomes are impacted, not only by the content of lessons, but by student perception of the creators of sources. This has been shown to be particularly important for Black students and is an important avenue to fully explore, especially since this will be the first time many students have encountered the concept of an archive.
 
+Regarding distribution during this prototyping phase of the project, the game and teaching toolkit will be distributed in a controlled fashion via pre-selected educators and disabled and non-disabled individuals that will be recruited to participate in the assessment process. The game will be hosted on multiple platforms and the teaching toolkit (i.e., curricula materials and onboarding resources for the teachers), 3D models, and other relevant project information will be hosted internally and distributed to participants before being shared to the public website. We will organize small groups of students, accompanied by their parent(s) or legal guardian(s), to play the game in the Scholars Studio immersive studio for user [testing](/glossary/#testing).
+
 {% endmarkdown %}
 </section>
 
@@ -184,9 +202,9 @@ While the final _Virtual Blockson_ game will be free and open to the public, for
 
 **_Assessment of Toolkit._** We will collect feedback from the teachers selected to participate in this initial rollout. These teachers will be recruited based on the type of school at which they teach, their level of experience with technology, their level of experience in implementing new technologies into a classroom, and the alignment between their curricula and the content of the game. Other considerations, including the demographics of their students, will be weighed accordingly. Fifteen teachers will be selected to peer review the materials in the toolkit. We will ask teachers to independently read and comment on the toolkit. Feedback will then be gathered through a focus group with the teachers. We seek to assess the ease of integration of the toolkit into existing lessons, grade level appropriateness, alignment with SDP curricula and Pennsylvania state standards, and overall usefulness. Participating teachers will receive honoraria for their time. 
 
-**_Accessibility [Testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/)._** The accessibility of the game will be tested on an iterative basis as we develop specific design approaches. These approaches will need to be tested before being fully integrated into the game. Players with motor, hearing, visual, neurological, and intellectual disabilities will need to be brought in to assess whether or not they can physically operate the game, whether they can perceive and respond to sensory cues, whether those with neurological disabilities are safe as those with epilepsy and vertigo are examples of safety concerns, and whether there are enough allowances for those with neurological and intellectual disabilities to enable gameplay (e.g., the ability to pause and resume, making sure text is at a primary reading level). The first six months of the second year of project development will focus on iterative [testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/) and feedback. Three students from each category of disability will be selected to participate, totalling fifteen students. They will be brought in twice during the iterative phase to test portions of the game, then test them again after their feedback is incorporated. At the beginning of the last six months, they will be brought in to test the overall prototype. We will collect feedback in one-hour sessions with preselected activities and assessment tools so that bugs and accessibility barriers can be identified and corrected. Accessibility testers will receive an honorarium.
+**_Accessibility [Testing](/glossary/testing/)._** The accessibility of the game will be tested on an iterative basis as we develop specific design approaches. These approaches will need to be tested before being fully integrated into the game. Players with motor, hearing, visual, neurological, and intellectual disabilities will need to be brought in to assess whether or not they can physically operate the game, whether they can perceive and respond to sensory cues, whether those with neurological disabilities are safe as those with epilepsy and vertigo are examples of safety concerns, and whether there are enough allowances for those with neurological and intellectual disabilities to enable gameplay (e.g., the ability to pause and resume, making sure text is at a primary reading level). The first six months of the second year of project development will focus on iterative [testing](https://futures.clir.org/glossary/testing/) and feedback. Three students from each category of disability will be selected to participate, totalling fifteen students. They will be brought in twice during the iterative phase to test portions of the game, then test them again after their feedback is incorporated. At the beginning of the last six months, they will be brought in to test the overall prototype. We will collect feedback in one-hour sessions with preselected activities and assessment tools so that bugs and accessibility barriers can be identified and corrected. Accessibility testers will receive an honorarium.
 
-**_Users [Testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/) for General Gameplay and Pedagogical Efficacy._** We will test the playability of the game and its pedagogical efficacy in the last six months of the grant period. During this time, we will work with the teachers to solicit high school students from their classes for participation in user [testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/). Teachers will reach out to parents for consent and an invitation to attend their child’s user [testing](https://futures.clir.org/glossary/testing/)verb gerund or present participle: testing take measures to check the quality, performance, or reliability of (something), especially before putting it into widespread use or practice. “this range has not been tested on… [More](https://futures.clir.org/glossary/testing/) session. Sixteen students will be selected for participation and divided into two groups that will participate in sessions on two different days. While it would be ideal to test the game in classrooms, at this stage the game will only be a prototype. Our immediate goal is to assess the usability of the prototype and identify any bugs in the gameplay. As a result, students will visit the library with their parents or legal guardians, and be invited into the Scholar Studio’s immersive studio to play the game. Different students will test different types of headsets. This will allow us to test for bugs on different platforms. An hour will be dedicated to gameplay (i.e., getting students in the headsets, letting them play, then getting them out of headsets) and another hour for feedback and assessment. Feedback will be collected via focus group where the students will be gathered together and asked a specified set of questions to assess levels of engagement and enjoyment during gameplay, as well as assessing for comprehension of the themes, events, and specific learning objectives. Responses will be coded and feedback and identified bugs will be addressed. Students will receive a small honorarium for their participation.
+**_Users [Testing](https://futures.clir.org/glossary/testing/) for General Gameplay and Pedagogical Efficacy._** We will test the playability of the game and its pedagogical efficacy in the last six months of the grant period. During this time, we will work with the teachers to solicit high school students from their classes for participation in user [testing](https://futures.clir.org/glossary/testing/). Teachers will reach out to parents for consent and an invitation to attend their child’s user [testing](https://futures.clir.org/glossary/testing/) session. Sixteen students will be selected for participation and divided into two groups that will participate in sessions on two different days. While it would be ideal to test the game in classrooms, at this stage the game will only be a prototype. Our immediate goal is to assess the usability of the prototype and identify any bugs in the gameplay. As a result, students will visit the library with their parents or legal guardians, and be invited into the Scholar Studio’s immersive studio to play the game. Different students will test different types of headsets. This will allow us to test for bugs on different platforms. An hour will be dedicated to gameplay (i.e., getting students in the headsets, letting them play, then getting them out of headsets) and another hour for feedback and assessment. Feedback will be collected via focus group where the students will be gathered together and asked a specified set of questions to assess levels of engagement and enjoyment during gameplay, as well as assessing for comprehension of the themes, events, and specific learning objectives. Responses will be coded and feedback and identified bugs will be addressed. Students will receive a small honorarium for their participation.
 {% endmarkdown %}
 </section>
 
@@ -197,6 +215,26 @@ While the final _Virtual Blockson_ game will be free and open to the public, for
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
 
 While mentioned briefly, the emphasis on Sankofa teaching as a leading principle in this work is essential to our mission. Sankofa is an Akan word meaning “it is not taboo to fetch what is at risk of being left behind” (Carter G. Woodson Center, 2017). Erasure of Black history is an ongoing battle and it is evermore important that agency be given to Black students so that they may protect what is at risk of being forgotten. The _Virtual Blockson_ does not aim to tell players a story; it aims to teach them how to write one and how to understand the tales they have already been told. By immersing students in a space without traditional physical and temporal limitations, the _Virtual Blockson_ invites them to examine their history and world from new perspectives that will be crucial to them in the current political and social climate. It is also important to remember that, while virtual reality is an interesting medium with plenty of potential for the future, it is still just a tool that depends on the imagination and will of those who wield it. This can be easy to forget with the technocratic craze of American start-up culture characterized by hyper-wealthy, white men like Elon Musk, Mark Zuckerberg, and Jeff Bezos who make technology appear to be a neutral, self-driving force that only produces progress and profit. However, despite the obsession with profit and neo-liberal ideas of social progress, spaces and tools that center knowledge, play, collaboration, and self-actualization have always existed in the analog and can exist in the emerging digital future. As players engage with the _Virtual Blockson_, it is our hope they begin to imagine what that alternate digital future can be.
+
+_(May 2023)_
+
+<hr class="border-t border-gray-300 my-6">
+<div class="footnotes">
+
+<sup>1</sup> https://library.temple.edu/services/instruction-class-visits
+
+<sup>2</sup> https://www.ushistory.org/nhdphilly/
+
+<sup>3</sup> https://sheg.stanford.edu/
+
+<sup>4</sup> https://archivesforblacklives.wordpress.com/
+
+<sup>5</sup> https://www.docnow.io/
+
+<sup>6</sup> https://padigital.org/rights-resources/
+
+</div>
+
 {% endmarkdown %}
 </section>
 

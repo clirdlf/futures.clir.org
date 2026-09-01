@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 :root {
+  --sticky-header-height: 106px;
   --ink: #252525;
   --paper: #f4f0e8;
   --green: #124d41;
@@ -32,7 +33,10 @@
   --accent-font-weight: 600;
 
   color: var(--color-text);
-  
+}
+
+html {
+  scroll-padding-top: var(--sticky-header-height);
 }
 
 /* Present Encounters article */
@@ -177,19 +181,44 @@
 }
 
 .article-section ol {
-  margin: 45px 0 0;
-  padding: 30px 0 0;
-  border-top: 1px solid #ddd;
-  list-style-position: inside;
-  font-size: 13px;
+  margin: 28px 0 32px;
+  padding: 0 0 0 36px;
+  border-top: 0;
+  list-style-type: decimal;
+  list-style-position: outside;
+  font-size: inherit;
+  line-height: inherit;
 }
 .article-section ol li {
-  margin: 10px 0;
+  margin: 6px 0;
+  padding-left: 4px;
+}
+.article-section--mural-list ol:first-of-type {
+  column-count: 2;
+  column-gap: clamp(48px, 7vw, 96px);
+  margin: 32px 0;
+  padding: 0 0 0 32px;
+  border-top: 0;
+  list-style-position: outside;
+  font-size: 20px;
+  line-height: 1.7;
+}
+.article-section--mural-list ol:first-of-type li {
+  break-inside: avoid;
+  margin: 0 0 14px;
+  padding-left: 4px;
 }
 .article-section a {
   color: #276b45;
   text-decoration-line: underline;
   text-decoration-color: currentColor;
+}
+.article-section .sketchfab-embed {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  border: 0;
 }
 .guest-grid {
   display: grid;
@@ -370,6 +399,10 @@
   .article-section blockquote {
     margin-left: 15px;
     margin-right: 0;
+  }
+  .article-section--mural-list ol:first-of-type {
+    column-count: 1;
+    font-size: 17px;
   }
   .guest-grid {
     grid-template-columns: 1fr;
@@ -740,10 +773,12 @@ h2 {
 }
 .prose h3 {
   font-size: 1.5rem;
+  font-weight: 700;
 }
 .prose img {
   width: 100%;
   height: auto;
+  padding-bottom: 2rem;
 }
 .prose a {
   color: var(--green);
@@ -1244,6 +1279,10 @@ body {
   }
 }
 @media screen and (max-width: 800px) {
+  :root {
+    --sticky-header-height: 90px;
+  }
+
   .clir-bar {
     display: none;
   }
@@ -2290,6 +2329,7 @@ body {
 }
 .about-section blockquote {
   margin-right: 4em;
+  margin-left: 2rem;
   margin-top: 1.5em;
   margin-bottom: 1.5em;
   border-left: solid 2px #379254;
