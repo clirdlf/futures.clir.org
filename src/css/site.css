@@ -180,16 +180,23 @@ html {
   line-height: 1.2;
 }
 
-.article-section ol {
+.article-section ol,
+.article-section ul {
   margin: 28px 0 32px;
   padding: 0 0 0 36px;
   border-top: 0;
-  list-style-type: decimal;
   list-style-position: outside;
   font-size: inherit;
   line-height: inherit;
 }
-.article-section ol li {
+.article-section ol {
+  list-style-type: decimal;
+}
+.article-section ul {
+  list-style-type: disc;
+}
+.article-section ol li,
+.article-section ul li {
   margin: 6px 0;
   padding-left: 4px;
 }
@@ -2314,7 +2321,7 @@ body {
 .about-section .zigzag {
   margin-bottom: 20px;
 }
-.about-section .footnotes p {
+.about-section .footnotes p, .article-section .footnotes p {
     font-size: 14px;
 }
 .about-section p {

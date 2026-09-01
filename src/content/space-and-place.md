@@ -80,14 +80,11 @@ The argument that libraries and universities should be engaging more deeply, tho
 <hr class="border-t border-gray-300 my-6">
 
 <div class="footnotes">
-
-  <p>
+  
   <sup>1</sup> See the 2005 and 2007 conferences “New Times Demand New Scholarship,” and “New Times Demand New Scholarship II: Research Universities and Civic Engagement—Opportunities and Challenges,” summarized in Gibson 2012 and Stanton 2012 respectively.
-  </p>
+  
+  <sup>2</sup> See, for example, Swarthmore College’s Lang Center for Civic & Social Responsibility ([https://www.swarthmore.edu/lang-center/about-lang-center](https://www.swarthmore.edu/lang-center/about-lang-center)), Loyola University Chicago’s Center for Experiential Learning ([https://www.luc.edu/celts/](https://www.luc.edu/celts/)), or Michigan State University’s Office of University Outreach and Engagement ([https://engage.msu.edu/about/overview](https://engage.msu.edu/about/overview)).
 
-  <p>
-    <sup>2</sup> See, for example, Swarthmore College’s Lang Center for Civic & Social Responsibility ([https://www.swarthmore.edu/lang-center/about-lang-center](https://www.swarthmore.edu/lang-center/about-lang-center)), Loyola University Chicago’s Center for Experiential Learning ([https://www.luc.edu/celts/](https://www.luc.edu/celts/)), or Michigan State University’s Office of University Outreach and Engagement ([https://engage.msu.edu/about/overview](https://engage.msu.edu/about/overview)).
-  </p>
 </div>
 
 {% endmarkdown %}
@@ -113,6 +110,7 @@ The natural alternative would be to support one or more of the open-source alter
 <hr class="border-t border-gray-300 my-6">
 
 <div class="footnotes">
+
 <sup>3</sup> Of course, not all information needs to be open. The existence of Mukurtu as a cultural heritage platform is predicated on the need for Indigenous communities to control access to their information, and particularly for marginalized or colonized communities, barriers can be a form of decolonial empowerment.
 
 <sup>4</sup> For ArcGIS license costs, see [https://www.esri.com/en-us/arcgis/products/arcgis-desktop/buy](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/buy).

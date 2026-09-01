@@ -79,7 +79,7 @@ Especially as the COVID-19 pandemic limits in-person interactions, as well as vi
 
 ## Design Thinking Frameworks for Exploring Gaming for Digital Exhibits
 
-<div class="zigzag zigzag--orange" aria-hidden="true"></div>
+<div class="zigzag" aria-hidden="true"></div>
 
 Design thinking can be a helpful framework for libraries, especially those exploring co-creation methods and centering user experiences. Design thinking is an iterative creative problem-solving approach that is deeply human-centered. It is commonly rooted in five key phases: empathize, define, ideate, prototype, and test. The origins of the approach date back to the 1950s ([von Thienen et al. 2017](https://link.springer.com/chapter/10.1007/978-3-319-60967-6_2)). It has been used and adapted in fields such as design, education, engineering, and management, and can be especially useful when exploring possibilities at the intersection of disciplines. In thinking about games and the future of libraries, design thinking frameworks could help facilitate a structured process for co-creation, reimagining digital exhibits, and designing for gaming in these spaces. 
 
@@ -101,7 +101,9 @@ In addition to the above listed methods, there are a number of empathize-phase a
 
 <hr class="border-t border-gray-300 my-6">
 <div class="footnotes">
+
 <sup>1</sup>  The Life Design Log offers an example of three types of stakeholder mapping exercises, all of which could be adapted for library design teams interested in exploring who to talk to ([Nathan 2020](https://lifedesignlog.com/3-stakeholder-map-templates-for-virtual-co-creation/)).
+
 </div>
 
 {% endmarkdown %}
@@ -136,6 +138,7 @@ Each of these gamified digital exhibits seek innovations in digital technologies
 
  <hr class="border-t border-gray-300 my-6">
       <div class="footnotes">
+      
       <sup>1</sup> In the vein theorized by Benjamin Stokes in his recent book, _Locally Played: Real World Games for Stronger Places and Communities_ (2020).
       </div>
 

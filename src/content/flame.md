@@ -24,6 +24,7 @@ permalink: /flame/
 
 <hr class="border-t border-gray-300">
 
+
 ## Acknowledgements
 
 <div class="zigzag" aria-hidden="true"></div>
@@ -48,7 +49,7 @@ FLAME’s guests are groups of people who are affected by lack of, or restricted
 
 ## Season 1
 
-<iframe title="FLAME podcast on Spotify" data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/5dq7mdhEPnc3i2nhsYpsyD?utm_source=generator&si=99ac069bcaaf4906" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://anchor.fm/futures-flame/" title="podcast" width="100%" height="600x" allow="fullscreen"></iframe>
 
 {% endmarkdown %}
 </section>
@@ -56,9 +57,15 @@ FLAME’s guests are groups of people who are affected by lack of, or restricted
 <section class="article-section article-section--tint">
 {% markdown %}
 
+<div class="grid place-items-center">
+
 ## Our Guests
 
-<div class="zigzag zigzag--orange" aria-hidden="true"></div>
+  <div class="zigzag zigzag--orange block" aria-hidden="true"></div>
+
+</div>
+
+
 
 <div class="guest-grid">
   <article class="guest-card">

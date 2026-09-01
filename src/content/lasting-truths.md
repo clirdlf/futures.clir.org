@@ -27,7 +27,7 @@ need to fear
 Will teach you—  
 If you will learn (Butler, 2000).
 
-I know the world is bruised and bleeding, and though it is important not to ignore its pain, it is also critical to refuse to succumb to its malevolence. Like failure, chaos contains information that can lead to knowledge — even wisdom. Like art (Morrison, 2015).
+> I know the world is bruised and bleeding, and though it is important not to ignore its pain, it is also critical to refuse to succumb to its malevolence. Like failure, chaos contains information that can lead to knowledge — even wisdom. Like art (Morrison, 2015).
 
 Some folks work hard to fashion easy remedies for persistent pain. They speak of soothing while ignoring historical wounds, from cotton fields to carceral systems. They act real cool at the precipice—closing their eyes and plugging their ears to chaos—as the ground crumbles beneath their heedless feet. But chaos can challenge us to embrace new logics that honor and nurture Black futures. It can also teach us to listen for truths that are often buried within past and present pain.
 
@@ -298,6 +298,16 @@ _(May 2023)_
 <sup>4</sup> See the [Octavia E. Butler Legacy Network](http://octaviabutlerlegacy.com/) organized by Ayana Jamieson and Moya Bailey.
 
 <sup>5</sup> See Pete Rorabaugh and Jesse Stommel’s collaborative essay [“Hybridity pt. 3: What does Hybrid Pedagogy Do?”](http://hybridpedagogy.org/hybridity-pt-3-what-does-hybrid-pedagogy-do/) in which they challenge the practice of making hard and fast distinctions between digital and physical learning spaces—arguing that “all learning is necessarily hybrid.”
+
+<sup>6</sup> See Alexis Madrigal’s article [“What Facebook Did to American Democracy; And Why it Was so Hard to see it Coming”](https://www.theatlantic.com/technology/archive/2017/10/what-facebook-did/542502/) (2017). Also see Yochai Benkler, Naomi Oreskes, Paul Starr and Jane Mayers’s discussion of our asymmetric media ecosystem in [“A Modern History of the Disinformation Age: Communication, Technology, and Democracy in Transition”](https://www.youtube.com/watch?time_continue=631&v=xrBE_ksWun0&feature=emb_logo) (2019).
+
+<sup>7</sup> For further research on digital activism that centers work at the intersection of race and gender, see Sarah J. Jackson’s, Moya Bailey’s, and Brooke Foucault Welles’ _#HashtagActivism: Networks of Race and Gender Justice_ (2020)_._ For further research on the #BlackLiveMatter hashtag, it’s “impact on political and civic engagement,” see The Pew Research Center’s study [“Activism in the Social Media Age”](https://www.pewresearch.org/internet/2018/07/11/activism-in-the-social-media-age/) (2018).
+
+<sup>8</sup> See Tressie Macmillan Cottom’s talk on “[Digital Sociologies](https://www.youtube.com/watch?v=6x93JwMMM04)” at Virginia Commonwealth University (2017). Also see Andrea Wenzel’s [“Curious Communities: Online Engagement meets Old-School, Face-to-Face Outreach”](https://www.cjr.org/tow_center_reports/curious-communities-online-engagement-meets-old-school-face-to-face-outreach.php) (2017). For an example of what a “curious communities” project might look like, see [_Germantown Infohub_](https://germantowninfohub.org/), which was originally hosted on Medium. Medium provides a socially connected digital content management platform that is also a popular space for US public policy conversations. Described as a “free resource to share information and stories of and for residents of the Germantown neighborhood of Philadelphia.” [_Germantown Infohub_](https://germantowninfohub.org/) is a collaboration between a community advisory group, students and faculty at Temple and Jefferson Universities”—including Wenzel and Hill.
+
+<sup>9</sup> This aligns with Waite’s description of “courting failure” in _Teaching Queer_. She argues that “we know failure in our contradictions—writing as both a product and a process, literacy as both constraining and liberating” (57). Waite’s disciplinary position within composition studies intersects with digital making and representation in a host of technologically mediated pedagogical environments.
+
+<sup>10</sup> [The ALA’s Digital Literacy Taskforce](https://literacy.ala.org/digital-literacy/) defines digital literacy as “the ability to use information and communication technologies to find, evaluate, create, and communicate information, requiring both cognitive and technical skills.”
 </div>
 
 {% endmarkdown %}
