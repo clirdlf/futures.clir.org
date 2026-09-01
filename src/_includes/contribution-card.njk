@@ -1,4 +1,4 @@
-<article class="contribution-card{% if loop.index % 2 == 0 %} contribution-card--reverse{% endif %}" data-search="{{ contribution.data.title | lower }} {{ contribution.data.author | lower }} {{ contribution.data.topics | join(' ') | lower }} {{ contribution.data.excerpt | lower }}">
+<article class="contribution-card{% if loop.index % 2 == 0 %} contribution-card--reverse{% endif %}">
   <div class="contribution-card__copy"><div class="zigzag" aria-hidden="true"></div><h3><a href="{{ contribution.url }}">{{ contribution.data.title }}</a></h3><p>{{ contribution.data.excerpt }}</p><p class="contribution-card__date">({{ contribution.data.date | readableDate }})</p><a class="text-link" href="{{ contribution.url }}">Continue Reading <span aria-hidden="true">→</span></a></div>
   {% if contribution.data.hero %}<figure class="contribution-card__image"><img src="{{ contribution.data.hero }}" alt="{{ contribution.data.heroAlt or contribution.data.title }}">{% if contribution.data.heroCaption %}<figcaption>{{ contribution.data.heroCaption | safe }}</figcaption>{% endif %}</figure>{% endif %}
 </article>
