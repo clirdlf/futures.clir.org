@@ -39,6 +39,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('contributions', (collectionApi) => collectionApi
     .getFilteredByGlob(['src/content/*.md', 'src/content/*.njk'])
     .sort((a, b) => a.data.order - b.data.order));
+  eleventyConfig.addCollection('sitemapPages', (collectionApi) => collectionApi
+    .getAll()
+    .filter((item) => item.outputPath?.endsWith('.html') && item.data.sitemap !== false)
+    .sort((a, b) => a.url.localeCompare(b.url)));
   eleventyConfig.addFilter('readableDate', (value) => new Intl.DateTimeFormat('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${value}-01T00:00:00Z`)));
   eleventyConfig.addFilter('padNumber', (value) => String(value).padStart(2, '0'));
   eleventyConfig.addFilter('absoluteUrl', (value, base) => new URL(String(value).replace(/^\//, ''), base).toString());
