@@ -9,7 +9,7 @@
   --rust: #bd5238;
   --line: #cbc4b7;
   --white: #fff;
-  --yellow: #F1C41E;
+  --yellow: #f1c41e;
 
   --color-primary: #8d1d46;
   --color-secondary: #D53878;
@@ -23,11 +23,18 @@
   --color-green: #51a46c;
   --color-cream: #fcf7f3;
 
+  --cf-green: var(--color-lime);
+  --cf-yellow: var(--color-yellow);
+  --cf-wine: var(--color-primary);
+  --cf-orange: #ec8323;
+  --cf-pink: var(--color-secondary);
+  --cf-cream: var(--color-cream);
+
   --primary-font-family: 'Montserrat', 'Public Sans', sans-serif;
   --primary-font-weight: 600;
   --secondary-font-family: 'Public Sans', sans-serif;
   --secondary-font-weight: 400;
-  --text-font-family: "Helvetica", "arial", sans-serif;
+  --text-font-family: "Public Sans", Helvetica, Arial, sans-serif;
   --text-font-weight: 400;
   --accent-font-family: 'Montserrat', 'Public Sans', sans-serif;
   --accent-font-weight: 600;
@@ -41,7 +48,7 @@ html {
 
 /* Present Encounters article */
 .article-shell .article-header {
-  min-height: 700px;
+  min-height: clamp(430px, 70svh, 700px);
   padding: 0 40px;
   display: grid;
   place-items: center;
@@ -427,11 +434,11 @@ html {
     font-size: clamp(26px, 8vw, 38px);
   }
   .guest-card p {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.75;
   }
   .guest-card summary {
-    font-size: 18px;
+    font-size: 16px;
   }
   .guest-card summary::after {
     width: 14px;
@@ -466,13 +473,8 @@ html {
 @theme {
   --color-ink: var(--ink);
   --color-paper: var(--paper);
-  --font-sans: "Avenir Next", "Helvetica Neue", sans-serif;
-  --font-serif: "Public Sans", Georgia, serif;
-  --clir-burgundy: #9d2235;
-}
-
-@layer components {
-
+  --font-sans: var(--text-font-family);
+  --font-serif: var(--primary-font-family);
 }
 
 * {
@@ -649,7 +651,7 @@ nav a:hover,
   margin-bottom: 1.8rem;
 }
 em {
-  @apply italic;
+  font-style: italic;
 }
 .hero__dek {
   font-size: 1.15rem;
@@ -1116,7 +1118,7 @@ body {
 }
 .intro__copy em {
   color: inherit;
-  @apply italic;
+  font-style: italic;
 }
 .zigzag {
   width: 80px;
@@ -1287,7 +1289,7 @@ body {
 }
 @media screen and (max-width: 800px) {
   :root {
-    --sticky-header-height: 90px;
+    --sticky-header-height: 150px;
   }
 
   .clir-bar {
@@ -1558,14 +1560,6 @@ body {
 }
 
 /* Curated Futures landing page — values mirror the current Elementor site. */
-:root {
-  --cf-green: #6ec38a;
-  --cf-yellow: #f1c41e;
-  --cf-wine: #8d1d46;
-  --cf-orange: #ec8323;
-  --cf-pink: #d53878;
-  --cf-cream: #fcf7f3;
-}
 body {
   color: #1e1e1e;
   font-family: "Public Sans", Helvetica, Arial, sans-serif;
@@ -1608,7 +1602,7 @@ body {
 .site-header__inner {
   min-height: 106px;
   max-width: 1140px;
-  padding: 12px 0;
+  padding: 12px clamp(20px, 4vw, 40px);
 }
 .wordmark img {
   width: 192px;
@@ -1656,8 +1650,7 @@ body {
 }
 .hero__card {
   width: 100%;
-  height: 382px;
-  min-height: 382px;
+  min-height: clamp(320px, 40vh, 382px);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -2177,16 +2170,16 @@ body {
   text-align: center;
 }
 .about-meta::before,
-.about-meta::after {
+.about-meta::after, .article-byline::before, .article-byline::after {
   content: "";
   display: block;
   height: 1px;
   background: #ddd;
 }
-.about-meta::before {
+.about-meta::before, .article-byline::before {
   margin-bottom: 39px;
 }
-.about-meta::after {
+.about-meta::after, .article-byline::after {
   margin-top: 39px;
 }
 .about-meta ul {
@@ -2568,16 +2561,30 @@ body {
   }
   .site-header__inner {
     min-height: 90px;
-    display: flex;
-    padding: 10px 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+    padding: 10px 20px 14px;
   }
   .site-header nav {
-    gap: 0.75rem;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 4px;
     font-size: 12px;
+    line-height: 1.25;
+    text-align: center;
+  }
+  .site-header nav a {
+    min-height: 44px;
+    display: grid;
+    place-items: center;
+    padding: 6px 4px;
+    overflow-wrap: anywhere;
   }
   .wordmark img {
     width: 135px;
-    height: 70px;
+    height: auto;
   }
   .hero {
     min-height: auto;
