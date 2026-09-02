@@ -24,7 +24,6 @@ permalink: /flame/
 
 <hr class="border-t border-gray-300">
 
-
 ## Acknowledgements
 
 <div class="zigzag" aria-hidden="true"></div>
@@ -59,13 +58,11 @@ FLAME’s guests are groups of people who are affected by lack of, or restricted
 
 <div class="grid place-items-center">
 
-## Our Guests
+  ## Our Guests
 
   <div class="zigzag zigzag--orange block" aria-hidden="true"></div>
 
 </div>
-
-
 
 <div class="guest-grid">
   <article class="guest-card">

@@ -2,7 +2,7 @@
 layout: article.njk
 articleStyle: feature
 title: The Third Library and the Commons
-authors: 
+authors:
   - Annie Johnson
   - Carrie Johnston
   - Aditya Ranganath
@@ -53,9 +53,9 @@ The commons is therefore at risk of becoming a buzzword, to the extent that it h
 
 These reflections are divided into three sections. Each section focuses on one of the academic library’s three fundamental constitutive parts:
 
-*   Knowledge, or the materials and resources in which this knowledge is encoded, and the systems used to legibly organize these materials (Section I)
-*   The workers whose labor produces the library’s distinctive services (Section II)
-*   The physical buildings and spaces that mediate the interactions between the library’s patrons, workers, and its knowledge assets (Section III)
+- Knowledge, or the materials and resources in which this knowledge is encoded, and the systems used to legibly organize these materials (Section I)
+- The workers whose labor produces the library’s distinctive services (Section II)
+- The physical buildings and spaces that mediate the interactions between the library’s patrons, workers, and its knowledge assets (Section III)
 
 The dynamic interplay of these elements across time shapes the library as a complex and living institution. We therefore explore how each of these aspects of the library might be reimagined and reorganized as a commons, and the obstacles that stand in the way of these efforts.
 
@@ -165,11 +165,11 @@ Research from Kaetrena Kendrick and others has shown that differences in status 
 <iframe class="mb-8" id="twitter-widget-1" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 76px; display: block; flex-grow: 1;" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-1&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1441067173045284871&amp;lang=en&amp;origin=https%3A%2F%2Ffutures.clir.org%2Fthe-third-library-the-commons%2F&amp;sessionId=52cc45511a9f46097ff7370a16d72f8702eb9dea&amp;theme=light&amp;widgetsVersion=6a3ad42b224df%3A1778106238597&amp;width=550px" data-tweet-id="1441067173045284871"></iframe>
 
 > I have resigned from my university job without a new job because I don't feel safe getting to or being at work during an ongoing pandemic for no reason.  
->   
+>
 > I have also decided to leave libraries.  
->   
+>
 > A thread where I bare my soul to The Internet. /1
-> 
+>
 > — Sarah Wipperman (@swipp\_it) [September 23, 2021](https://twitter.com/swipp_it/status/1441067173045284871?ref_src=twsrc%5Etfw)
 
 _[Tweet by Sarah Wipperman](https://twitter.com/swipp_it/status/1441067173045284871)_
@@ -211,7 +211,7 @@ Most recently, library workers at Northwestern University Libraries announced th
 <iframe class="mb-8" id="twitter-widget-3" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 550px; height: 76px; display: block; flex-grow: 1;" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-3&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=false&amp;id=1447975885504720907&amp;lang=en&amp;origin=https%3A%2F%2Ffutures.clir.org%2Fthe-third-library-the-commons%2F&amp;sessionId=52cc45511a9f46097ff7370a16d72f8702eb9dea&amp;theme=light&amp;widgetsVersion=6a3ad42b224df%3A1778106238597&amp;width=550px" data-tweet-id="1447975885504720907"></iframe>
 
 > We, the library workers of Northwestern University, are forming a union! Website and social media coming this afternoon. Library workers and library patrons of the world, unite! [pic.twitter.com/DJKrVFC27E](https://t.co/DJKrVFC27E)
-> 
+>
 > — Josh (@\_jshhnn) [October 12, 2021](https://twitter.com/_jshhnn/status/1447975885504720907?ref_src=twsrc%5Etfw)
 
 _[Tweet by Josh Honn](https://twitter.com/_jshhnn/status/1447975885504720907) A group of Northwestern University Library workers gather in front of the Rebecca Crown Center at Northwestern, where the Provost’s Office is located, to announce their intention to form a union with SEIU._
@@ -283,7 +283,6 @@ With the OPC and library conceived as separate endeavors, the commons spaces on 
 
 Academic libraries should take note of this tendency, seen in the design of the Obama Presidential Center, to devalue or eliminate librarians’ work from the commons due to online services. As Marie L. Radford points out, such services “seem deceptively simple because we live online now, but what’s underneath there is the level of complexity about human interaction” (qtd. in Carlson 2021). Additionally, academic libraries must take note that when building knowledge commons, we must avoid the paradox in which faculty “vote to protect the collections budgets from cuts while allowing, directly or indirectly, reductions in staff that prevent the very acquisitions and systems design and other services needed to bring them the collections they defended” (Pritchard 2008, 299). Library work must be a centerpiece not only in building the knowledge commons, but also advocating for free and open access to information and resisting the encroaching demands of knowledge capitalism. A Third Library is possible when building physical spaces that allow for the collective power of a workplace commons, which in turn makes it possible to advocate for a true knowledge commons.
 
-
 {% endmarkdown %}
 </section>
 
@@ -324,7 +323,7 @@ Argyres, Nicholas S. and Julia Porter Liebeskind. 1998. “Privatizing the Intel
 
 Bargaining for the Common Good. n.d. [https://www.bargainingforthecommongood.org/](https://www.bargainingforthecommongood.org/).
 
-Battles, Matthew. 2015. _Library: An Unquiet History._ London: WW Norton and Company. Kindle Edition. 
+Battles, Matthew. 2015. _Library: An Unquiet History._ London: WW Norton and Company. Kindle Edition.
 
 Bell, Steven. 2006. “CLIR’s Program: A Real or Imagined Shortage of Academic Librarians.” ACRLog (October 16). [https://acrlog.org/2006/10/16/clirs-program-a-real-or-imagined-shortage-of-academic-librarians/](https://acrlog.org/2006/10/16/clirs-program-a-real-or-imagined-shortage-of-academic-librarians/).
 
@@ -336,11 +335,11 @@ Bonnand, Sheila and Tim Donahue. 2010. “What’s in a Name? The Evolving Libra
 
 Boyle, James. 2003. “The Second Enclosure Movement of the Public Domain.” _Law and Contemporary Problems_ 66(33): 33-74. [https://www.jstor.org/stable/20059171](https://www.jstor.org/stable/20059171).
 
-Brown-Keyder, Virginia. 2007. “Intellectual Property: Commodification and its Discontents.” In _Reading Karl Polanyi for the 21st Century: Market Economy as a Political Project_, edited by Ayse Bugara and Kaan Agartan, 155-173. New York: Palgrave Macmillan. 
+Brown-Keyder, Virginia. 2007. “Intellectual Property: Commodification and its Discontents.” In _Reading Karl Polanyi for the 21st Century: Market Economy as a Political Project_, edited by Ayse Bugara and Kaan Agartan, 155-173. New York: Palgrave Macmillan.
 
-Brunner, Marta L. 2010. “PhD Holders in the Academic Library: The CLIR Postdoctoral Fellowship Program.” In _The Expert Library: Staffing, Sustaining, and Advancing the Academic Library in the 21st Century_, edited by Scott Walter and Karen Williams. Chicago: Association of College & Research Libraries: 158–189. [http://escholarship.org/uc/item/05j228r4.](http://escholarship.org/uc/item/05j228r4)
+Brunner, Marta L. 2010. “PhD Holders in the Academic Library: The CLIR Postdoctoral Fellowship Program.” In _The Expert Library: Staffing, Sustaining, and Advancing the Academic Library in the 21st Century_, edited by Scott Walter and Karen Williams. Chicago: Association of College & Research Libraries: 158–189. [http://escholarship.org/uc/item/05j228r4.](http://escholarship.org/uc/item/05j228r4).
 
-Burton-Jones, Alan. 1999. _Knowledge Capitalism: Business, Work, and Learning in the New Economy._ Oxford: Oxford University Press. 
+Burton-Jones, Alan. 1999. _Knowledge Capitalism: Business, Work, and Learning in the New Economy._ Oxford: Oxford University Press.
 
 Carlson, Scott. 2021. “Academic Libraries Led Universities Into the Socially Distant Era. Now They’re Planning for What’s Next.” _The Chronicle of Higher Education_ (April 27). [https://www.chronicle.com/article/academic-libraries-led-universities-into-the-socially-distant-era-now-theyre-planning-for-whats-next](https://www.chronicle.com/article/academic-libraries-led-universities-into-the-socially-distant-era-now-theyre-planning-for-whats-next).
 
@@ -354,21 +353,21 @@ De la Peña McCook, Kathleen. 2010. “Unions in Public and Academic Libraries.�
 
 Dempsey, Lorcan and Constance Malpas. 2018. “Academic Library Futures in a Diversified University System.” In _Higher Education in the Era of the Fourth Industrial Revolution_, edited by Nancy Gleason, 65-91. Singapore: Palgrave Macmillan.
 
-Department for Professional Employees, AFL-CIO. 2021. “Library Professionals: Facts & Figures.” https://www.dpeaflcio.org/factsheets/library-professionals-facts-and-figures#\_edn15
+Department for Professional Employees, AFL-CIO. 2021. “Library Professionals: Facts & Figures.” https://www.dpeaflcio.org/factsheets/library-professionals-facts-and-figures#\_edn15.
 
 Drabinski, Emily, and Kelly McElroy. 2021. “Building Our Power: Management and Labor in Libraries.” CALM Conference. [https://www.youtube.com/watch?v=uOhpj8vYgn8](https://www.youtube.com/watch?v=uOhpj8vYgn8).
 
-Edlin, Aaron S. and Daniel L. Rubinfeld. 2004. “Exclusive or Efficient Pricing? The Big Deal Bundling of Academic Journals.” _Antitrust Law Journal_ 72(1): 119-157. [https://www.jstor.org/stable/40843619](https://www.jstor.org/stable/40843619). 
+Edlin, Aaron S. and Daniel L. Rubinfeld. 2004. “Exclusive or Efficient Pricing? The Big Deal Bundling of Academic Journals.” _Antitrust Law Journal_ 72(1): 119-157. [https://www.jstor.org/stable/40843619](https://www.jstor.org/stable/40843619).
 
 Fox, Alex and Jeffrey Brainard. 2019. “University of California Takes a Stand on Open Access.” _Science_ 363(6431): 1023. [DOI: 10.1126/science.363.6431.1023-a](https://doi.org/10.1126/science.363.6431.1023-a).
 
-Frederick, Jennifer and Christine Wolff-Eisenberg. 2020. “Academic Library Strategy and Budgeting During the COVID-19 Pandemic: Results from the Ithaka S+R US Library Survey 2020.” Ithaka S+R (December). [https://doi.org/10.18665/sr.314507.](https://doi.org/10.18665/sr.314507.)
+Frederick, Jennifer and Christine Wolff-Eisenberg. 2020. “Academic Library Strategy and Budgeting During the COVID-19 Pandemic: Results from the Ithaka S+R US Library Survey 2020.” Ithaka S+R (December). [https://doi.org/10.18665/sr.314507](https://doi.org/10.18665/sr.314507).
 
 Frederick, Jennifer and Christine Wolff-Eisenberg. 2021. “National Movements for Racial Justice and Academic Library Leadership: Results from the Ithaka S+R US Library Survey 2020.” Ithaka S+R (March). [https://doi.org/10.18665/sr.314931](https://doi.org/10.18665/sr.314931).
 
 Galvan, Angela. 2015. “Soliciting Performance, Hiding Bias: Whiteness and Librarianship.” _In the Library with the Lead Pipe_ (June 3). [https://www.inthelibrarywiththeleadpipe.org/2015/soliciting-performance-hiding-bias-whiteness-and-librarianship/](https://www.inthelibrarywiththeleadpipe.org/2015/soliciting-performance-hiding-bias-whiteness-and-librarianship/).
 
-Hall, Gary. 2016. _Pirate Philosophy: For a Digital Posthumanities._ Cambridge: The MIT Press. 
+Hall, Gary. 2016. _Pirate Philosophy: For a Digital Posthumanities._ Cambridge: The MIT Press.
 
 Hall, Richard. 2020. “The Hopeless University. Intellectual Work at the End of the End of History.”
 
@@ -376,13 +375,13 @@ _Postdigital Science and Education_ 2: 830-848. [https://doi.org/10.1007/s42438-
 
 Halperin, Jennie Rose. 2020. “The Library Commons: An Imagination and an Invocation.” _In the Library with the Lead Pipe_ (September 2). [https://www.inthelibrarywiththeleadpipe.org/2020/the-library-commons/](https://www.inthelibrarywiththeleadpipe.org/2020/the-library-commons/).
 
-Haskell, Jonathan, and Stian Westlake. 2018. _Capitalism Without Capital: The Rise of the Intangible Economy._ Princeton: Princeton University Press. 
+Haskell, Jonathan, and Stian Westlake. 2018. _Capitalism Without Capital: The Rise of the Intangible Economy._ Princeton: Princeton University Press.
 
 Hathcock, April. 2015. “White Librarianship in Blackface: Diversity Initiatives in LIS.” _In the Library With the Lead Pipe_ (October 7). [http://www.inthelibrarywiththeleadpipe.org/2015/lis-diversity/](http://www.inthelibrarywiththeleadpipe.org/2015/lis-diversity/).
 
 Herbert, William A., Jacob Apkarian, and Joseph van der Naald. 2020. “Supplementary Directory of New Bargaining Agents and Contracts in Institutions of Higher Education, 2013-2019.” National Center for the Study of Collective Bargaining in Higher Education and the Professions, Hunter College, City University of New York. [https://webedit2.hunter.cuny.edu/ncscbhep/assets/files/SupplementalDirectory-2020-FINAL.pdf](https://webedit2.hunter.cuny.edu/ncscbhep/assets/files/SupplementalDirectory-2020-FINAL.pdf).
 
-Hess, Charlotte, and Elinor Ostrom. 2007. “Introduction: An Overview of the Knowledge Commons.” In _Understanding Knowledge as a Commons_, edited by Charlotte Hess and Elinor Ostrom, 3-27. Cambridge: MIT Press. 
+Hess, Charlotte, and Elinor Ostrom. 2007. “Introduction: An Overview of the Knowledge Commons.” In _Understanding Knowledge as a Commons_, edited by Charlotte Hess and Elinor Ostrom, 3-27. Cambridge: MIT Press.
 
 Hoodless, Catherine, and Stephen Pinfield. 2018. “Subject vs. Functional: Should Subject Librarians Be Replaced by Functional Specialists in Academic Libraries?” _Journal of Librarianship and Information Science_ 50(4):345–60. [http://www.doi.org/10.1177/0961000616653647](https://www.doi.org/10.1177/0961000616653647).
 
@@ -394,7 +393,7 @@ Jaguszewski, Janice, and Karen Williams. 2013. “New Roles for New Times: Trans
 
 Jaschik, Scott. 2021. “Duke University Press Workers Seek Union.” _Inside Higher Ed_ (March 30). [https://www.insidehighered.com/quicktakes/2021/03/30/duke-university-press-workers-seek-union](https://www.insidehighered.com/quicktakes/2021/03/30/duke-university-press-workers-seek-union).
 
-Jessop, Bob. 2007. “Knowledge as a Fictitious Commodity: Insights and Limits from a Polanyian Perspective.” In _Reading Karl Polanyi for the 21st Century: Market Economy as a Political Project_, edited by Ayse Bugara and Kaan Agartan, 115-135. New York: Palgrave Macmillan. 
+Jessop, Bob. 2007. “Knowledge as a Fictitious Commodity: Insights and Limits from a Polanyian Perspective.” In _Reading Karl Polanyi for the 21st Century: Market Economy as a Political Project_, edited by Ayse Bugara and Kaan Agartan, 115-135. New York: Palgrave Macmillan.
 
 Jones, Philip and James Stivers. 2004. “Good Fences Make Bad Libraries: Rethinking Binary Constructions of Employment in Academic Libraries.” _portal: Libraries and the Academy_ 4(1): 85-104. [http://www.doi.org/10.1353/pla.2004.0011](https://doi.org/10.1353/pla.2004.0011).
 
@@ -412,7 +411,7 @@ Kranich, Nancy. 2010. “Academic Libraries as Hubs For Deliberative Democracy.�
 
 Kroger, John. 2021. “650,000 Colleagues Have Lost Their Jobs: A Moral Issue for Higher Education.” _Inside Higher Ed_ (February 19). [https://www.insidehighered.com/blogs/leadership-higher-education/650000-colleagues-have-lost-their-jobs](https://www.insidehighered.com/blogs/leadership-higher-education/650000-colleagues-have-lost-their-jobs).
 
-la paperson. 2017. _A Third University is Possible._ Minneapolis: University of Minnesota Press. Kindle Edition. 
+la paperson. 2017. _A Third University is Possible._ Minneapolis: University of Minnesota Press. Kindle Edition.
 
 Leebaw, Danya, and Alexis Logsdon. 2020. “Power and Status (and Lack Thereof) in Academe: Academic Freedom and Academic Librarians.” _In the Library with the Lead Pipe_ (September 16). [http://www.inthelibrarywiththeleadpipe.org/2020/power-and-status-and-lack-thereof-in-academe/](http://www.inthelibrarywiththeleadpipe.org/2020/power-and-status-and-lack-thereof-in-academe/).
 
@@ -472,14 +471,13 @@ Temple University. 2019. “Inside Look: Take a Tour of Charles Library.” YouT
 
 UW Libraries Union. n.d. [https://sites.google.com/view/uwlibunion/home](https://sites.google.com/view/uwlibunion/home).
 
-Vaidhyanathan, Siva. 2017. _Intellectual Property: A Very Short Introduction._ Oxford: Oxford University Press. Kindle Edition. 
+Vaidhyanathan, Siva. 2017. _Intellectual Property: A Very Short Introduction._ Oxford: Oxford University Press. Kindle Edition.
 
 Vigdor, Neil. 2021. “Obama Breaks Ground on Presidential Center in Chicago After Lengthy Discord.” _The New York Times_ (September 28). [https://www.nytimes.com/2021/09/28/us/obama-presidential-center-chicago.html](https://www.nytimes.com/2021/09/28/us/obama-presidential-center-chicago.html).
 
-Vinopal, Jennifer. 2016. “The Quest for Diversity in Library Staffing: From Awareness to Action.” _In the Library with the Lead Pipe_ (January 13). [http://www.inthelibrarywiththeleadpipe.org/2016/quest-for-diversity/ .  
-](http://www.inthelibrarywiththeleadpipe.org/2016/quest-for-diversity/)
+Vinopal, Jennifer. 2016. “The Quest for Diversity in Library Staffing: From Awareness to Action.” _In the Library with the Lead Pipe_ (January 13). [http://www.inthelibrarywiththeleadpipe.org/2016/quest-for-diversity/](http://www.inthelibrarywiththeleadpipe.org/2016/quest-for-diversity/).
 
-Washburn, Jennifer. 2005. _University, Inc. The Corporate Corruption of American Higher Education._ New York: Basic Books. Kindle Edition. 
+Washburn, Jennifer. 2005. _University, Inc. The Corporate Corruption of American Higher Education._ New York: Basic Books. Kindle Edition.
 
 Zu, Lihong Zu. 2012. “The Role of Paraprofessionals in Technical Services in Academic Libraries.” _Library Resources and Technical Services_ 56(3). [https://doi.org/10.5860/lrts.56n3.127](https://doi.org/10.5860/lrts.56n3.127).
 

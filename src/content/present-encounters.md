@@ -54,20 +54,19 @@ Five of the presentations from the symposium are included in this issue as artic
 
 *May 2023*
 
-<sup>1</sup> Watch the opening remarks and keynote address here: [https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b](https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b).   
+<sup>1</sup> Watch the opening remarks and keynote address here: [https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b](https://library.temple.edu/watchpastprograms/show?id=7b1163f7-1de1-46c9-9853-e77733943c6b).
 
-<sup>2</sup> Watch the _Black Lives Always Mattered!_ discussion here: [https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d](https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d). 
+<sup>2</sup> Watch the _Black Lives Always Mattered!_ discussion here: [https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d](https://library.temple.edu/watchpastprograms/show?id=2a37cfd0-9634-4119-9cb3-1ef28931b03d).
 
-<sup>3</sup> Watch the Scholars Studio project presentations here: [https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786](https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786)
+<sup>3</sup> Watch the Scholars Studio project presentations here: [https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786](https://library.temple.edu/watchpastprograms/show?id=33de993b-4f9c-49fa-b292-caf183fd1786).
 
-<sup>4</sup> Watch Clark’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751](https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751)
+<sup>4</sup> Watch Clark’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751](https://library.temple.edu/watchpastprograms/show?id=80f883ef-45e2-466a-90cd-ae291b7a3751).
 
-<sup>5</sup> Watch Colmon’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988](https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988)
+<sup>5</sup> Watch Colmon’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988](https://library.temple.edu/watchpastprograms/show?id=e50f4c80-7aab-4ce5-a424-8a0612d8c988).
 
-<sup>6</sup> Watch Gipson’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac](https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac). 
+<sup>6</sup> Watch Gipson’s presentation here: [https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac](https://library.temple.edu/watchpastprograms/show?id=3fbd6145-a500-43e4-be59-9be360112bac).
 
 <sup>7</sup> Watch Asante’s closing remarks here: [https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365](https://library.temple.edu/watchpastprograms/show?id=344dff3e-b284-409a-9a2e-453dbe19e365).
-
 
 {% endmarkdown %}
 </section>
@@ -97,5 +96,3 @@ McPherson, T. (2012). Why are the Digital Humanities So White? Or Thinking the H
 
 {% endmarkdown %}
 </section>
-
-

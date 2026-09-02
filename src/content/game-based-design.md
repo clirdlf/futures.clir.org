@@ -35,13 +35,13 @@ _Fig. 1: Mind map of the contents of this contribution._
 
 Video games, though popular, have since their inception embedded issues of diversity. For instance, white and male characters constitute the majority ([Richard 2017](https://www.jstor.org/stable/44430522?seq=1#metadata_info_tab_contents)), while characters from other racial groups are fewer in representation and stereotypically presented (Bayeck, Asino, and Young 2018). By reproducing discrimination and racial stereotypes within society, videos games are likely to reinforce exclusion and may not be appropriate learning spaces for libraries advocating for inclusion. Therefore, the following examples focus on the practices, interactions, expertise, and learning that _should_ be generated around digital exhibitions.
 
-*   **Information Literacy** – Analyzing the integration of games by libraries, [Kearns, Kirsch, and Cononie (2017)](https://www.proquest.com/docview/1917279849?pq-origsite=360link) reference _Agoge: The Spartan’s Journey_, an information literacy game designed for transfer students. In addition to providing a means for librarians to engage with transfer students, it also enables the assessment of their information literacy skills.
-*   **Student Engagement** – [Giles et al. (2019)](https://www.tandfonline.com/doi/abs/10.1080/15228959.2018.1488643) describe a card game developed as a library orientation activity for transfer students; the game was identified as the best tool to reach and meet the specific needs of these students. Through the game, students learn about the library system while having social interaction.
-*   **Access to Resources** – [Buchanan and Vanden-Elzen (2017)](https://eric.ed.gov/?id=EJ989511) examine the benefits of video games for players and share guidelines for public libraries to integrate such games in their collections.
-*   **Virtual Gatherings** – Tools like [gather.town](https://www.gather.town/), a two-dimensional video game for virtual meetings and interactions, are also helpful in hosting team-building events, conference poster sessions, and other forms of gallery exhibit spaces ([Bishoff, Farrell, and Neeser, 2015](https://conservancy.umn.edu/bitstream/handle/11299/174475/bishoff_farrell_neeser_joli_2015.pdf)).
-*   **Collections and Programming** – In addition to using games for library instruction and outreach, [Robson, Sassen, and Rodriguez (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0099133320301245) write about the importance of maintaining a video game collection for student use. Citing the case of the University of North Texas library, the authors explain that having this collection has contributed to student engagement, classroom instruction, collaboration across campus, the development of new programs, and degrees about esports and game design.
-*   **Community Outreach** – Discussing the video game _Fortnite_, [Anderson (2019)](https://www.proquest.com/docview/2307642902?pq-origsite=360link) notes that libraries have used the popularity of this game for outreach and engagement. However, libraries can do more with a multiplayer game like _Fortnite_ by expanding the virtual experience and providing programs emphasizing collaboration and imagination in real-life settings ([Vose 2018](https://games.ala.org/fortnite/)).
-*   **Social Interaction and Skills Building** – Massively multiplayer online games (MMOGs) create a space for social interaction and relationship building. They can also become a space for informal communication and exposure to individuals with different worldviews and backgrounds ([Fox, Gilbert, and Tang 2018](https://journals.sagepub.com/doi/10.1177/1461444818767102)). For this reason, [Anderson (2019)](https://www.proquest.com/docview/2307642902?pq-origsite=360link) states that “libraries can embrace the opportunities presented by _Fortnite_ and other virtual third spaces to promote connection within the library space”(14).
+* **Information Literacy** – Analyzing the integration of games by libraries, [Kearns, Kirsch, and Cononie (2017)](https://www.proquest.com/docview/1917279849?pq-origsite=360link) reference _Agoge: The Spartan’s Journey_, an information literacy game designed for transfer students. In addition to providing a means for librarians to engage with transfer students, it also enables the assessment of their information literacy skills.
+* **Student Engagement** – [Giles et al. (2019)](https://www.tandfonline.com/doi/abs/10.1080/15228959.2018.1488643) describe a card game developed as a library orientation activity for transfer students; the game was identified as the best tool to reach and meet the specific needs of these students. Through the game, students learn about the library system while having social interaction.
+* **Access to Resources** – [Buchanan and Vanden-Elzen (2017)](https://eric.ed.gov/?id=EJ989511) examine the benefits of video games for players and share guidelines for public libraries to integrate such games in their collections.
+* **Virtual Gatherings** – Tools like [gather.town](https://www.gather.town/), a two-dimensional video game for virtual meetings and interactions, are also helpful in hosting team-building events, conference poster sessions, and other forms of gallery exhibit spaces ([Bishoff, Farrell, and Neeser, 2015](https://conservancy.umn.edu/bitstream/handle/11299/174475/bishoff_farrell_neeser_joli_2015.pdf)).
+* **Collections and Programming** – In addition to using games for library instruction and outreach, [Robson, Sassen, and Rodriguez (2020)](https://www.sciencedirect.com/science/article/abs/pii/S0099133320301245) write about the importance of maintaining a video game collection for student use. Citing the case of the University of North Texas library, the authors explain that having this collection has contributed to student engagement, classroom instruction, collaboration across campus, the development of new programs, and degrees about esports and game design.
+* **Community Outreach** – Discussing the video game _Fortnite_, [Anderson (2019)](https://www.proquest.com/docview/2307642902?pq-origsite=360link) notes that libraries have used the popularity of this game for outreach and engagement. However, libraries can do more with a multiplayer game like _Fortnite_ by expanding the virtual experience and providing programs emphasizing collaboration and imagination in real-life settings ([Vose 2018](https://games.ala.org/fortnite/)).
+* **Social Interaction and Skills Building** – Massively multiplayer online games (MMOGs) create a space for social interaction and relationship building. They can also become a space for informal communication and exposure to individuals with different worldviews and backgrounds ([Fox, Gilbert, and Tang 2018](https://journals.sagepub.com/doi/10.1177/1461444818767102)). For this reason, [Anderson (2019)](https://www.proquest.com/docview/2307642902?pq-origsite=360link) states that “libraries can embrace the opportunities presented by _Fortnite_ and other virtual third spaces to promote connection within the library space”(14).
 
 Based on these examples, to successfully provide gaming services, libraries should a) collaborate with the intended audience and b) enable networking, game creation, education, and community outreach. This is because video games facilitate community building and serve as a catalyst for increased usage of library resources and services. As such, libraries should consider them critically important in meeting the needs of their patrons ([Boyle 2018](https://academicworks.cuny.edu/ulj/vol24/iss1/3/)). Therefore, the following section offers some specific articles about the relationship between games and digital exhibits.
 
@@ -61,9 +61,9 @@ _Fig. 2: Examples of games in libraries targeting transfer students_
 
 Regarding games and digital exhibits, most discussions center on museums. In their review of the use of games in museum exhibits, [Paliokas and Sylaiou (2016)](https://ieeexplore.ieee.org/abstract/document/7590371) show that modern museums employ game technologies and applications. Therefore, the following list includes several examples of integrating games in digital exhibits through descriptions of educational games, mini-games, and cultural heritage games.
 
-*   **Educational Games**: Games designed with a learning purpose in addition to serving the purposes of entertainment and profit are used for exhibit navigation and museum exploration of cultural and educational content ([Cai, Van Joolingen, and Walker 2019](https://link.springer.com/book/10.1007%2F978-981-13-2844-2); [Paliokas and Sylaiou 2016](https://ieeexplore.ieee.org/abstract/document/7590371)). For instance, games were designed to facilitate visitors’ exploration of the exhibition in a museum with the inclusion of elements of the exhibition into the game ([Bossavit et al. 2018](https://www.jstor.org/stable/26511547)).
-*   **Mini-Games**: Bossavit et al. (2018) approach games and exhibits by offering a framework to enhance visits to museums through the design of mini-games. Indeed, museums are increasingly using interactive games to provide young audiences with learning as well as entertainment during museum visits ([Cesário et al., 2017](https://dl.acm.org/doi/abs/10.1145/3130859.3131435)). The move to virtual environments has allowed museums to offer wider access to their exhibit collections.
-*   **Cultural Heritage Games**: Building on the game-based learning literature, [Ćosović and Brkić (2020)](https://www.mdpi.com/2078-2489/11/1/22) suggest the design of games that integrate cultural heritage content. Such games connect the museum content with the users, meet their educational needs, and enhance their museum experience (Ćosović, & Brkić, 2020; [Paliokas and Sylaiou, 2016](https://ieeexplore.ieee.org/abstract/document/7590371)). Yet, lacking in these exhibits are the interactions, communities/affinity spaces, or expertise developed around these exhibits.
+* **Educational Games**: Games designed with a learning purpose in addition to serving the purposes of entertainment and profit are used for exhibit navigation and museum exploration of cultural and educational content ([Cai, Van Joolingen, and Walker 2019](https://link.springer.com/book/10.1007%2F978-981-13-2844-2); [Paliokas and Sylaiou 2016](https://ieeexplore.ieee.org/abstract/document/7590371)). For instance, games were designed to facilitate visitors’ exploration of the exhibition in a museum with the inclusion of elements of the exhibition into the game ([Bossavit et al. 2018](https://www.jstor.org/stable/26511547)).
+* **Mini-Games**: Bossavit et al. (2018) approach games and exhibits by offering a framework to enhance visits to museums through the design of mini-games. Indeed, museums are increasingly using interactive games to provide young audiences with learning as well as entertainment during museum visits ([Cesário et al., 2017](https://dl.acm.org/doi/abs/10.1145/3130859.3131435)). The move to virtual environments has allowed museums to offer wider access to their exhibit collections.
+* **Cultural Heritage Games**: Building on the game-based learning literature, [Ćosović and Brkić (2020)](https://www.mdpi.com/2078-2489/11/1/22) suggest the design of games that integrate cultural heritage content. Such games connect the museum content with the users, meet their educational needs, and enhance their museum experience (Ćosović, & Brkić, 2020; [Paliokas and Sylaiou, 2016](https://ieeexplore.ieee.org/abstract/document/7590371)). Yet, lacking in these exhibits are the interactions, communities/affinity spaces, or expertise developed around these exhibits.
 
 In addition to the gamification of exhibits, games have also been exhibited in museums. Analyzing games displayed at the Finnish Museum of Games, [Nylund (2018)](https://www.mdpi.com/2076-0752/7/4/103) points to the growing trend in the digital exhibits of games in museums. Specifically, Nylund argues that exhibits of games should cover different aspects of the game including the interactive experience and the context of game development. This trend in the digital exhibit of games is also associated with a larger discussion around the preservation of digital games. Indeed, librarians are wondering whether games should be preserved in the same ways as other analog materials or analog games. Recent innovations in emulation for curation and preservation also provide exciting potential for digital preservation more generally. Yet, the connection between digital exhibitions and games is still not widely discussed, even in museum settings.
 
@@ -81,7 +81,7 @@ Especially as the COVID-19 pandemic limits in-person interactions, as well as vi
 
 <div class="zigzag" aria-hidden="true"></div>
 
-Design thinking can be a helpful framework for libraries, especially those exploring co-creation methods and centering user experiences. Design thinking is an iterative creative problem-solving approach that is deeply human-centered. It is commonly rooted in five key phases: empathize, define, ideate, prototype, and test. The origins of the approach date back to the 1950s ([von Thienen et al. 2017](https://link.springer.com/chapter/10.1007/978-3-319-60967-6_2)). It has been used and adapted in fields such as design, education, engineering, and management, and can be especially useful when exploring possibilities at the intersection of disciplines. In thinking about games and the future of libraries, design thinking frameworks could help facilitate a structured process for co-creation, reimagining digital exhibits, and designing for gaming in these spaces. 
+Design thinking can be a helpful framework for libraries, especially those exploring co-creation methods and centering user experiences. Design thinking is an iterative creative problem-solving approach that is deeply human-centered. It is commonly rooted in five key phases: empathize, define, ideate, prototype, and test. The origins of the approach date back to the 1950s ([von Thienen et al. 2017](https://link.springer.com/chapter/10.1007/978-3-319-60967-6_2)). It has been used and adapted in fields such as design, education, engineering, and management, and can be especially useful when exploring possibilities at the intersection of disciplines. In thinking about games and the future of libraries, design thinking frameworks could help facilitate a structured process for co-creation, reimagining digital exhibits, and designing for gaming in these spaces.
 
 The application of design thinking in libraries is not new ([Bell 2008](https://scholarshare.temple.edu/handle/20.500.12613/125), [Bell 2014](https://muse.jhu.edu/article/549198/pdf), [Clarke 2020](https://www.alastore.ala.org/content/design-thinking-library-futures-series-book-4), [Fosmire 2016](https://journals.library.ualberta.ca/istl/index.php/istl/article/download/1680/1591?inline=1#4), [IDEO 2015](http://designthinkingforlibraries.com/), [Library User Experience Community](https://blog.libux.co/), [Marquez and Downey 2016](https://rowman.com/ISBN/9781442263833/Library-Service-Design-A-LITA-Guide-to-Holistic-Assessment-Insight-and-Improvement)). For example, in 2015, design firm IDEO spearheaded the creation of a toolkit called “Design Thinking for Libraries” (IDEO 2015). The toolkit was formed through experiences that designers had working alongside librarians in 2013-14 from the Chicago Public Library (USA) and the Aarhus Public Library (Denmark). Furthermore, a number of online publications and communities have emerged that frequently touch upon the intersection of design thinking and the library world (e.g., [Library User Experience Community](https://blog.libux.co/) and [_Weave: Journal of Library User Experience_](https://journals.publishing.umich.edu/weaveux/)).
 
@@ -89,7 +89,7 @@ Much in the spirit of IDEO and other design toolkits for libraries (e.g., Marque
 
 ![Design-thinking activities for libraries in the empathize phase, including stakeholder mapping, user interviews, and persona creation.](/assets/Libary-of-Games-Visuals-1.png)
 
-_Fig. 3: Empathize-phase design thinking activities for libraries_
+_Fig. 3: Empathize-phase design thinking activities for libraries._
 
 **_Stakeholder Mapping_** is often used in design thinking challenges to help visualize the range of people affected by a specific challenge or project (i.e., stakeholders). While it might be tempting to conduct research on a narrow category of users (e.g., patrons, personnel), identifying a broader set of initial stakeholders will help support a more robust exploration. In a recent article, tech ethnographer and sociologist Tricia Wang offers a critique of the popular design thinking activity, “How might we…”. One of Wang’s points is that sometimes the best people to solve a problem might not be in the room with you, especially if design teams use such a prompt as a lens to solve a problem during the “empathize” phase. Instead, one of the prompts Wang suggests using is “Who should we talk to?,” to foster a more inclusive and conscientious co-creation practice ([Wang 2021](https://www.fastcompany.com/90649969/the-most-popular-design-thinking-strategy-is-bs)). Furthermore, stakeholder mapping can better inform subsequent design activities, including those mentioned in this article (i.e., user interviews and personas).<sup>1</sup>
 
@@ -136,11 +136,12 @@ Unlike scrollytelling designs that enable users to navigate a screen with new ge
 
 Each of these gamified digital exhibits seek innovations in digital technologies and pedagogical and curatorial practices to create digital exhibits that are accessible and inclusive to a wider audience than would be possible through physical modes of access or traditional media and web 1.0 digital technologies. Other recent trends, such as the use of Quinn Dombrowski’s [Animal Crossing: New Digital Humanities](https://digitalhumanities.stanford.edu/acndh), a project which adapted the popular Nintendo video game to host virtual events during the pandemic also demonstrate this investment in bringing games and community engagement into digital exhibitions. Other events, included talks on remediating digital collections, demonstrate the growing appeal for game environments to serve as a medium for community-building, crowdsourcing, digital publishing, and information sharing.2 For instance, rather than using a series of images on a webpage with related metadata, employing interactive storytelling methods that implicate the viewer in deciding the process of viewing the source materials or subject matter and their context within broader historical narratives and technological contexts is preferable.
 
- <hr class="border-t border-gray-300 my-6">
-      <div class="footnotes">
-      
-      <sup>1</sup> In the vein theorized by Benjamin Stokes in his recent book, _Locally Played: Real World Games for Stronger Places and Communities_ (2020).
-      </div>
+<hr class="border-t border-gray-300 my-6">
+<div class="footnotes">
+
+  <sup>1</sup> In the vein theorized by Benjamin Stokes in his recent book, _Locally Played: Real World Games for Stronger Places and Communities_ (2020).
+
+</div>
 
 {% endmarkdown %}
 </section>
@@ -172,7 +173,7 @@ Bayeck, Rebecca Yvonne, Tutaleni I. Asino, and Patricia A. Young. 2018. Represen
 
 Bell, Steven J. 2008. Design Thinking. _American Libraries_ 39(1/2): 44-49. [http://dx.doi.org/10.34944/dspace/112](https://dx.doi.org/10.34944/dspace/112).  
 
-Bell, Steven J. 2014. Staying true to the core: Designing the future academic library experience. _Portal: Libraries and the Academy_. 14(3): 369-382. DOI: [10.1353/pla.2014.0021](https://doi.org/10.1353/pla.2014.0021).  
+Bell, Steven J. 2014. Staying true to the core: Designing the future academic library experience. _Portal: Libraries and the Academy_. 14(3): 369-382. DOI: [10.1353/pla.2014.0021](https://doi.org/10.1353/pla.2014.0021).
 
 Bishoff, Carolyn, Shannon L. Farrell, and Amy E. Neeser. 2015. Outreach, Collaboration, Collegiality: Evolving Approaches to Library Video Game Services. _Journal of Library Innovation_ 6(1): 92.
 
@@ -186,13 +187,13 @@ Cai, Yiyu, Wouter Van Joolingen, and Zachary Walker, eds. 2019. _VR, Simulations
 
 Cesário, Vanessa, Marko Radeta, Sónia Matos, and Valentina Nisi. 2017. The Ocean Game: Assessing Children’s Engagement and Learning in a Museum Setting Using a Treasure-Hunt Game. _In Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play_ Oct. 15-18, 2017, New York, United States (pp. 99-109).
 
-Clarke, Rachel Ivy. 2020. _Design Thinking (Library Futures Series, Book 4)_. Chicago, IL: ALA Neal-Schuman. 
+Clarke, Rachel Ivy. 2020. _Design Thinking (Library Futures Series, Book 4)_. Chicago, IL: ALA Neal-Schuman.
 
 Ćosović, Marijana, and Belma Ramić Brkić. 2019. Game-based Learning in Museums—Cultural Heritage Applications. _Information_ 11(1): 22. doi:10.3390/info11010022.
 
 Dasgupta, Archi, Samuel Williams, Gunnar Nelson, Mark Manuel, Shaoli Dasgupta, and Denis Gračanin. 2021. Redefining the digital paradigm for virtual museums: Towards Interactive and Engaging Experiences in the Post-pandemic Era. In _Culture and Computing. Interactive Cultural Heritage and Arts_, edited by Matthias Rauterberg, 357-373. [https://doi.org/10.1007/978-3-030-77411-0](https://doi.org/10.1007/978-3-030-77411-0).
 
-Fosmire, Michael. (2016). What Can Design Thinking Do for Libraries?. _Issues in Science and Technology Librarianship_, (83). doi:10.5062/F4SN06ZT.  
+Fosmire, Michael. (2016). What Can Design Thinking Do for Libraries?. _Issues in Science and Technology Librarianship_, (83). doi:10.5062/F4SN06ZT.
 
 Fox, Jesse, Michael Gilbert, and Wai Yen Tang. 2018. Player Experiences in a Massively Multiplayer Online Game: A Diary Study of Performance, Motivation, and Social Interaction. _New Media & Society_ 20(11): 4056-4073.
 
@@ -206,19 +207,19 @@ Kearns, Andrew, Breanne A. Kirsch, and Virginia Cononie. 2017. “Agoge: An Info
 
 Kirby, Cait S. 2020. It is September 7th, 2020. (Blog September 7, 2020). [https://caitkirby.com/downloads/Fall%202020.html](https://caitkirby.com/downloads/Fall%202020.html).
 
-Library User Experience Community. _Practical Design Thinking for Libraries._ Medium. [https://blog.libux.co/](https://blog.libux.co/).  
+Library User Experience Community. _Practical Design Thinking for Libraries._ Medium. [https://blog.libux.co/](https://blog.libux.co/).
 
 Luca, Edward and Bhuva Narayan. 2016. Signage by Design: A design-thinking approach to library user experience. _Weave: Journal of Library User Experience_, _1_(5). [https://doi.org/10.3998/weave.12535642.0001.501](https://doi.org/10.3998/weave.12535642.0001.501).
 
 Marquez, J. and Annie Downey. 2016. _Library Service Design: A LITA Guide to Holistic Assessment, Insight, and Improvement._ Lanham, MD: Rowman & Littlefield Publishers.
 
-Nathan, Smiti. 2020. 3 Stakeholder Map Templates for Virtual Co-Creation. (July 29, 2020). _Life Design Log._  [https://lifedesignlog.com/3-stakeholder-map-templates-for-virtual-co-creation/](https://lifedesignlog.com/3-stakeholder-map-templates-for-virtual-co-creation/).  
+Nathan, Smiti. 2020. 3 Stakeholder Map Templates for Virtual Co-Creation. (July 29, 2020). _Life Design Log._  [https://lifedesignlog.com/3-stakeholder-map-templates-for-virtual-co-creation/](https://lifedesignlog.com/3-stakeholder-map-templates-for-virtual-co-creation/).
 
 Nylund, Niklas. 2018. Constructing Digital Game Exhibitions: Objects, Experiences, and Context. _Arts_ 7(4):103. doi:10.3390/arts7040103.
 
 Paliokas, Ioannis, and Stella Sylaiou. 2016. The Use of Serious Games in Museum Visits and Exhibitions: A Systematic Mapping Study. _In Proceedings of the 8th International Conference on Games and Virtual Worlds for Serious Applications (VS-Games)_ Sept. 7-9, 2016, Barcelona, Spain. (pp. 1–8).
 
-Pernice, Kara. 2018. User Interviews: How, When, and Why to Conduct Them. (October 7, 2018). _Nielsen Norman Group_. [https://www.nngroup.com/articles/user-interviews/](https://www.nngroup.com/articles/user-interviews/).  
+Pernice, Kara. 2018. User Interviews: How, When, and Why to Conduct Them. (October 7, 2018). _Nielsen Norman Group_. [https://www.nngroup.com/articles/user-interviews/](https://www.nngroup.com/articles/user-interviews/).
 
 Priestner, Andy and Matt Borg. (Eds.). 2016. _User Experience in Libraries: Applying Ethnography and Human-Centred Design_. New York, NY: Routledge.
 
@@ -226,17 +227,17 @@ Richard, Gabriela T. 2017. Video Games, Gender, Diversity, and Learning as Cultu
 
 Robson, Diane, Catherine Sassen, and Allyson Rodriguez. 2020. Advances in Academic Video Game Collections. _The Journal of Academic Librarianship_ 46(6): 102233. doi:10.1016/j.acalib.2020.102233.
 
-Salter, Anastasia, and Stuart Moulthrop. Twining: Critical and Creative Approaches to Hypertext Narratives. Amherst: Amherst College Press, 2021.  
+Salter, Anastasia, and Stuart Moulthrop. Twining: Critical and Creative Approaches to Hypertext Narratives. Amherst: Amherst College Press, 2021.
 
 Schmidt, Ben. n.d. Creating Data: The Invention of Information in the American State, 1850-1950. [https://creatingdata.us/datasets/hathi-features/](https://creatingdata.us/datasets/hathi-features/).
 
-Schultz, Matt and Jacob Solomon. 2008. “MTagger User Interviews.” [https://hdl.handle.net/2027.42/107000](https://hdl.handle.net/2027.42/107000).  
+Schultz, Matt and Jacob Solomon. 2008. “MTagger User Interviews.” [https://hdl.handle.net/2027.42/107000](https://hdl.handle.net/2027.42/107000).
 
-Sundt, Alex and Erin Davis. 2017. User Personas as a Shared Lens for Library UX. _Weave: Journal of Library User Experience_, _1_(6).  [https://doi.org/10.3998/weave.12535642.0001.601](https://doi.org/10.3998/weave.12535642.0001.601).  
+Sundt, Alex and Erin Davis. 2017. User Personas as a Shared Lens for Library UX. _Weave: Journal of Library User Experience_, _1_(6).  [https://doi.org/10.3998/weave.12535642.0001.601](https://doi.org/10.3998/weave.12535642.0001.601).
 
 Stokes, Benjamin. 2020. _Locally Played: Real-World Games for Stronger Places and Communities_. Cambridge, MA: MIT Press.
 
-Von Thienen, Julia, William Clancey, Giovanni Emmanuel Corazza, and Christoph Meinel. 2017. Theoretical foundations of design thinking. In _Design Thinking Research_. 13-40. doi: 10.1007/978-3-319-60967-6\_2.  
+Von Thienen, Julia, William Clancey, Giovanni Emmanuel Corazza, and Christoph Meinel. 2017. Theoretical foundations of design thinking. In _Design Thinking Research_. 13-40. doi: 10.1007/978-3-319-60967-6\_2.
 
 Vose, Thomas. 2018. Fortnite: Games in Libraries. _American Libraries Association_. August 4, 2018. [https://games.ala.org/fortnite/](https://games.ala.org/fortnite/).
 

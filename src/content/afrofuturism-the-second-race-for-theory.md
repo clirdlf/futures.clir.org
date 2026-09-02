@@ -35,7 +35,6 @@ At this point, intellectuals began shifting from the anti-colonial Black Power e
 
 The Africological response to this period and discussions of Black futures was explored through a few works during this time. Mark Dery (1994) coined the term “Afrofuturism” in dialogue with author and literary critic Samuel R. Delaney, writer, musician, and producer Greg Tate, and hip hop scholar Tricia Rose. Additionally, C. Tsehloane Keto’s _The Africa Centered Perspective of History and Social Sciences in the Twenty-first Century_ (1993) was one of those thin 100-page books that you could only find in Black bookstores. Keto explains, “As a futurologist she or he can speculate, engage beyond the next century… to create in sharp contrast a time map on which to trace the events of the past, create history through action in the present, and plot the path of possible future action” (1993, 120-122). Asante also published _Malcolm X as Cultural Hero and Other Afrocentric Essays_ (1993) in which he deals with space and time. Then also, the first scholar using Afrocentricity in relation to the world wide web was Anna Everett in her essay _The revolution will be digitized: Afrocentricity and the digital public sphere_ (2002), in which she establishes an Africological perspective in relation to the Web 1.0 era.
 
-
 {% endmarkdown %}
 </section>
 
@@ -57,11 +56,10 @@ Now, Africology and Afrofuturism 2.0 deals with a global Black or African specul
 {% markdown %}
 
 ## Theory and Praxis: The Structure of Artistic Revolutions
+
 <div class="zigzag zigzag--orange" aria-hidden="true"></div>
 
-
 The Black Speculative Arts Movement (BSAM), established in 2015 with the _Unveiling Visions: Alchemy of the Black Imagination_ exhibition at the Schomburg Center for Research in Black Culture, provided a platform for Afrofuturism 2.0 in practice. Legacy examples of this praxis include the Harlem Renaissance, Négritude, the Black Arts Movement, and the Association for the Advancement of Creative Musicians. At this moment, there has been a trilogy of curated events that illustrate where the BSAM is and the direction in which it is moving. At the beginning of the pandemic when we had to move so much of our work and creative production online, I collaborated with graphic designer Stacey Robinson and Africana studies scholar Tiffany E. Barber on the [_Curating the End of the World_](https://artsandculture.google.com/story/curating-the-end-of-the-world-part-i/_QJCHwO-RrUHIQ) digital exhibition (Google Arts and Culture, 2020), a commentary on the end of one way of production and beingness that included _CT3_ (Robinson, 2017), a digital photographic collage that really captured the essence of the BSAM. The exhibition _The Black Angel of History: Myth-Science, Metamodernism, and the Metaverse_ (Carnegie Hall, 2022) signals the end of the Web 2.0 phase and transition into Web 3.0. One of the graphic illustrations from the _Black Angel of History_ exhibition includes images of graphic novelist and media and cultural studies scholar John Jennings, Keto, and myself in which I am explaining Keto’s concept of the global pluriverse as an opportunity to proceed equitably in terms of technology and innovation. In that same graphic, Jennings describes his concept for critical race design studies, a commentary on that lack of training around how to draw Black characters in the graphic arts, especially in terms of skin tone and hair texture.
-
 
 Jennings, myself, and others have discussed a commitment to inform our BSAM praxis through scholarship. I have collaborated with several scholars to publish three edited volumes (Anderson and Jones, 2015; Anderson and Fluker, 2019; Brooks, Anderson, and Taylor, 2020). Another aspect of BSAM is that it is poly-temporal and facilitates the creation of imagination survival programs internationally in such countries as Brazil, Kenya, Nigeria, South Africa, Cameroon, Ghana, and Canada. Methodologically speaking digital humanities is focused on data analysis, data capture, and data structure. However, for the Africologist, what is key is the orientation toward the data, as in the case of “Afrofuturist Intellectual Mixtapes: A Classroom Case Study” (Thompson and Carrera, 2021)—in which _Afrofuturism 2.0: The Rise of Astro-Blackness_ (Anderson and Jones, 2015) contributed as a primary text—and _Afrofuturism and Digital Humanities: Show Me and I Will Engage Differently_ (Carter, 2022). Additionally, I regard _Cosmic Underground: A Grimoire of Black Speculative Discontent_ (Anderson and Jennings, 2018), the Afro-Canadian project _Cosmic Underground Northside: An Incantation of Black Canadian Speculative Discourse and Innerstandings_ (Vercetty and Hudson, 2021), which includes contributions from Black Caribbean folks, and _The Comet – 150 Years W.E.B. DuBois: Afrofuturism 2.0_ (Kelly, 2021), which includes a Black European perspective, as the speculative message from the grassroots.
 {% endmarkdown %}
@@ -88,49 +86,49 @@ _(presented April 2022, published May 2023)_
 
 Anderson, R. & Fluker, C.R. (2019). _The Black Speculative Arts Movement: Black Futurity, Art+Design_. Lexington Books.
 
-Anderson, R. & Jennings, J. (2018). _Cosmic Underground: A Grimoire of Black Speculative Discontent_. Cedar Grove Publishing. 
+Anderson, R. & Jennings, J. (2018). _Cosmic Underground: A Grimoire of Black Speculative Discontent_. Cedar Grove Publishing.
 
-Anderson, R. & Jones, C.E. (2015). _Afrofuturism 2.0: The Rise of Astro-Blackness_. Lexington Books. 
+Anderson, R. & Jones, C.E. (2015). _Afrofuturism 2.0: The Rise of Astro-Blackness_. Lexington Books.
 
 Asante, M.K. (1987). _The Afrocentric Idea_. Temple University Press. 
 
 Asante, M. K. (1993). _Malcolm X as Cultural Hero and Other Afrocentric Essays_. Africa World Press.
 
-Brooks. L., Anderson, R., and Taylor, D. (2020). _When is Wakanda: Afrofuturism and Dark Speculative Futurity_. 
+Brooks. L., Anderson, R., and Taylor, D. (2020). _When is Wakanda: Afrofuturism and Dark Speculative Futurity_.
 
-Buchanan, P. (1992). “Culture War Speech: Address To The Republican National Convention (17 August 1992)”. Voices of Democracy: the U.S. Oratory Project. [https://voicesofdemocracy.umd.edu/buchanan-culture-war-speech-speech-text/](https://voicesofdemocracy.umd.edu/buchanan-culture-war-speech-speech-text/). 
+Buchanan, P. (1992). “Culture War Speech: Address To The Republican National Convention (17 August 1992)”. Voices of Democracy: the U.S. Oratory Project. [https://voicesofdemocracy.umd.edu/buchanan-culture-war-speech-speech-text/](https://voicesofdemocracy.umd.edu/buchanan-culture-war-speech-speech-text/).
 
-Carnegie Hall. (2022). _The Black Angel of History: Myth-Science, Metamodernism, and the Metaverse_. New York. 
+Carnegie Hall. (2022). _The Black Angel of History: Myth-Science, Metamodernism, and the Metaverse_. New York.
 
-Carter, B.W. (2022). _Afrofuturism and Digital Humanities: Show Me and I Will Engage Differently_. Routledge. 
+Carter, B.W. (2022). _Afrofuturism and Digital Humanities: Show Me and I Will Engage Differently_. Routledge.
 
 Christian, B. (1987). The Race for Theory. _Cultural Critique_, _6_(Spring 1987), 51-63.
 
-Dery, M. (1994). Black to the Future: Interviews with Samuel R. Delany, Greg Tate, and Tricia Rose. In M. Dery (Ed.), _Flame Wars: The Discourse of Cyberculture_ (pp. 179–222). Duke University Press. 
+Dery, M. (1994). Black to the Future: Interviews with Samuel R. Delany, Greg Tate, and Tricia Rose. In M. Dery (Ed.), _Flame Wars: The Discourse of Cyberculture_ (pp. 179–222). Duke University Press.
 
 Everett, A. (2002). The revolution will be digitized: Afrocentricity and the digital public sphere. _Social Text_, 20(2), 125-146.
 
-Gates, H. L. (1988). _The Signifying Monkey: A Theory of African American Literary Criticism_. Oxford University Press. 
+Gates, H. L. (1988). _The Signifying Monkey: A Theory of African American Literary Criticism_. Oxford University Press.
 
-Gilroy, P. (1987). _There Ain’t No Black in the Union Jack: The Cultural Politics of Race and the Nation_. The University of Chicago Press. 
+Gilroy, P. (1987). _There Ain’t No Black in the Union Jack: The Cultural Politics of Race and the Nation_. The University of Chicago Press.
 
 Gilroy, P. (1993). _The Black Atlantic: Modernity and Double Consciousness_. Harvard University Press.
 
-Google Arts and Culture. (2020). _Curating the End of the World_. [https://artsandculture.google.com/story/curating-the-end-of-the-world-part-i/\_QJCHwO-RrUHIQ](https://artsandculture.google.com/story/curating-the-end-of-the-world-part-i/_QJCHwO-RrUHIQ) 
+Google Arts and Culture. (2020). _Curating the End of the World_. [https://artsandculture.google.com/story/curating-the-end-of-the-world-part-i/\_QJCHwO-RrUHIQ](https://artsandculture.google.com/story/curating-the-end-of-the-world-part-i/_QJCHwO-RrUHIQ).
 
-Keeling, K. (2019). _Queer Times, Black Futures_. NYU Press. 
+Keeling, K. (2019). _Queer Times, Black Futures_. NYU Press.
 
 Kelly, N.A. (2021). _The Comet – 150 Years W.E.B. DuBois: Afrofuturism 2.0_. Orlanda Buchverlag UG.
 
-Keto, C. T. (1993). _The Africa Centered Perspective of History and Social Sciences in the Twenty-first Century_. K. A. Publishers. 
+Keto, C. T. (1993). _The Africa Centered Perspective of History and Social Sciences in the Twenty-first Century_. K. A. Publishers.
 
-Robinson, S. (2017). _CT3._ \[digital photographic collage\]. Black Arts Speculative Movement. 
+Robinson, S. (2017). _CT3._ \[digital photographic collage\]. Black Arts Speculative Movement.
 
 Schomburg Center for Research in Black Culture. (2015). _Unveiling Visions: Alchemy of the Black Imagination_. New York.
 
 Thompson, T. L. & Carrera, D. (2021). Afrofuturist Intellectual Mixtapes: A Classroom Case Study. _Digital Humanities Quarterly_, _15_(1). [http://www.digitalhumanities.org/dhq/vol/15/1/000516/000516.html](http://www.digitalhumanities.org/dhq/vol/15/1/000516/000516.html).
 
-Vercetty, Q. & Hudson, A. (2021). _Cosmic Underground Northside: An Incantation of Black Canadian Speculative Discourse and Innerstandings_. Cedar Grove Publishing. 
+Vercetty, Q. & Hudson, A. (2021). _Cosmic Underground Northside: An Incantation of Black Canadian Speculative Discourse and Innerstandings_. Cedar Grove Publishing.
 
 West, C. (1982). _An Afro-American Revolutionary Christianity_. Philadelphia: Westminster.
 

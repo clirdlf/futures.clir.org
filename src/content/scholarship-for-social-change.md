@@ -68,6 +68,5 @@ Zoom in and out of this visualization by using your mouse/trackpad (on a laptop/
 
 - [View on Humanities Commons](https://doi.org/10.17613/h3gk-ta62)
 
-
 {% endmarkdown %}
 </section>
