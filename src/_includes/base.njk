@@ -60,7 +60,7 @@
   {# <div class="clir-bar"><div class="clir-bar__inner"><div class="clir-links"><a href="https://www.clir.org/">CLIR</a><a href="https://www.clir.org/fellowships/">Fellowships &amp; Grants</a><a href="https://www.diglib.org/">DLF</a><a href="https://www.clir.org/pubs/">Publications</a><a href="https://www.clir.org/global/">CLIR Global</a></div><div class="clir-actions"><a href="https://www.clir.org/about/community/">Join</a><a href="https://www.clir.org/give/">Give</a></div></div></div> #}
   <header class="site-header"><div class="site-header__inner">
     <a class="wordmark" href="/" aria-label="CLIR Postdoctoral Fellowship Program home"><img src="/assets/clir-postdoctoral-fellowship.svg" alt="CLIR Postdoctoral Fellowship Program" eleventy:ignore></a>
-    <nav aria-label="Primary navigation">{% if page.url == '/present-encounters/' or articleStyle == 'feature' %}<a href="/about/"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a><a href="/#contributions">Contributions</a><a href="/acknowledgements/">Acknowledgements</a>
+    <nav aria-label="Primary navigation">{% if page.url == '/present-encounters/' or articleStyle == 'feature' %}<a href="/about/"{% if page.url == '/about/' %} aria-current="page"{% endif %}>About</a><a href="/#contributions">Contributions</a><a href="/acknowledgments/">Acknowledgments</a>
     {# <a href="/#site-search">Search</a> #}
     {% else %}{% for item in navigation %}<a href="{{ item.url }}"{% if page.url == item.url or (item.url == '/#contributions' and page.url == '/') %} aria-current="page"{% endif %}>{{ item.label }}</a>{% endfor %}{% endif %}</nav>
   </div>
