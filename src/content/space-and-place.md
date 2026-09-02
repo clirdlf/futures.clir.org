@@ -20,7 +20,6 @@ permalink: /space-and-place/
 <section class="article-section article-section--overview">
 {% markdown %}
 
-
 ## Introduction
 
 <div class="zigzag" aria-hidden="true"></div>
@@ -80,9 +79,9 @@ The argument that libraries and universities should be engaging more deeply, tho
 <hr class="border-t border-gray-300 my-6">
 
 <div class="footnotes">
-  
+
   <sup>1</sup> See the 2005 and 2007 conferences “New Times Demand New Scholarship,” and “New Times Demand New Scholarship II: Research Universities and Civic Engagement—Opportunities and Challenges,” summarized in Gibson 2012 and Stanton 2012 respectively.
-  
+
   <sup>2</sup> See, for example, Swarthmore College’s Lang Center for Civic & Social Responsibility ([https://www.swarthmore.edu/lang-center/about-lang-center](https://www.swarthmore.edu/lang-center/about-lang-center)), Loyola University Chicago’s Center for Experiential Learning ([https://www.luc.edu/celts/](https://www.luc.edu/celts/)), or Michigan State University’s Office of University Outreach and Engagement ([https://engage.msu.edu/about/overview](https://engage.msu.edu/about/overview)).
 
 </div>
@@ -160,8 +159,8 @@ Concrete steps to address known challenges:
 
 * Steer students toward real-world research that is relevant to one of the layered communities they are a part of: local to the campus or connected to an aspect of their own identities.
 * Prioritize working on and supporting digital scholarship that brings the library into the community virtually, as many of the mapping projects discussed above do.
-* Center individual and organizational mission statements in collaboration.  
-    Actively seek out potential campus partners to build stronger community connections.  
+* Center individual and organizational mission statements in collaboration.
+    Actively seek out potential campus partners to build stronger community connections.
     Resist the self-limiting narrative of the scope of librarianship.
 * While recognizing personal capacity limits, advocate for labor equity within and beyond the library.
 * Weave strong internal networks of collaborators to support and nurture you while you do this work.
